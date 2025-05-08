@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0">
+  <title>FSnip Test Feed</title>
+  <link>http://www.fssnip.com</link>
+  <description>Some independent F# functions and code</description>
+  <language>en-us</language>
+  <channel>
+    <item>
+      <title>A Facebook crawler was making 7M requests per day to my stupid website</title>
+      <link>https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/</link>
+      <guid>https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=31703087. 
+Posted 4 times with 1074 median votes.</description>
+    </item>
+    <item>
+      <title>Free Lossless Image Format</title>
+      <link>http://flif.info/</link>
+      <guid>http://flif.info/</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=10317790. 
+Posted 4 times with 1254 median votes.</description>
+    </item>
+    <item>
+      <title>SpaceX launch webcast: Orbcomm-2 Mission [video]</title>
+      <link>http://spacex.com/webcast/</link>
+      <guid>http://spacex.com/webcast/</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=10774865. 
+Posted 3 times with 1284 median votes.</description>
+    </item>
+    <item>
+      <title>On Apple's Piss-Poor Documentation</title>
+      <link>https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation</link>
+      <guid>https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=25046691. 
+Posted 3 times with 1180 median votes.</description>
+    </item>
+    <item>
+      <title>How to do a code review</title>
+      <link>https://google.github.io/eng-practices/review/reviewer/</link>
+      <guid>https://google.github.io/eng-practices/review/reviewer/</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=20890682. 
+Posted 3 times with 1471 median votes.</description>
+    </item>
+    <item>
+      <title>Comic Mono</title>
+      <link>https://dtinth.github.io/comic-mono-font/</link>
+      <guid>https://dtinth.github.io/comic-mono-font/</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=41585156. 
+Posted 7 times with 643 median votes.</description>
+    </item>
+    <item>
+      <title>The boring technology behind a one-person Internet company (2018)</title>
+      <link>https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b</link>
+      <guid>https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=20985875. 
+Posted 3 times with 2010 median votes.</description>
+    </item>
+    <item>
+      <title>Stable Diffusion is a big deal</title>
+      <link>https://simonwillison.net/2022/Aug/29/stable-diffusion/</link>
+      <guid>https://simonwillison.net/2022/Aug/29/stable-diffusion/</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=32636760. 
+Posted 4 times with 874 median votes.</description>
+    </item>
+    <item>
+      <title>Nearly 40% of software engineers will only work remotely</title>
+      <link>https://www.techtarget.com/searchhrsoftware/news/365531979/Nearly-40-of-software-engineers-will-only-work-remotely</link>
+      <guid>https://www.techtarget.com/searchhrsoftware/news/365531979/Nearly-40-of-software-engineers-will-only-work-remotely</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=41916804. 
+Posted 7 times with 476 median votes.</description>
+    </item>
+    <item>
+      <title>Ingesting PDFs and why Gemini 2.0 changes everything</title>
+      <link>https://www.sergey.fyi/articles/gemini-flash-2</link>
+      <guid>https://www.sergey.fyi/articles/gemini-flash-2</guid>
+      <pubDate>Thu, 08 May 2025 12:13:35 GMT</pubDate>
+      <description>Comments most recent post: https://news.ycombinator.com/item?id=42952605. 
+Posted 4 times with 1303 median votes.</description>
+    </item>
+  </channel>
+</rss>
