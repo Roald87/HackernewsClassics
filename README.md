@@ -1,5 +1,6 @@
 # Hacker News Classics
-A daily updated RSS feed with classic posts from Hacker News.
+
+A daily RSS feed with ten random classic posts from Hacker News. Sampled from `classic.tsv`.
 
 Add this url to your favorite RSS reader:
 
