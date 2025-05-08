@@ -20,7 +20,7 @@ jobs:
         dotnet-version: 9.0.x
         
     - name: Generate RSS feed
-      run: dotnet fsi .\Main.fsx
+      run: dotnet fsi Main.fsx
       
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
