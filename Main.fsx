@@ -16,7 +16,13 @@ type RssItem =
       Description: string }
 
 
-// load tab seperated file and ignore the lines at the top that start with a #
+let description (row: string array) =
+    let link = $"https://news.ycombinator.com/item?id={row[1]}"
+
+    $"""<p>Comments most recent post: <a href="{link}">{link}</a>.</p> 
+    <p>Posted {row[4]} times with {row[5]} median votes.</p>"""
+
+// load tab separated file and ignore the lines at the top that start with a #
 let classics =
     File.ReadAllLines "classics.tsv"
     |> Seq.filter (fun line -> not (line.StartsWith "#"))
@@ -26,9 +32,7 @@ let classics =
         { Title = parts.[2]
           Link = parts.[3]
           ReleaseDate = DateTimeOffset.Now
-          Description =
-            $"""Comments most recent post: https://news.ycombinator.com/item?id={parts.[1]}. 
-Posted {parts[4]} times with {parts[5]} median votes.""" })
+          Description = description parts })
     |> Seq.toList
 
 // Source: https://fssnip.net/7QI by Tuomas Hietanen
