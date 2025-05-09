@@ -68,6 +68,9 @@ let myChannelFeed (channelTitle: string) (channelLink: string) (channelDescripti
     )
 
 let generateFeed =
-    myChannelFeed "FSnip Test Feed" "http://www.fssnip.com" "Some independent F# functions and code"
+    myChannelFeed
+        "Hacker News Classics"
+        "https://raw.githubusercontent.com/Roald87/HackernewsClassics/refs/heads/main/rss.xml"
+        "Ten random Hacker News classics in a RSS feed."
 
 generateFeed classics |> fun doc -> doc.Save "rss.xml"
