@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Getting forked by Microsoft</title>
-      <link>https://philiplaine.com/posts/getting-forked-by-microsoft/</link>
-      <guid>https://philiplaine.com/posts/getting-forked-by-microsoft/</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43750535"&gt;https://news.ycombinator.com/item?id=43750535&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 1865 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Lonely Work of Moderating Hacker News</title>
-      <link>https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news</link>
-      <guid>https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43561809"&gt;https://news.ycombinator.com/item?id=43561809&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 9 times with 615 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stable Diffusion is a big deal</title>
-      <link>https://simonwillison.net/2022/Aug/29/stable-diffusion/</link>
-      <guid>https://simonwillison.net/2022/Aug/29/stable-diffusion/</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=32636760"&gt;https://news.ycombinator.com/item?id=32636760&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 874 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Magic Wormhole: Get things from one computer to another, safely</title>
-      <link>https://github.com/magic-wormhole/magic-wormhole</link>
-      <guid>https://github.com/magic-wormhole/magic-wormhole</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=41275920"&gt;https://news.ycombinator.com/item?id=41275920&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 6 times with 560 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Penpot: Open-source design and prototyping platform</title>
-      <link>https://penpot.app/</link>
-      <guid>https://penpot.app/</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40218463"&gt;https://news.ycombinator.com/item?id=40218463&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 6 times with 719.5 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My daughter's school took over my personal Microsoft account</title>
-      <link>https://www.jeffgeerling.com/blog/2023/my-daughters-school-took-over-my-personal-microsoft-account</link>
-      <guid>https://www.jeffgeerling.com/blog/2023/my-daughters-school-took-over-my-personal-microsoft-account</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=34934280"&gt;https://news.ycombinator.com/item?id=34934280&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1346 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>I Charged $18k for a Static HTML Page</title>
       <link>https://idiallo.com/blog/18000-dollars-static-web-page</link>
       <guid>https://idiallo.com/blog/18000-dollars-static-web-page</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
       <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=19921386"&gt;https://news.ycombinator.com/item?id=19921386&lt;/a&gt;.&lt;/p&gt; 
     &lt;p&gt;Posted 4 times with 1148 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>John Carmack Leaves Meta</title>
-      <link>https://www.facebook.com/100006735798590/posts/i-resigned-from-my-position-as-an-executive-consultant-for-vr-with-meta-my-inter/3467566940144465/</link>
-      <guid>https://www.facebook.com/100006735798590/posts/i-resigned-from-my-position-as-an-executive-consultant-for-vr-with-meta-my-inter/3467566940144465/</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=34028079"&gt;https://news.ycombinator.com/item?id=34028079&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 1875 median votes.&lt;/p&gt;</description>
+      <title>Ntfy.sh – Send push notifications to your phone via PUT/POST</title>
+      <link>https://ntfy.sh/</link>
+      <guid>https://ntfy.sh/</guid>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=33517944"&gt;https://news.ycombinator.com/item?id=33517944&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1346 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Watching o3 guess a photo's location is surreal, dystopian and entertaining</title>
-      <link>https://simonwillison.net/2025/Apr/26/o3-photo-locations/</link>
-      <guid>https://simonwillison.net/2025/Apr/26/o3-photo-locations/</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43803243"&gt;https://news.ycombinator.com/item?id=43803243&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 987 median votes.&lt;/p&gt;</description>
+      <title>Productivity</title>
+      <link>https://blog.samaltman.com/productivity</link>
+      <guid>https://blog.samaltman.com/productivity</guid>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=16802530"&gt;https://news.ycombinator.com/item?id=16802530&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1264 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Things I’ve learned in my 20 years as a software engineer</title>
-      <link>https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/</link>
-      <guid>https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/</guid>
-      <pubDate>Fri, 27 Jun 2025 01:42:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=34434636"&gt;https://news.ycombinator.com/item?id=34434636&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1605 median votes.&lt;/p&gt;</description>
+      <title>My Current HTML Boilerplate</title>
+      <link>https://www.matuzo.at/blog/html-boilerplate/</link>
+      <guid>https://www.matuzo.at/blog/html-boilerplate/</guid>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=26952557"&gt;https://news.ycombinator.com/item?id=26952557&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1194 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Former Tesla Firmware Engineer Discusses the System</title>
+      <link>https://twitter.com/atomicthumbs/status/1032939617404645376</link>
+      <guid>https://twitter.com/atomicthumbs/status/1032939617404645376</guid>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=32674067"&gt;https://news.ycombinator.com/item?id=32674067&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 7 times with 948 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Despite having just 5.8% sales, over 38% of bug reports come from Linux</title>
+      <link>https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/</link>
+      <guid>https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/</guid>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38392931"&gt;https://news.ycombinator.com/item?id=38392931&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 870 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Groq runs Mixtral 8x7B-32k with 500 T/s</title>
+      <link>https://groq.com/</link>
+      <guid>https://groq.com/</guid>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39428880"&gt;https://news.ycombinator.com/item?id=39428880&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 6 times with 847 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eloquent JavaScript 4th edition (2024)</title>
+      <link>https://eloquentjavascript.net/</link>
+      <guid>https://eloquentjavascript.net/</guid>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39629044"&gt;https://news.ycombinator.com/item?id=39629044&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 6 times with 1274 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cognitive load is what matters</title>
+      <link>https://minds.md/zakirullin/cognitive</link>
+      <guid>https://minds.md/zakirullin/cognitive</guid>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42489645"&gt;https://news.ycombinator.com/item?id=42489645&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1769 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The early days of Linux</title>
+      <link>https://lwn.net/SubscriberLink/928581/841b747332791ac4/</link>
+      <guid>https://lwn.net/SubscriberLink/928581/841b747332791ac4/</guid>
+      <pubDate>Sat, 28 Jun 2025 01:38:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35557848"&gt;https://news.ycombinator.com/item?id=35557848&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1378 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
