@@ -26,7 +26,7 @@ let description (row: string array) =
 let classics =
     File.ReadAllLines "classics.tsv"
     |> Seq.filter (fun line -> not (line.StartsWith "#"))
-    |> Seq.map (fun line -> line.Split('\t'))
+    |> Seq.map (fun line -> line.Split '\t')
     |> Seq.randomSample 10
     |> Seq.map (fun parts ->
         { Title = parts.[2]
