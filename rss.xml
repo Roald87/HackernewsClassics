@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Bun v1.0.0</title>
-      <link>https://bun.sh/blog/bun-v1.0</link>
-      <guid>https://bun.sh/blog/bun-v1.0</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37436955"&gt;https://news.ycombinator.com/item?id=37436955&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 6 times with 590.5 median votes.&lt;/p&gt;</description>
+      <title>Reflecting on My Failure to Build a Billion-Dollar Company</title>
+      <link>https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7</link>
+      <guid>https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=19105733"&gt;https://news.ycombinator.com/item?id=19105733&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 2101 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Embrace the Grind</title>
-      <link>https://jacobian.org/2021/apr/7/embrace-the-grind/</link>
-      <guid>https://jacobian.org/2021/apr/7/embrace-the-grind/</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42948703"&gt;https://news.ycombinator.com/item?id=42948703&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 1167 median votes.&lt;/p&gt;</description>
+      <title>The 'Fuck You' Pattern</title>
+      <link>https://cedwards.xyz/the-fuck-you-pattern/</link>
+      <guid>https://cedwards.xyz/the-fuck-you-pattern/</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=36467224"&gt;https://news.ycombinator.com/item?id=36467224&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 6 times with 872.5 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Every time you click this link, it will send you to a random Web 1.0 website</title>
-      <link>https://wiby.me/surprise/</link>
-      <guid>https://wiby.me/surprise/</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=36739920"&gt;https://news.ycombinator.com/item?id=36739920&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1352 median votes.&lt;/p&gt;</description>
+      <title>OSSU: Path to a free, self-taught education in computer science</title>
+      <link>https://github.com/ossu/computer-science</link>
+      <guid>https://github.com/ossu/computer-science</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44089150"&gt;https://news.ycombinator.com/item?id=44089150&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 10 times with 474 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>“I have toyota corola”</title>
-      <link>https://daniel.haxx.se/blog/2016/11/14/i-have-toyota-corola/</link>
-      <guid>https://daniel.haxx.se/blog/2016/11/14/i-have-toyota-corola/</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=34015142"&gt;https://news.ycombinator.com/item?id=34015142&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1155 median votes.&lt;/p&gt;</description>
+      <title>Claude 3.7 Sonnet and Claude Code</title>
+      <link>https://www.anthropic.com/news/claude-3-7-sonnet</link>
+      <guid>https://www.anthropic.com/news/claude-3-7-sonnet</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43163011"&gt;https://news.ycombinator.com/item?id=43163011&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 2127 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Free Lossless Image Format</title>
-      <link>http://flif.info/</link>
-      <guid>http://flif.info/</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=10317790"&gt;https://news.ycombinator.com/item?id=10317790&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1254 median votes.&lt;/p&gt;</description>
+      <title>Htmlq: like jq, but for html</title>
+      <link>https://github.com/mgdm/htmlq</link>
+      <guid>https://github.com/mgdm/htmlq</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39761419"&gt;https://news.ycombinator.com/item?id=39761419&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 961 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Instagram can track anything you do on any website in their in-app browser</title>
-      <link>https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser</link>
-      <guid>https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=32415470"&gt;https://news.ycombinator.com/item?id=32415470&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1258 median votes.&lt;/p&gt;</description>
+      <title>The time bomb in the tax code that's fueling mass tech layoffs</title>
+      <link>https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502</link>
+      <guid>https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44180533"&gt;https://news.ycombinator.com/item?id=44180533&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1575 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Email is your electronic memory</title>
-      <link>https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/</link>
-      <guid>https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=16380345"&gt;https://news.ycombinator.com/item?id=16380345&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1248 median votes.&lt;/p&gt;</description>
+      <title>CVE program faces swift end after DHS fails to renew contract [updated]</title>
+      <link>https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html</link>
+      <guid>https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43700607"&gt;https://news.ycombinator.com/item?id=43700607&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1934 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Twitter to ban political advertising</title>
-      <link>https://twitter.com/jack/status/1189634360472829952</link>
-      <guid>https://twitter.com/jack/status/1189634360472829952</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=21401973"&gt;https://news.ycombinator.com/item?id=21401973&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 2447 median votes.&lt;/p&gt;</description>
+      <title>Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf</title>
+      <link>https://ericdraken.com/pfsense-decrypt-ad-traffic/</link>
+      <guid>https://ericdraken.com/pfsense-decrypt-ad-traffic/</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43396735"&gt;https://news.ycombinator.com/item?id=43396735&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1198 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How I cut GTA Online loading times by 70%</title>
-      <link>https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/</link>
-      <guid>https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38921237"&gt;https://news.ycombinator.com/item?id=38921237&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 6 times with 2179.5 median votes.&lt;/p&gt;</description>
+      <title>Are Xiaomi browsers spyware? Yes, they are (2020)</title>
+      <link>https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../</link>
+      <guid>https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=26306661"&gt;https://news.ycombinator.com/item?id=26306661&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1215 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>City Generator</title>
-      <link>https://watabou.github.io/city-generator/</link>
-      <guid>https://watabou.github.io/city-generator/</guid>
-      <pubDate>Thu, 31 Jul 2025 01:49:49 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=30338074"&gt;https://news.ycombinator.com/item?id=30338074&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1211 median votes.&lt;/p&gt;</description>
+      <title>Goodbye Microservices: From 100s of problem children to 1 superstar</title>
+      <link>https://segment.com/blog/goodbye-microservices/</link>
+      <guid>https://segment.com/blog/goodbye-microservices/</guid>
+      <pubDate>Fri, 01 Aug 2025 01:59:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=17499137"&gt;https://news.ycombinator.com/item?id=17499137&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1277 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
