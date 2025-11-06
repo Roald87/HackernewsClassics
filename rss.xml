@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>My full statement regarding DOOM Eternal</title>
-      <link>https://medium.com/@mickgordon/my-full-statement-regarding-doom-eternal-5f98266b27ce</link>
-      <guid>https://medium.com/@mickgordon/my-full-statement-regarding-doom-eternal-5f98266b27ce</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43998196"&gt;https://news.ycombinator.com/item?id=43998196&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 922 median votes.&lt;/p&gt;</description>
+      <title>Jujutsu – A Git-compatible DVCS that is both simple and powerful</title>
+      <link>https://github.com/martinvonz/jj</link>
+      <guid>https://github.com/martinvonz/jj</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=36952796"&gt;https://news.ycombinator.com/item?id=36952796&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 8 times with 673 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Apple Terminates Epic Games' Developer Account</title>
-      <link>https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/</link>
-      <guid>https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=24309632"&gt;https://news.ycombinator.com/item?id=24309632&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1169 median votes.&lt;/p&gt;</description>
+      <title>Forking Chrome to render in a terminal</title>
+      <link>https://fathy.fr/carbonyl</link>
+      <guid>https://fathy.fr/carbonyl</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43355127"&gt;https://news.ycombinator.com/item?id=43355127&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 6 times with 1182 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Choose Boring Technology</title>
-      <link>http://boringtechnology.club/</link>
-      <guid>http://boringtechnology.club/</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=26211721"&gt;https://news.ycombinator.com/item?id=26211721&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1357 median votes.&lt;/p&gt;</description>
+      <title>Adobe tricks users into a 12 month contract</title>
+      <link>https://twitter.com/darkpatterns/status/1489901640777973768</link>
+      <guid>https://twitter.com/darkpatterns/status/1489901640777973768</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38663564"&gt;https://news.ycombinator.com/item?id=38663564&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1607 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Log4j RCE Found</title>
-      <link>https://www.lunasec.io/docs/blog/log4j-zero-day/</link>
-      <guid>https://www.lunasec.io/docs/blog/log4j-zero-day/</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=29505477"&gt;https://news.ycombinator.com/item?id=29505477&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1385 median votes.&lt;/p&gt;</description>
+      <title>Codeberg: a free, non-commercial GitHub alternative</title>
+      <link>https://codeberg.org/</link>
+      <guid>https://codeberg.org/</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35480056"&gt;https://news.ycombinator.com/item?id=35480056&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 7 times with 503 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Llama.cpp 30B runs with only 6GB of RAM now</title>
-      <link>https://github.com/ggerganov/llama.cpp/pull/613</link>
-      <guid>https://github.com/ggerganov/llama.cpp/pull/613</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35393284"&gt;https://news.ycombinator.com/item?id=35393284&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1311 median votes.&lt;/p&gt;</description>
+      <title>Dev corrupts NPM libs 'colors' and 'faker', breaking thousands of apps</title>
+      <link>https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/</link>
+      <guid>https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=29863672"&gt;https://news.ycombinator.com/item?id=29863672&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 924 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>FTC sues Amazon for illegally maintaining monopoly power</title>
-      <link>https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power</link>
-      <guid>https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37661446"&gt;https://news.ycombinator.com/item?id=37661446&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1139 median votes.&lt;/p&gt;</description>
+      <title>Bram Moolenaar has died</title>
+      <link>https://groups.google.com/g/vim_announce/c/tWahca9zkt4</link>
+      <guid>https://groups.google.com/g/vim_announce/c/tWahca9zkt4</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37011324"&gt;https://news.ycombinator.com/item?id=37011324&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 4310 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Roblox October Outage Postmortem</title>
-      <link>https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/</link>
-      <guid>https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=30013919"&gt;https://news.ycombinator.com/item?id=30013919&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 6 times with 687 median votes.&lt;/p&gt;</description>
+      <title>WhatsApp Co-Founder Donates $1M to FreeBSD Foundation</title>
+      <link>http://freebsdfoundation.blogspot.com/2014/11/freebsd-foundation-announces-generous.html?HN</link>
+      <guid>http://freebsdfoundation.blogspot.com/2014/11/freebsd-foundation-announces-generous.html?HN</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=8620716"&gt;https://news.ycombinator.com/item?id=8620716&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1230 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Email is your electronic memory</title>
-      <link>https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/</link>
-      <guid>https://blog.fastmail.com/2018/02/14/email-is-your-electronic-memory/</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=16380345"&gt;https://news.ycombinator.com/item?id=16380345&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1248 median votes.&lt;/p&gt;</description>
+      <title>Zoom Acquires Keybase</title>
+      <link>https://keybase.io/blog/keybase-joins-zoom</link>
+      <guid>https://keybase.io/blog/keybase-joins-zoom</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=23104702"&gt;https://news.ycombinator.com/item?id=23104702&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 5 times with 1879 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Docker is deleting Open Source organisations - what you need to know</title>
-      <link>https://blog.alexellis.io/docker-is-deleting-open-source-images/</link>
-      <guid>https://blog.alexellis.io/docker-is-deleting-open-source-images/</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35166317"&gt;https://news.ycombinator.com/item?id=35166317&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1556 median votes.&lt;/p&gt;</description>
+      <title>Why Is This Website Port Scanning Me?</title>
+      <link>https://nullsweep.com/why-is-this-website-port-scanning-me/</link>
+      <guid>https://nullsweep.com/why-is-this-website-port-scanning-me/</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=23246170"&gt;https://news.ycombinator.com/item?id=23246170&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1294 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Draw.io: Online Diagramming Website</title>
-      <link>https://github.com/jgraph/drawio</link>
-      <guid>https://github.com/jgraph/drawio</guid>
-      <pubDate>Wed, 05 Nov 2025 01:38:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37137448"&gt;https://news.ycombinator.com/item?id=37137448&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 1091 median votes.&lt;/p&gt;</description>
+      <title>Governor vows criminal prosecution of reporter who found flaw in state website</title>
+      <link>https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/</link>
+      <guid>https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/</guid>
+      <pubDate>Thu, 06 Nov 2025 01:37:54 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28866805"&gt;https://news.ycombinator.com/item?id=28866805&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1300 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
