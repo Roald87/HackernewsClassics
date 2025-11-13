@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Clock</title>
-      <link>https://oimo.io/works/clock/</link>
-      <guid>https://oimo.io/works/clock/</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35620291"&gt;https://news.ycombinator.com/item?id=35620291&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1232 median votes.&lt;/p&gt;</description>
+      <title>Hacking ADHD: Strategies for the modern developer</title>
+      <link>https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer</link>
+      <guid>https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38274782"&gt;https://news.ycombinator.com/item?id=38274782&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 5 times with 732 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Load Balancing</title>
-      <link>https://samwho.dev/load-balancing/</link>
-      <guid>https://samwho.dev/load-balancing/</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35588797"&gt;https://news.ycombinator.com/item?id=35588797&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1143 median votes.&lt;/p&gt;</description>
+      <title>Larry Ellison allegedly tried to have a professor fired for benchmarking Oracle</title>
+      <link>https://danluu.com/anon-benchmark/</link>
+      <guid>https://danluu.com/anon-benchmark/</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28599349"&gt;https://news.ycombinator.com/item?id=28599349&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 6 times with 660 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OSSU: Path to a free, self-taught education in computer science</title>
-      <link>https://github.com/ossu/computer-science</link>
-      <guid>https://github.com/ossu/computer-science</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44089150"&gt;https://news.ycombinator.com/item?id=44089150&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 10 times with 474 median votes.&lt;/p&gt;</description>
+      <title>Etcd, or, why modern software makes me sad</title>
+      <link>https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/</link>
+      <guid>https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=23833362"&gt;https://news.ycombinator.com/item?id=23833362&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1285 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Apple's apps bypass firewalls like LittleSnitch and LuLu on macOS Big Sur</title>
-      <link>https://twitter.com/patrickwardle/status/1318465421796782082</link>
-      <guid>https://twitter.com/patrickwardle/status/1318465421796782082</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=24838816"&gt;https://news.ycombinator.com/item?id=24838816&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1183 median votes.&lt;/p&gt;</description>
+      <title>How to Work Hard</title>
+      <link>http://paulgraham.com/hwh.html</link>
+      <guid>http://paulgraham.com/hwh.html</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=27675603"&gt;https://news.ycombinator.com/item?id=27675603&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1223 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Goodbye Microservices: From 100s of problem children to 1 superstar</title>
-      <link>https://segment.com/blog/goodbye-microservices/</link>
-      <guid>https://segment.com/blog/goodbye-microservices/</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=17499137"&gt;https://news.ycombinator.com/item?id=17499137&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1277 median votes.&lt;/p&gt;</description>
+      <title>Freenginx: Core Nginx developer announces fork</title>
+      <link>https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html</link>
+      <guid>https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39373327"&gt;https://news.ycombinator.com/item?id=39373327&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1131 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Rich Harris joins Vercel to work on Svelte full time</title>
-      <link>https://twitter.com/Rich_Harris/status/1458822051263823875</link>
-      <guid>https://twitter.com/Rich_Harris/status/1458822051263823875</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=29189467"&gt;https://news.ycombinator.com/item?id=29189467&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 907 median votes.&lt;/p&gt;</description>
+      <title>Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to</title>
+      <link>https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&amp;cmp=em-data-na-na-newsltr_20171213&amp;slide=id.g183f28bdc3_0_90</link>
+      <guid>https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&amp;cmp=em-data-na-na-newsltr_20171213&amp;slide=id.g183f28bdc3_0_90</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=15919115"&gt;https://news.ycombinator.com/item?id=15919115&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1656 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>When you browse Instagram and find Tony Abbott's passport number</title>
-      <link>https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram</link>
-      <guid>https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=34966909"&gt;https://news.ycombinator.com/item?id=34966909&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 7 times with 2326 median votes.&lt;/p&gt;</description>
+      <title>Draw SVG rope using JavaScript</title>
+      <link>https://muffinman.io/blog/draw-svg-rope-using-javascript/</link>
+      <guid>https://muffinman.io/blog/draw-svg-rope-using-javascript/</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=34197379"&gt;https://news.ycombinator.com/item?id=34197379&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1211 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Day AppGet Died</title>
-      <link>https://keivan.io/the-day-appget-died/</link>
-      <guid>https://keivan.io/the-day-appget-died/</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=30384191"&gt;https://news.ycombinator.com/item?id=30384191&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 6 times with 1078.5 median votes.&lt;/p&gt;</description>
+      <title>An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology</title>
+      <link>https://appleprivacyletter.com/</link>
+      <guid>https://appleprivacyletter.com/</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28085632"&gt;https://news.ycombinator.com/item?id=28085632&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1187 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Google’s copying of the Java SE API was fair use [pdf]</title>
-      <link>https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf</link>
-      <guid>https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=26699106"&gt;https://news.ycombinator.com/item?id=26699106&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 4103 median votes.&lt;/p&gt;</description>
+      <title>Do-nothing scripting: the key to gradual automation (2019)</title>
+      <link>https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/</link>
+      <guid>https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42976698"&gt;https://news.ycombinator.com/item?id=42976698&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 10 times with 645 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Mullvad Browser</title>
-      <link>https://mullvad.net/en/browser</link>
-      <guid>https://mullvad.net/en/browser</guid>
-      <pubDate>Wed, 12 Nov 2025 01:38:20 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35421034"&gt;https://news.ycombinator.com/item?id=35421034&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1182 median votes.&lt;/p&gt;</description>
+      <title>NPM and Left-Pad: Have We Forgotten How to Program?</title>
+      <link>http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/</link>
+      <guid>http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/</guid>
+      <pubDate>Thu, 13 Nov 2025 01:39:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=11348798"&gt;https://news.ycombinator.com/item?id=11348798&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1725 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
