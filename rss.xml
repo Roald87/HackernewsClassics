@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Show HN: Trading cards made with e-ink displays</title>
-      <link>https://www.wyldcard.io/blog/introducing-wyldcard</link>
-      <guid>https://www.wyldcard.io/blog/introducing-wyldcard</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=33795296"&gt;https://news.ycombinator.com/item?id=33795296&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1149 median votes.&lt;/p&gt;</description>
+      <title>Show HN: Obsidian – A knowledge base that works on local Markdown files</title>
+      <link>https://obsidian.md/</link>
+      <guid>https://obsidian.md/</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28894481"&gt;https://news.ycombinator.com/item?id=28894481&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 8 times with 855.5 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Cloud Computer</title>
-      <link>https://oxide.computer/blog/the-cloud-computer</link>
-      <guid>https://oxide.computer/blog/the-cloud-computer</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38023891"&gt;https://news.ycombinator.com/item?id=38023891&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1880 median votes.&lt;/p&gt;</description>
+      <title>Knuth's Art of Computer Programming, V 4B, has gone into print</title>
+      <link>https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b</link>
+      <guid>https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=33082128"&gt;https://news.ycombinator.com/item?id=33082128&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 5 times with 940 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>I tested four NVMe SSDs from four vendors – half lose FLUSH’d data on power loss</title>
-      <link>https://twitter.com/xenadu02/status/1495693475584557056</link>
-      <guid>https://twitter.com/xenadu02/status/1495693475584557056</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38371307"&gt;https://news.ycombinator.com/item?id=38371307&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 7 times with 797 median votes.&lt;/p&gt;</description>
+      <title>Llama.cpp 30B runs with only 6GB of RAM now</title>
+      <link>https://github.com/ggerganov/llama.cpp/pull/613</link>
+      <guid>https://github.com/ggerganov/llama.cpp/pull/613</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35393284"&gt;https://news.ycombinator.com/item?id=35393284&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1311 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Five minute guide to better typography</title>
-      <link>http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography</link>
-      <guid>http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=15424478"&gt;https://news.ycombinator.com/item?id=15424478&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 868 median votes.&lt;/p&gt;</description>
+      <title>Vernor Vinge has died</title>
+      <link>https://file770.com/vernor-vinge-1944-2024/</link>
+      <guid>https://file770.com/vernor-vinge-1944-2024/</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39775304"&gt;https://news.ycombinator.com/item?id=39775304&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1151 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Scrcpy: Display and control your Android devices connected over USB or TCP/IP</title>
-      <link>https://github.com/Genymobile/scrcpy</link>
-      <guid>https://github.com/Genymobile/scrcpy</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35749366"&gt;https://news.ycombinator.com/item?id=35749366&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 681 median votes.&lt;/p&gt;</description>
+      <title>Ingesting PDFs and why Gemini 2.0 changes everything</title>
+      <link>https://www.sergey.fyi/articles/gemini-flash-2</link>
+      <guid>https://www.sergey.fyi/articles/gemini-flash-2</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42952605"&gt;https://news.ycombinator.com/item?id=42952605&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1303 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Gitlab: don't discuss politics at work</title>
-      <link>https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/</link>
-      <guid>https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=21274511"&gt;https://news.ycombinator.com/item?id=21274511&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1166 median votes.&lt;/p&gt;</description>
+      <title>Before OpenAI, Sam Altman was fired from Y Combinator by his mentor</title>
+      <link>https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/</link>
+      <guid>https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38378216"&gt;https://news.ycombinator.com/item?id=38378216&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 5 times with 1011 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Draw an iceberg and see how it will float</title>
-      <link>https://joshdata.me/iceberger.html</link>
-      <guid>https://joshdata.me/iceberger.html</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40620472"&gt;https://news.ycombinator.com/item?id=40620472&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1028.5 median votes.&lt;/p&gt;</description>
+      <title>How to be a Manager – A step-by-step guide to leading a team</title>
+      <link>https://getweeklyupdate.com/manager-guide</link>
+      <guid>https://getweeklyupdate.com/manager-guide</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=17238135"&gt;https://news.ycombinator.com/item?id=17238135&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1631 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Turns out half the internet has a single-point-of-failure called “Cloudflare”</title>
-      <link>https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/</link>
-      <guid>https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=32707543"&gt;https://news.ycombinator.com/item?id=32707543&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 972 median votes.&lt;/p&gt;</description>
+      <title>When you browse Instagram and find Tony Abbott's passport number</title>
+      <link>https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram</link>
+      <guid>https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=34966909"&gt;https://news.ycombinator.com/item?id=34966909&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 7 times with 2326 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>IoT hacking and rickrolling my high school district</title>
-      <link>https://whitehoodhacker.net/posts/2021-10-04-the-big-rick</link>
-      <guid>https://whitehoodhacker.net/posts/2021-10-04-the-big-rick</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28844101"&gt;https://news.ycombinator.com/item?id=28844101&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1912 median votes.&lt;/p&gt;</description>
+      <title>Show HN: Make your site’s pages instant in one minute</title>
+      <link>https://instant.page/</link>
+      <guid>https://instant.page/</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=24476059"&gt;https://news.ycombinator.com/item?id=24476059&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 5 times with 1214 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Testcontainers</title>
-      <link>https://testcontainers.com/</link>
-      <guid>https://testcontainers.com/</guid>
-      <pubDate>Sun, 30 Nov 2025 01:48:34 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39531536"&gt;https://news.ycombinator.com/item?id=39531536&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 719 median votes.&lt;/p&gt;</description>
+      <title>Swift is Open Source</title>
+      <link>https://swift.org/</link>
+      <guid>https://swift.org/</guid>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44184542"&gt;https://news.ycombinator.com/item?id=44184542&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1824 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
