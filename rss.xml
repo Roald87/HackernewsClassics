@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Signal Foundation</title>
-      <link>https://signal.org/blog/signal-foundation/</link>
-      <guid>https://signal.org/blog/signal-foundation/</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=25720872"&gt;https://news.ycombinator.com/item?id=25720872&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1314 median votes.&lt;/p&gt;</description>
+      <title>Log4j RCE Found</title>
+      <link>https://www.lunasec.io/docs/blog/log4j-zero-day/</link>
+      <guid>https://www.lunasec.io/docs/blog/log4j-zero-day/</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=29505477"&gt;https://news.ycombinator.com/item?id=29505477&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1385 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Apple removes game after Chinese company cloned, trademarked, requested takedown</title>
-      <link>https://www.reddit.com/r/gamedev/comments/bs6n3l/apple_removed_my_game_from_the_app_store_because/</link>
-      <guid>https://www.reddit.com/r/gamedev/comments/bs6n3l/apple_removed_my_game_from_the_app_store_because/</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=19997188"&gt;https://news.ycombinator.com/item?id=19997188&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1276 median votes.&lt;/p&gt;</description>
+      <title>Bend: a high-level language that runs on GPUs (via HVM2)</title>
+      <link>https://github.com/HigherOrderCO/Bend</link>
+      <guid>https://github.com/HigherOrderCO/Bend</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40390287"&gt;https://news.ycombinator.com/item?id=40390287&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1041 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sapling: A new source control system with Git-compatible client</title>
-      <link>https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/</link>
-      <guid>https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=41501215"&gt;https://news.ycombinator.com/item?id=41501215&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 7 times with 926 median votes.&lt;/p&gt;</description>
+      <title>Apple Hides Taiwan Flag in Hong Kong</title>
+      <link>https://blog.emojipedia.org/apple-hides-taiwan-flag-in-hong-kong/</link>
+      <guid>https://blog.emojipedia.org/apple-hides-taiwan-flag-in-hong-kong/</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=21182705"&gt;https://news.ycombinator.com/item?id=21182705&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1456 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Zenbleed</title>
-      <link>https://lock.cmpxchg8b.com/zenbleed.html</link>
-      <guid>https://lock.cmpxchg8b.com/zenbleed.html</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=36848680"&gt;https://news.ycombinator.com/item?id=36848680&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1283 median votes.&lt;/p&gt;</description>
+      <title>Blocking Kiwifarms</title>
+      <link>https://blog.cloudflare.com/kiwifarms-blocked/</link>
+      <guid>https://blog.cloudflare.com/kiwifarms-blocked/</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=32706673"&gt;https://news.ycombinator.com/item?id=32706673&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 994 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>We reduced the cost of building Mastodon at Twitter-scale by 100x</title>
-      <link>https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/</link>
-      <guid>https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37137110"&gt;https://news.ycombinator.com/item?id=37137110&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 954 median votes.&lt;/p&gt;</description>
+      <title>An app can be a home-cooked meal (2020)</title>
+      <link>https://www.robinsloan.com/notes/home-cooked-app/</link>
+      <guid>https://www.robinsloan.com/notes/home-cooked-app/</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38877423"&gt;https://news.ycombinator.com/item?id=38877423&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 8 times with 803.5 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Comic Mono</title>
-      <link>https://dtinth.github.io/comic-mono-font/</link>
-      <guid>https://dtinth.github.io/comic-mono-font/</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=41585156"&gt;https://news.ycombinator.com/item?id=41585156&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 7 times with 643 median votes.&lt;/p&gt;</description>
+      <title>Save .org</title>
+      <link>https://savedotorg.org/</link>
+      <guid>https://savedotorg.org/</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=21611677"&gt;https://news.ycombinator.com/item?id=21611677&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 2297 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blocklist Facebook domains</title>
-      <link>https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all</link>
-      <guid>https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=31538630"&gt;https://news.ycombinator.com/item?id=31538630&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 6 times with 924 median votes.&lt;/p&gt;</description>
+      <title>I am an Uighur who faced China’s concentration camps</title>
+      <link>https://www.varsity.co.uk/interviews/19990</link>
+      <guid>https://www.varsity.co.uk/interviews/19990</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=24879870"&gt;https://news.ycombinator.com/item?id=24879870&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1242 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Today you, tomorrow me </title>
-      <link>http://www.reddit.com/r/AskReddit/comments/elal2/have_you_ever_picked_up_a_hitchhiker/c18z0z2</link>
-      <guid>http://www.reddit.com/r/AskReddit/comments/elal2/have_you_ever_picked_up_a_hitchhiker/c18z0z2</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=2003515"&gt;https://news.ycombinator.com/item?id=2003515&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1270 median votes.&lt;/p&gt;</description>
+      <title>Lotus 1-2-3 For Linux</title>
+      <link>https://lock.cmpxchg8b.com/linux123.html</link>
+      <guid>https://lock.cmpxchg8b.com/linux123.html</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37889666"&gt;https://news.ycombinator.com/item?id=37889666&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 5 times with 703 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>“A calculator app? Anyone could make that”</title>
-      <link>https://chadnauseam.com/coding/random/calculator-app</link>
-      <guid>https://chadnauseam.com/coding/random/calculator-app</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43066953"&gt;https://news.ycombinator.com/item?id=43066953&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1821 median votes.&lt;/p&gt;</description>
+      <title>Which Emoji Scissors Close?</title>
+      <link>https://wh0.github.io/2020/01/02/scissors.html</link>
+      <guid>https://wh0.github.io/2020/01/02/scissors.html</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=33360171"&gt;https://news.ycombinator.com/item?id=33360171&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1545 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A List of Hacker News's Undocumented Features and Behaviors</title>
-      <link>https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md</link>
-      <guid>https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md</guid>
-      <pubDate>Wed, 10 Dec 2025 01:43:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38773957"&gt;https://news.ycombinator.com/item?id=38773957&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 9 times with 653 median votes.&lt;/p&gt;</description>
+      <title>A Great Old-Timey Game-Programming Hack</title>
+      <link>http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html</link>
+      <guid>http://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html</guid>
+      <pubDate>Thu, 11 Dec 2025 01:43:59 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=18206463"&gt;https://news.ycombinator.com/item?id=18206463&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 7 times with 571 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
