@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Facebook executives shut down efforts to make the site less divisive</title>
-      <link>https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499</link>
-      <guid>https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=23313007"&gt;https://news.ycombinator.com/item?id=23313007&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1227 median votes.&lt;/p&gt;</description>
+      <title>Things we learned about LLMs in 2024</title>
+      <link>https://simonwillison.net/2024/Dec/31/llms-in-2024/</link>
+      <guid>https://simonwillison.net/2024/Dec/31/llms-in-2024/</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42560558"&gt;https://news.ycombinator.com/item?id=42560558&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 984 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>We reduced the cost of building Mastodon at Twitter-scale by 100x</title>
-      <link>https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/</link>
-      <guid>https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37137110"&gt;https://news.ycombinator.com/item?id=37137110&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 954 median votes.&lt;/p&gt;</description>
+      <title>The Fed says this is a cube of $1M. They're off by half a million</title>
+      <link>https://calvin.sh/blog/fed-lie/</link>
+      <guid>https://calvin.sh/blog/fed-lie/</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44435484"&gt;https://news.ycombinator.com/item?id=44435484&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1478 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Daft Punk Break Up</title>
-      <link>https://pitchfork.com/news/daft-punk-call-it-quits/</link>
-      <guid>https://pitchfork.com/news/daft-punk-call-it-quits/</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=26225201"&gt;https://news.ycombinator.com/item?id=26225201&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1108 median votes.&lt;/p&gt;</description>
+      <title>Google Fiber Plans &amp; Pricing</title>
+      <link>http://fiber.google.com/plans/residential/</link>
+      <guid>http://fiber.google.com/plans/residential/</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=4296898"&gt;https://news.ycombinator.com/item?id=4296898&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1139 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Apple's apps bypass firewalls like LittleSnitch and LuLu on macOS Big Sur</title>
-      <link>https://twitter.com/patrickwardle/status/1318465421796782082</link>
-      <guid>https://twitter.com/patrickwardle/status/1318465421796782082</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=24838816"&gt;https://news.ycombinator.com/item?id=24838816&lt;/a&gt;.&lt;/p&gt; 
+      <title>Show HN: I built an app to stop me doomscrolling by touching grass</title>
+      <link>https://touchgrass.now/</link>
+      <guid>https://touchgrass.now/</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43158660"&gt;https://news.ycombinator.com/item?id=43158660&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1203 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Janet: a lightweight, expressive and modern Lisp</title>
+      <link>https://janet-lang.org</link>
+      <guid>https://janet-lang.org</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=34843306"&gt;https://news.ycombinator.com/item?id=34843306&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 9 times with 408 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>55 GiB/s FizzBuzz</title>
+      <link>https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630</link>
+      <guid>https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=36568192"&gt;https://news.ycombinator.com/item?id=36568192&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 5 times with 1260 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QOI: Lossless Image Compression in O(n) Time</title>
+      <link>https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression</link>
+      <guid>https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35448357"&gt;https://news.ycombinator.com/item?id=35448357&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1057 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IoT hacking and rickrolling my high school district</title>
+      <link>https://whitehoodhacker.net/posts/2021-10-04-the-big-rick</link>
+      <guid>https://whitehoodhacker.net/posts/2021-10-04-the-big-rick</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28844101"&gt;https://news.ycombinator.com/item?id=28844101&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1912 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: GPT-4-powered web searches for developers</title>
+      <link>https://www.phind.com</link>
+      <guid>https://www.phind.com</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35543668"&gt;https://news.ycombinator.com/item?id=35543668&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1401 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jimmy Carter has died</title>
+      <link>https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/</link>
+      <guid>https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/</guid>
+      <pubDate>Wed, 07 Jan 2026 01:46:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42543128"&gt;https://news.ycombinator.com/item?id=42543128&lt;/a&gt;.&lt;/p&gt; 
     &lt;p&gt;Posted 3 times with 1183 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The day Windows died</title>
-      <link>https://thomasbandt.com/the-day-windows-died</link>
-      <guid>https://thomasbandt.com/the-day-windows-died</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35415758"&gt;https://news.ycombinator.com/item?id=35415758&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1146 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub, fuck your name change</title>
-      <link>https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe</link>
-      <guid>https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=26487854"&gt;https://news.ycombinator.com/item?id=26487854&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 3353 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>YouTube is banning anti-vaccine activists and blocking all anti-vaccine content</title>
-      <link>https://www.washingtonpost.com/technology/2021/09/29/youtube-ban-joseph-mercola/</link>
-      <guid>https://www.washingtonpost.com/technology/2021/09/29/youtube-ban-joseph-mercola/</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28693060"&gt;https://news.ycombinator.com/item?id=28693060&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1408 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What's that touchscreen in my room?</title>
-      <link>https://laplab.me/posts/whats-that-touchscreen-in-my-room/</link>
-      <guid>https://laplab.me/posts/whats-that-touchscreen-in-my-room/</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39063242"&gt;https://news.ycombinator.com/item?id=39063242&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1890 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The pro-Israel information war</title>
-      <link>https://jackpoulson.substack.com/p/inside-the-pro-israel-information</link>
-      <guid>https://jackpoulson.substack.com/p/inside-the-pro-israel-information</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=38572675"&gt;https://news.ycombinator.com/item?id=38572675&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 6 times with 860 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Can’t send email more than 500 miles (2002)</title>
-      <link>https://web.mit.edu/jemorris/humor/500-miles</link>
-      <guid>https://web.mit.edu/jemorris/humor/500-miles</guid>
-      <pubDate>Tue, 06 Jan 2026 01:47:12 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37576633"&gt;https://news.ycombinator.com/item?id=37576633&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1164 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
