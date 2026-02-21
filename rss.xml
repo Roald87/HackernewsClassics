@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Parse, Don’t Validate</title>
-      <link>https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/</link>
-      <guid>https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=41031585"&gt;https://news.ycombinator.com/item?id=41031585&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 18 times with 398 median votes.&lt;/p&gt;</description>
+      <title>One Bad Apple</title>
+      <link>https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html</link>
+      <guid>https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28110159"&gt;https://news.ycombinator.com/item?id=28110159&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1484 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>“Play-to-Earn” and Bullshit Jobs</title>
-      <link>https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/</link>
-      <guid>https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=29716900"&gt;https://news.ycombinator.com/item?id=29716900&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1222 median votes.&lt;/p&gt;</description>
+      <title>How Discord Scaled Elixir to 5M Concurrent Users</title>
+      <link>https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b</link>
+      <guid>https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=19238221"&gt;https://news.ycombinator.com/item?id=19238221&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 5 times with 802 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Show HN: Memories – FOSS Google Photos alternative built for high performance</title>
-      <link>https://memories.gallery/</link>
-      <guid>https://memories.gallery/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39783223"&gt;https://news.ycombinator.com/item?id=39783223&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 797 median votes.&lt;/p&gt;</description>
+      <title>Void: Open-source Cursor alternative</title>
+      <link>https://github.com/voideditor/void</link>
+      <guid>https://github.com/voideditor/void</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43927926"&gt;https://news.ycombinator.com/item?id=43927926&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 6 times with 647.5 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Google Web Designer</title>
-      <link>https://www.google.com/webdesigner/</link>
-      <guid>https://www.google.com/webdesigner/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=13190824"&gt;https://news.ycombinator.com/item?id=13190824&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1126 median votes.&lt;/p&gt;</description>
+      <title>How to C in 2016</title>
+      <link>https://matt.sh/howto-c</link>
+      <guid>https://matt.sh/howto-c</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=10864176"&gt;https://news.ycombinator.com/item?id=10864176&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1145 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blocking Kiwifarms</title>
-      <link>https://blog.cloudflare.com/kiwifarms-blocked/</link>
-      <guid>https://blog.cloudflare.com/kiwifarms-blocked/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=32706673"&gt;https://news.ycombinator.com/item?id=32706673&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 994 median votes.&lt;/p&gt;</description>
+      <title>Screw it, I’ll host it myself</title>
+      <link>https://www.markozivanovic.com/screw-it-ill-host-it-myself/</link>
+      <guid>https://www.markozivanovic.com/screw-it-ill-host-it-myself/</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40617086"&gt;https://news.ycombinator.com/item?id=40617086&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1019 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Can’t send email more than 500 miles (2002)</title>
-      <link>https://web.mit.edu/jemorris/humor/500-miles</link>
-      <guid>https://web.mit.edu/jemorris/humor/500-miles</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37576633"&gt;https://news.ycombinator.com/item?id=37576633&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1164 median votes.&lt;/p&gt;</description>
+      <title>Conversations with a six-year-old on functional programming</title>
+      <link>https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/</link>
+      <guid>https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=22943749"&gt;https://news.ycombinator.com/item?id=22943749&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 5 times with 2074 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Germany plans to dim lights at night to save insects</title>
-      <link>https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR</link>
-      <guid>https://www.msn.com/en-us/news/technology/germany-plans-to-dim-lights-at-night-to-save-insects/ar-BB17BlkR</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=24071005"&gt;https://news.ycombinator.com/item?id=24071005&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1194 median votes.&lt;/p&gt;</description>
+      <title>Open-Sourcing our Firmware</title>
+      <link>https://frame.work/blog/open-sourcing-our-firmware</link>
+      <guid>https://frame.work/blog/open-sourcing-our-firmware</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=30027117"&gt;https://news.ycombinator.com/item?id=30027117&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1168 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Don’t Get Clever with Login Forms</title>
-      <link>http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/</link>
-      <guid>http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=19171402"&gt;https://news.ycombinator.com/item?id=19171402&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1124 median votes.&lt;/p&gt;</description>
+      <title>Memory Safe Languages in Android 13</title>
+      <link>https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html</link>
+      <guid>https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=33819940"&gt;https://news.ycombinator.com/item?id=33819940&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 6 times with 618 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bottles: GUI front end to run Windows software on Linux</title>
-      <link>https://usebottles.com/</link>
-      <guid>https://usebottles.com/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=36592930"&gt;https://news.ycombinator.com/item?id=36592930&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 8 times with 455.5 median votes.&lt;/p&gt;</description>
+      <title>Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game</title>
+      <link>https://airma.sh/</link>
+      <guid>https://airma.sh/</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=15892066"&gt;https://news.ycombinator.com/item?id=15892066&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1535 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>What's SAP?</title>
-      <link>https://retool.com/blog/erp-for-engineers/</link>
-      <guid>https://retool.com/blog/erp-for-engineers/</guid>
-      <pubDate>Fri, 20 Feb 2026 02:07:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=32776276"&gt;https://news.ycombinator.com/item?id=32776276&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 9 times with 1221 median votes.&lt;/p&gt;</description>
+      <title>What I Wish I'd Known About Equity Before Joining a Unicorn</title>
+      <link>https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d</link>
+      <guid>https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:39 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=13426494"&gt;https://news.ycombinator.com/item?id=13426494&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1382 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
