@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Open-Sourcing our Firmware</title>
-      <link>https://frame.work/blog/open-sourcing-our-firmware</link>
-      <guid>https://frame.work/blog/open-sourcing-our-firmware</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=30027117"&gt;https://news.ycombinator.com/item?id=30027117&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1168 median votes.&lt;/p&gt;</description>
+      <title>A half-hour to learn Rust</title>
+      <link>https://fasterthanli.me/articles/a-half-hour-to-learn-rust</link>
+      <guid>https://fasterthanli.me/articles/a-half-hour-to-learn-rust</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37236916"&gt;https://news.ycombinator.com/item?id=37236916&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 7 times with 1444 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Things we learned about LLMs in 2024</title>
-      <link>https://simonwillison.net/2024/Dec/31/llms-in-2024/</link>
-      <guid>https://simonwillison.net/2024/Dec/31/llms-in-2024/</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42560558"&gt;https://news.ycombinator.com/item?id=42560558&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 984 median votes.&lt;/p&gt;</description>
+      <title>VLC contributor living in Aleppo writing about the Paris attacks</title>
+      <link>https://mailman.videolan.org/pipermail/vlc-devel/2015-November/105002.html</link>
+      <guid>https://mailman.videolan.org/pipermail/vlc-devel/2015-November/105002.html</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=10580208"&gt;https://news.ycombinator.com/item?id=10580208&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1368 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Kiro: A new agentic IDE</title>
-      <link>https://kiro.dev/blog/introducing-kiro/</link>
-      <guid>https://kiro.dev/blog/introducing-kiro/</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44560662"&gt;https://news.ycombinator.com/item?id=44560662&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 1059 median votes.&lt;/p&gt;</description>
+      <title>Sunsetting Atom</title>
+      <link>https://github.blog/2022-06-08-sunsetting-atom/</link>
+      <guid>https://github.blog/2022-06-08-sunsetting-atom/</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=31668426"&gt;https://news.ycombinator.com/item?id=31668426&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 4 times with 1320 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ross Ulbricht granted a full pardon</title>
-      <link>https://twitter.com/Free_Ross/status/1881851923005165704</link>
-      <guid>https://twitter.com/Free_Ross/status/1881851923005165704</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42786962"&gt;https://news.ycombinator.com/item?id=42786962&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 4 times with 1864 median votes.&lt;/p&gt;</description>
+      <title>An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology</title>
+      <link>https://appleprivacyletter.com/</link>
+      <guid>https://appleprivacyletter.com/</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28085632"&gt;https://news.ycombinator.com/item?id=28085632&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1187 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sapling: A new source control system with Git-compatible client</title>
-      <link>https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/</link>
-      <guid>https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=41501215"&gt;https://news.ycombinator.com/item?id=41501215&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 7 times with 926 median votes.&lt;/p&gt;</description>
+      <title>UnGoogled Chromium: Chromium with enhanced privacy, control and transparency</title>
+      <link>https://github.com/Eloston/ungoogled-chromium</link>
+      <guid>https://github.com/Eloston/ungoogled-chromium</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=23444864"&gt;https://news.ycombinator.com/item?id=23444864&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 6 times with 688 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Can't you just right click?</title>
-      <link>https://lapcatsoftware.com/articles/unsigned.html</link>
-      <guid>https://lapcatsoftware.com/articles/unsigned.html</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37952134"&gt;https://news.ycombinator.com/item?id=37952134&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1169 median votes.&lt;/p&gt;</description>
+      <title>Understanding how Facebook disappeared from the internet</title>
+      <link>https://blog.cloudflare.com/october-2021-facebook-outage/</link>
+      <guid>https://blog.cloudflare.com/october-2021-facebook-outage/</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28752131"&gt;https://news.ycombinator.com/item?id=28752131&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1226 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Try This One Weird Trick Russian Hackers Hate</title>
-      <link>https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/</link>
-      <guid>https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44415233"&gt;https://news.ycombinator.com/item?id=44415233&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 6 times with 604 median votes.&lt;/p&gt;</description>
+      <title>Deno 1.0</title>
+      <link>https://deno.land/v1</link>
+      <guid>https://deno.land/v1</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=23172483"&gt;https://news.ycombinator.com/item?id=23172483&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 2081 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Animal Is Tired</title>
-      <link>http://www.robinhobb.com/blog/posts/38429</link>
-      <guid>http://www.robinhobb.com/blog/posts/38429</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=27100299"&gt;https://news.ycombinator.com/item?id=27100299&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1299 median votes.&lt;/p&gt;</description>
+      <title>The boring technology behind a one-person Internet company (2018)</title>
+      <link>https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b</link>
+      <guid>https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=20985875"&gt;https://news.ycombinator.com/item?id=20985875&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 2010 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Testcontainers</title>
-      <link>https://testcontainers.com/</link>
-      <guid>https://testcontainers.com/</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39531536"&gt;https://news.ycombinator.com/item?id=39531536&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 5 times with 719 median votes.&lt;/p&gt;</description>
+      <title>Jujutsu – A Git-compatible DVCS that is both simple and powerful</title>
+      <link>https://github.com/martinvonz/jj</link>
+      <guid>https://github.com/martinvonz/jj</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=36952796"&gt;https://news.ycombinator.com/item?id=36952796&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 8 times with 673 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Bus Ticket Theory of Genius</title>
-      <link>http://paulgraham.com/genius.html</link>
-      <guid>http://paulgraham.com/genius.html</guid>
-      <pubDate>Mon, 23 Mar 2026 02:23:11 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=36740821"&gt;https://news.ycombinator.com/item?id=36740821&lt;/a&gt;.&lt;/p&gt; 
-    &lt;p&gt;Posted 3 times with 1164 median votes.&lt;/p&gt;</description>
+      <title>The Heartbleed Bug</title>
+      <link>http://heartbleed.com/</link>
+      <guid>http://heartbleed.com/</guid>
+      <pubDate>Tue, 24 Mar 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=7548991"&gt;https://news.ycombinator.com/item?id=7548991&lt;/a&gt;.&lt;/p&gt; 
+    &lt;p&gt;Posted 3 times with 1768 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
