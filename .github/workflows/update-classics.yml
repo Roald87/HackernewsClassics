@@ -13,7 +13,7 @@ jobs:
       contents: write
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: Fetch classics from ClickHouse
       run: |
@@ -61,6 +61,6 @@ jobs:
         FORMAT TabSeparated
         " >> classics.tsv
 
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: update classics
