@@ -25,7 +25,7 @@ jobs:
           SELECT
             max(id)                      AS id,
             any(title)                   AS title,
-            url,
+            replaceRegexpOne(replaceRegexpOne(url, '^http://', 'https://'), '[?#]+$', '') AS url,
             COUNT(*)                     AS count,
             median(score)                AS median_score,
             COUNT(*) * median(score)     AS popularity
