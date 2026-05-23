@@ -1,0 +1,66 @@
+name: Update HN Classics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Fetch classics from ClickHouse
+      run: |
+        printf '# id\ttitle\turl\tcount\tmedian_score\tpopularity\n' > classics.tsv
+        curl -s --fail --max-time 120 'https://play.clickhouse.com/?user=play' \
+          --data-binary "
+        SELECT id, title, url, count, median_score, popularity
+        FROM (
+          SELECT
+            max(id)                      AS id,
+            any(title)                   AS title,
+            url,
+            COUNT(*)                     AS count,
+            median(score)                AS median_score,
+            COUNT(*) * median(score)     AS popularity
+          FROM hackernews_history
+          WHERE type = 'story'
+            AND url != ''
+            AND score >= 10
+            AND NOT (
+              url LIKE '%bbc.com%'
+              OR url LIKE '%bbc.co.uk%'
+              OR url LIKE '%nytimes.com%'
+              OR url LIKE '%apple.com%'
+              OR url LIKE '%openai.com%'
+              OR url LIKE '%tesla.com%'
+              OR url LIKE '%wired.com%'
+              OR url LIKE '%theverge.com%'
+              OR url LIKE '%thehill.com%'
+              OR url LIKE '%apnews.com%'
+              OR url LIKE '%mozilla.org%'
+              OR url LIKE '%businessweek.com%'
+              OR url LIKE '%bloomberg.com%'
+              OR url LIKE '%nbcnews.com%'
+              OR url LIKE '%reuters.com%'
+              OR url LIKE '%theatlantic.com%'
+              OR url LIKE '%techcrunch.com%'
+            )
+          GROUP BY url
+          HAVING count >= 3
+          ORDER BY popularity DESC
+          LIMIT 1000
+        )
+        ORDER BY id ASC
+        FORMAT TabSeparated
+        " >> classics.tsv
+
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: update classics

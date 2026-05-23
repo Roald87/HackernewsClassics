@@ -17,10 +17,10 @@ type RssItem =
 
 
 let description (row: string array) =
-    let link = $"https://news.ycombinator.com/item?id={row[1]}"
+    let link = $"https://news.ycombinator.com/item?id={row[0]}"
 
-    $"""<p>Comments most recent post: <a href="{link}">{link}</a>.</p> 
-    <p>Posted {row[4]} times with {row[5]} median votes.</p>"""
+    $"""<p>Comments most recent post: <a href="{link}">{link}</a>.</p>
+    <p>Posted {row[3]} times with {row[4]} median votes.</p>"""
 
 // load tab separated file and ignore the lines at the top that start with a #
 let classics =
@@ -29,8 +29,8 @@ let classics =
     |> Seq.map (fun line -> line.Split '\t')
     |> Seq.randomSample 10
     |> Seq.map (fun parts ->
-        { Title = parts.[2]
-          Link = parts.[3]
+        { Title = parts.[1]
+          Link = parts.[2]
           ReleaseDate = DateTimeOffset.Now
           Description = description parts })
     |> Seq.toList
