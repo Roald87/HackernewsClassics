@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Substack Notes Launched</title>
-      <link>https://on.substack.com/p/notes</link>
-      <guid>https://on.substack.com/p/notes</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35528315"&gt;https://news.ycombinator.com/item?id=35528315&lt;/a&gt;.&lt;/p&gt;
+      <title>Mental Models I Find Repeatedly Useful</title>
+      <link>https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d</link>
+      <guid>https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=18757895"&gt;https://news.ycombinator.com/item?id=18757895&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 622 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coinbase is reportedly selling geolocation data to ICE</title>
+      <link>https://theintercept.com/2022/06/29/crypto-coinbase-tracer-ice/</link>
+      <guid>https://theintercept.com/2022/06/29/crypto-coinbase-tracer-ice/</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=31932349"&gt;https://news.ycombinator.com/item?id=31932349&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 769 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Select * from cloud</title>
+      <link>https://steampipe.io/</link>
+      <guid>https://steampipe.io/</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=33034351"&gt;https://news.ycombinator.com/item?id=33034351&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 790 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Huginn: Create agents that monitor and act on your behalf</title>
+      <link>https://github.com/huginn/huginn</link>
+      <guid>https://github.com/huginn/huginn</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=30051701"&gt;https://news.ycombinator.com/item?id=30051701&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 786.5 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project Euler</title>
+      <link>https://projecteuler.net</link>
+      <guid>https://projecteuler.net</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45902898"&gt;https://news.ycombinator.com/item?id=45902898&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 566 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Music theory for nerds (2016)</title>
+      <link>https://eev.ee/blog/2016/09/15/music-theory-for-nerds/</link>
+      <guid>https://eev.ee/blog/2016/09/15/music-theory-for-nerds/</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=30358903"&gt;https://news.ycombinator.com/item?id=30358903&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 566.5 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Essence: Desktop operating system built from scratch</title>
+      <link>https://nakst.gitlab.io/essence</link>
+      <guid>https://nakst.gitlab.io/essence</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37671419"&gt;https://news.ycombinator.com/item?id=37671419&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 808.5 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Harris joins Vercel to work on Svelte full time</title>
+      <link>https://twitter.com/Rich_Harris/status/1458822051263823875</link>
+      <guid>https://twitter.com/Rich_Harris/status/1458822051263823875</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=29189467"&gt;https://news.ycombinator.com/item?id=29189467&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 907 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Google SRE book: Building Secure and Reliable Systems</title>
+      <link>https://landing.google.com/sre/books/</link>
+      <guid>https://landing.google.com/sre/books/</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=22815453"&gt;https://news.ycombinator.com/item?id=22815453&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1429 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lies we tell ourselves to keep using Golang</title>
+      <link>https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang</link>
+      <guid>https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang</guid>
+      <pubDate>Tue, 26 May 2026 00:51:26 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42243500"&gt;https://news.ycombinator.com/item?id=42243500&lt;/a&gt;.&lt;/p&gt;
     &lt;p&gt;Posted 3 times with 748 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>People kept working, became healthier while on basic income: report</title>
-      <link>https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729</link>
-      <guid>https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44599194"&gt;https://news.ycombinator.com/item?id=44599194&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 822 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>“Node.js is one of the worst things to happen to the software industry” (2012)</title>
-      <link>https://harmful.cat-v.org/software/node.js</link>
-      <guid>https://harmful.cat-v.org/software/node.js</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=15746307"&gt;https://news.ycombinator.com/item?id=15746307&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 624 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stable Diffusion is a big deal</title>
-      <link>https://simonwillison.net/2022/Aug/29/stable-diffusion/</link>
-      <guid>https://simonwillison.net/2022/Aug/29/stable-diffusion/</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=32636760"&gt;https://news.ycombinator.com/item?id=32636760&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 874 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Estimates that mineral levels in vegetables have dropped by up to 90% since 1914</title>
-      <link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/</link>
-      <guid>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=27654787"&gt;https://news.ycombinator.com/item?id=27654787&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 632 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Police playing music while being filmed, seemingly to trigger copyright filters</title>
-      <link>https://www.vice.com/en/article/bvxb94/is-this-beverly-hills-cop-playing-sublimes-santeria-to-avoid-being-livestreamed</link>
-      <guid>https://www.vice.com/en/article/bvxb94/is-this-beverly-hills-cop-playing-sublimes-santeria-to-avoid-being-livestreamed</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=26082303"&gt;https://news.ycombinator.com/item?id=26082303&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 969 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub Actions now supports CI/CD, free for public repositories</title>
-      <link>https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/</link>
-      <guid>https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=20646372"&gt;https://news.ycombinator.com/item?id=20646372&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 680 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Subroutine calls in the ancient world, before computers had stacks or heaps</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39913616"&gt;https://news.ycombinator.com/item?id=39913616&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 469.5 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CDC File Transfer</title>
-      <link>https://github.com/google/cdc-file-transfer</link>
-      <guid>https://github.com/google/cdc-file-transfer</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45433768"&gt;https://news.ycombinator.com/item?id=45433768&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 917 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>75% decline over 27 years in total flying insect biomass in protected areas</title>
-      <link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809</link>
-      <guid>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809</guid>
-      <pubDate>Mon, 25 May 2026 00:54:02 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35209657"&gt;https://news.ycombinator.com/item?id=35209657&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 901 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
