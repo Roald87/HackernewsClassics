@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>20 lines of code that beat A/B testing every time</title>
-      <link>https://stevehanov.ca/blog/index.php?id=132</link>
-      <guid>https://stevehanov.ca/blog/index.php?id=132</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42650954"&gt;https://news.ycombinator.com/item?id=42650954&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 545 median votes.&lt;/p&gt;</description>
+      <title>German ruling declares Google liable for false answers in AI Overviews</title>
+      <link>https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/</link>
+      <guid>https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48470248"&gt;https://news.ycombinator.com/item?id=48470248&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 1012 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>IncludeOS: Run your C++ code directly on virtual hardware</title>
-      <link>https://www.includeos.org/</link>
-      <guid>https://www.includeos.org/</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42445508"&gt;https://news.ycombinator.com/item?id=42445508&lt;/a&gt;.&lt;/p&gt;
+      <title>BPG Image format</title>
+      <link>https://bellard.org/bpg/</link>
+      <guid>https://bellard.org/bpg/</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=30712944"&gt;https://news.ycombinator.com/item?id=30712944&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 225.5 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game of Life, simulating itself, infinitely zoomable</title>
+      <link>https://oimo.io/works/life/</link>
+      <guid>https://oimo.io/works/life/</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=39799755"&gt;https://news.ycombinator.com/item?id=39799755&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1072 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why your website should be under 14kB in size</title>
+      <link>https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/</link>
+      <guid>https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44613625"&gt;https://news.ycombinator.com/item?id=44613625&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 504 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Pixel Artist Renounces Pixel Art</title>
+      <link>https://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/</link>
+      <guid>https://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=21903207"&gt;https://news.ycombinator.com/item?id=21903207&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 357 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Land of Lisp</title>
+      <link>https://landoflisp.com/</link>
+      <guid>https://landoflisp.com/</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=29855453"&gt;https://news.ycombinator.com/item?id=29855453&lt;/a&gt;.&lt;/p&gt;
     &lt;p&gt;Posted 5 times with 183 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>After Dark in CSS</title>
-      <link>https://www.bryanbraun.com/after-dark-css/</link>
-      <guid>https://www.bryanbraun.com/after-dark-css/</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35031545"&gt;https://news.ycombinator.com/item?id=35031545&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 308 median votes.&lt;/p&gt;</description>
+      <title>JuiceFS is a distributed POSIX file system built on top of Redis and S3</title>
+      <link>https://github.com/juicedata/juicefs</link>
+      <guid>https://github.com/juicedata/juicefs</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46637165"&gt;https://news.ycombinator.com/item?id=46637165&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 186 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mullvad exit IPs are surprisingly identifying</title>
-      <link>https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</link>
-      <guid>https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48143880"&gt;https://news.ycombinator.com/item?id=48143880&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 613 median votes.&lt;/p&gt;</description>
+      <title>JSON with Sqlite</title>
+      <link>https://www.sqlite.org/json1.html</link>
+      <guid>https://www.sqlite.org/json1.html</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37082941"&gt;https://news.ycombinator.com/item?id=37082941&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 311 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Amazon workers under pressure to up their AI usage are making up tasks</title>
-      <link>https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks</link>
-      <guid>https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48148337"&gt;https://news.ycombinator.com/item?id=48148337&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 400 median votes.&lt;/p&gt;</description>
+      <title>H.264 is Magic</title>
+      <link>https://sidbala.com/h-264-is-magic/</link>
+      <guid>https://sidbala.com/h-264-is-magic/</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40681306"&gt;https://news.ycombinator.com/item?id=40681306&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 680 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>You weren\'t meant to have a boss</title>
-      <link>https://paulgraham.com/boss.html</link>
-      <guid>https://paulgraham.com/boss.html</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48345282"&gt;https://news.ycombinator.com/item?id=48345282&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 202 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shepherd\'s Dog: A Game by Fable</title>
-      <link>https://koenvangilst.nl/lab/claude-fable-shepherds-dog</link>
-      <guid>https://koenvangilst.nl/lab/claude-fable-shepherds-dog</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48513728"&gt;https://news.ycombinator.com/item?id=48513728&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 176 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Saying goodbye to asm.js</title>
-      <link>https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html</link>
-      <guid>https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48206340"&gt;https://news.ycombinator.com/item?id=48206340&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 410 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Big tech\'s anti-labor playbook has come for Wikipedia</title>
-      <link>https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943</link>
-      <guid>https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48285592"&gt;https://news.ycombinator.com/item?id=48285592&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 579 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CRISPR tech selectively shreds cancer cells, including "undruggable" cancers</title>
-      <link>https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/</link>
-      <guid>https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/</guid>
-      <pubDate>Mon, 15 Jun 2026 01:02:24 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48505231"&gt;https://news.ycombinator.com/item?id=48505231&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 955.5 median votes.&lt;/p&gt;</description>
+      <title>Solidjs: Simple and performant reactivity for building user interfaces</title>
+      <link>https://www.solidjs.com/</link>
+      <guid>https://www.solidjs.com/</guid>
+      <pubDate>Tue, 16 Jun 2026 01:06:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=43734911"&gt;https://news.ycombinator.com/item?id=43734911&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 316 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
