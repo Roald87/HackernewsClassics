@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Can we have the day off?</title>
-      <link>https://mlsu.io/posts/day-off/</link>
-      <guid>https://mlsu.io/posts/day-off/</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48302745"&gt;https://news.ycombinator.com/item?id=48302745&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 6 times with 1415 median votes.&lt;/p&gt;</description>
+      <title>98.css – design system for building faithful recreations of Windows 98 UIs</title>
+      <link>https://jdan.github.io/98.css/</link>
+      <guid>https://jdan.github.io/98.css/</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42056918"&gt;https://news.ycombinator.com/item?id=42056918&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 606 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Wrong Abstraction</title>
-      <link>https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction</link>
-      <guid>https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=23739596"&gt;https://news.ycombinator.com/item?id=23739596&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 654 median votes.&lt;/p&gt;</description>
+      <title>What it feels like to work with Mythos</title>
+      <link>https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos</link>
+      <guid>https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48464140"&gt;https://news.ycombinator.com/item?id=48464140&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 365 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Across the US, people are dismantling and destroying Flock surveillance cameras</title>
-      <link>https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling</link>
-      <guid>https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47095134"&gt;https://news.ycombinator.com/item?id=47095134&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 467 median votes.&lt;/p&gt;</description>
+      <title>We stopped AI bot spam in our GitHub repo using Git\'s –author flag</title>
+      <link>https://archestra.ai/blog/only-responsible-ai</link>
+      <guid>https://archestra.ai/blog/only-responsible-ai</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48181125"&gt;https://news.ycombinator.com/item?id=48181125&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 501 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Jolla</title>
-      <link>https://jolla.com/</link>
-      <guid>https://jolla.com/</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46198320"&gt;https://news.ycombinator.com/item?id=46198320&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 734 median votes.&lt;/p&gt;</description>
+      <title>Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV</title>
+      <link>https://github.com/TomWright/dasel</link>
+      <guid>https://github.com/TomWright/dasel</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=41282495"&gt;https://news.ycombinator.com/item?id=41282495&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 346 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The time the x86 emulator team found code so bad they fixed it during emulation</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</link>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48550693"&gt;https://news.ycombinator.com/item?id=48550693&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 499 median votes.&lt;/p&gt;</description>
+      <title>.gitignore Isn\'t the only way to ignore files in Git</title>
+      <link>https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/</link>
+      <guid>https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48583356"&gt;https://news.ycombinator.com/item?id=48583356&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 582 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Gemini 3 Deep Think</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/</link>
-      <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46991240"&gt;https://news.ycombinator.com/item?id=46991240&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 1081 median votes.&lt;/p&gt;</description>
+      <title>Moving away from Tailwind, and learning to structure my CSS</title>
+      <link>https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/</link>
+      <guid>https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48158400"&gt;https://news.ycombinator.com/item?id=48158400&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 698 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Emacsification of Software</title>
-      <link>https://sockpuppet.org/blog/2026/05/12/emacsification/</link>
-      <guid>https://sockpuppet.org/blog/2026/05/12/emacsification/</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48118727"&gt;https://news.ycombinator.com/item?id=48118727&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 465 median votes.&lt;/p&gt;</description>
+      <title>I think nobody wants AI in Firefox, Mozilla</title>
+      <link>https://manualdousuario.net/en/mozilla-firefox-window-ai/</link>
+      <guid>https://manualdousuario.net/en/mozilla-firefox-window-ai/</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45926779"&gt;https://news.ycombinator.com/item?id=45926779&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1275 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Monodraw</title>
-      <link>https://monodraw.helftone.com/</link>
-      <guid>https://monodraw.helftone.com/</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45037904"&gt;https://news.ycombinator.com/item?id=45037904&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 470 median votes.&lt;/p&gt;</description>
+      <title>1-Bit Bonsai Image 4B Image Generation for Local Devices</title>
+      <link>https://prismml.com/news/bonsai-image-4b</link>
+      <guid>https://prismml.com/news/bonsai-image-4b</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48346257"&gt;https://news.ycombinator.com/item?id=48346257&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 464 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>RFC 3339 vs. ISO 8601</title>
-      <link>https://ijmacd.github.io/rfc3339-iso8601/</link>
-      <guid>https://ijmacd.github.io/rfc3339-iso8601/</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45155179"&gt;https://news.ycombinator.com/item?id=45155179&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 482 median votes.&lt;/p&gt;</description>
+      <title>Firewood Splitting Simulator</title>
+      <link>https://screen.toys/firewood/</link>
+      <guid>https://screen.toys/firewood/</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48471638"&gt;https://news.ycombinator.com/item?id=48471638&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 991 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Building Your Color Palette</title>
-      <link>https://refactoringui.com/previews/building-your-color-palette/</link>
-      <guid>https://refactoringui.com/previews/building-your-color-palette/</guid>
-      <pubDate>Thu, 25 Jun 2026 00:54:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=25180180"&gt;https://news.ycombinator.com/item?id=25180180&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 1019 median votes.&lt;/p&gt;</description>
+      <title>SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims</title>
+      <link>https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/</link>
+      <guid>https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/</guid>
+      <pubDate>Fri, 26 Jun 2026 00:56:08 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48317093"&gt;https://news.ycombinator.com/item?id=48317093&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 272 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
