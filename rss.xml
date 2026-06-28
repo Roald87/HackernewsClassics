@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>DeepSeek 4 Flash local inference engine for Metal</title>
-      <link>https://github.com/antirez/ds4</link>
-      <guid>https://github.com/antirez/ds4</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48050751"&gt;https://news.ycombinator.com/item?id=48050751&lt;/a&gt;.&lt;/p&gt;
+      <title>Rewrite Bun in Rust has been merged</title>
+      <link>https://github.com/oven-sh/bun/pull/30412</link>
+      <guid>https://github.com/oven-sh/bun/pull/30412</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48132488"&gt;https://news.ycombinator.com/item?id=48132488&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 708 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>S&amp;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/</link>
+      <guid>https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48421442"&gt;https://news.ycombinator.com/item?id=48421442&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1484 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sonic Pi: Compose electronic music with code</title>
+      <link>https://sonic-pi.net/</link>
+      <guid>https://sonic-pi.net/</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=33516405"&gt;https://news.ycombinator.com/item?id=33516405&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 280 median votes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: Smol machines – subsecond coldstart, portable virtual machines</title>
+      <link>https://github.com/smol-machines/smolvm</link>
+      <guid>https://github.com/smol-machines/smolvm</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47808268"&gt;https://news.ycombinator.com/item?id=47808268&lt;/a&gt;.&lt;/p&gt;
     &lt;p&gt;Posted 3 times with 499 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Is Mozilla trying hard to kill itself?</title>
-      <link>https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself</link>
-      <guid>https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46299934"&gt;https://news.ycombinator.com/item?id=46299934&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 933 median votes.&lt;/p&gt;</description>
+      <title>Open-Source Home Automation</title>
+      <link>https://www.home-assistant.io/</link>
+      <guid>https://www.home-assistant.io/</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=28544835"&gt;https://news.ycombinator.com/item?id=28544835&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 715 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Outsourcing plus local AI will soon become more economical vs. frontier labs</title>
-      <link>https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/</link>
-      <guid>https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48278610"&gt;https://news.ycombinator.com/item?id=48278610&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 323 median votes.&lt;/p&gt;</description>
+      <title>Memory has grown to nearly two-thirds of AI chip component costs</title>
+      <link>https://epoch.ai/data-insights/ai-chip-component-cost-shares</link>
+      <guid>https://epoch.ai/data-insights/ai-chip-component-cost-shares</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48258684"&gt;https://news.ycombinator.com/item?id=48258684&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 445 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenRA – Classic strategy games rebuilt for the modern era</title>
-      <link>https://www.openra.net/</link>
-      <guid>https://www.openra.net/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42823667"&gt;https://news.ycombinator.com/item?id=42823667&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 610 median votes.&lt;/p&gt;</description>
+      <title>Life is Short</title>
+      <link>https://paulgraham.com/vb.html</link>
+      <guid>https://paulgraham.com/vb.html</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=34124726"&gt;https://news.ycombinator.com/item?id=34124726&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 466 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Taking a walk may lead to more creativity than sitting, study finds (2014)</title>
-      <link>https://www.apa.org/news/press/releases/2014/04/creativity-walk</link>
-      <guid>https://www.apa.org/news/press/releases/2014/04/creativity-walk</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48272670"&gt;https://news.ycombinator.com/item?id=48272670&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 616 median votes.&lt;/p&gt;</description>
+      <title>The Pirate Bay Remains Resilient, 20 Years After the Raid</title>
+      <link>https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/</link>
+      <guid>https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48357154"&gt;https://news.ycombinator.com/item?id=48357154&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 634 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The most copied StackOverflow snippet of all time is flawed (2019)</title>
-      <link>https://programming.guide/worlds-most-copied-so-snippet.html</link>
-      <guid>https://programming.guide/worlds-most-copied-so-snippet.html</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=37674139"&gt;https://news.ycombinator.com/item?id=37674139&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 292 median votes.&lt;/p&gt;</description>
+      <title>Claude Code refuses requests or charges extra if your commits mention "OpenClaw"</title>
+      <link>https://twitter.com/theo/status/2049645973350363168</link>
+      <guid>https://twitter.com/theo/status/2049645973350363168</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47963204"&gt;https://news.ycombinator.com/item?id=47963204&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 1349 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Software engineering may no longer be a lifetime career</title>
-      <link>https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</link>
-      <guid>https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48095550"&gt;https://news.ycombinator.com/item?id=48095550&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 6 times with 259 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>City Roads: A tool to draw all roads in a city at once</title>
-      <link>https://anvaka.github.io/city-roads/</link>
-      <guid>https://anvaka.github.io/city-roads/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42481206"&gt;https://news.ycombinator.com/item?id=42481206&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 471 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The radix 2^51 trick (2017)</title>
-      <link>https://www.chosenplaintext.ca/articles/radix-2-51-trick.html</link>
-      <guid>https://www.chosenplaintext.ca/articles/radix-2-51-trick.html</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44132673"&gt;https://news.ycombinator.com/item?id=44132673&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 431 median votes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Denmark to raise retirement age to 70</title>
-      <link>https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/</link>
-      <guid>https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44088957"&gt;https://news.ycombinator.com/item?id=44088957&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 473 median votes.&lt;/p&gt;</description>
+      <title>Malicious npm packages detected across Red Hat Cloud Services</title>
+      <link>https://github.com/RedHatInsights/javascript-clients/issues/492</link>
+      <guid>https://github.com/RedHatInsights/javascript-clients/issues/492</guid>
+      <pubDate>Sun, 28 Jun 2026 00:55:48 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48356625"&gt;https://news.ycombinator.com/item?id=48356625&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 774.5 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
