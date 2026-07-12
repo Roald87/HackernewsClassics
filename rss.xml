@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>Don\'t use Hadoop when your data isn\'t that big</title>
-      <link>https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html</link>
-      <guid>https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=14401399"&gt;https://news.ycombinator.com/item?id=14401399&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 598 median votes.&lt;/p&gt;</description>
+      <title>Stop Using JWTs</title>
+      <link>https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452</link>
+      <guid>https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48558147"&gt;https://news.ycombinator.com/item?id=48558147&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 492 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Data Structure Visualization</title>
-      <link>https://www.cs.usfca.edu/~galles/visualization/Algorithms.html</link>
-      <guid>https://www.cs.usfca.edu/~galles/visualization/Algorithms.html</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=27745184"&gt;https://news.ycombinator.com/item?id=27745184&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 6 times with 300 median votes.&lt;/p&gt;</description>
+      <title>Conversations with a six-year-old on functional programming</title>
+      <link>https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/</link>
+      <guid>https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48527377"&gt;https://news.ycombinator.com/item?id=48527377&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 580 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>HERMES.md in commit messages causes requests to route to extra usage billing</title>
-      <link>https://github.com/anthropics/claude-code/issues/53262</link>
-      <guid>https://github.com/anthropics/claude-code/issues/53262</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47952722"&gt;https://news.ycombinator.com/item?id=47952722&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 1251 median votes.&lt;/p&gt;</description>
+      <title>My productivity app for the past 12 years has been a single .txt file (2020)</title>
+      <link>https://jeffhuang.com/productivity_text_file/</link>
+      <guid>https://jeffhuang.com/productivity_text_file/</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46236037"&gt;https://news.ycombinator.com/item?id=46236037&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 523 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>GLM-5.2 – How to Run Locally</title>
-      <link>https://unsloth.ai/docs/models/glm-5.2</link>
-      <guid>https://unsloth.ai/docs/models/glm-5.2</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48636377"&gt;https://news.ycombinator.com/item?id=48636377&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 615.5 median votes.&lt;/p&gt;</description>
+      <title>Understanding the bin, sbin, usr/bin, usr/sbin split (2010)</title>
+      <link>https://lists.busybox.net/pipermail/busybox/2010-December/074114.html</link>
+      <guid>https://lists.busybox.net/pipermail/busybox/2010-December/074114.html</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46487921"&gt;https://news.ycombinator.com/item?id=46487921&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 6 times with 388 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Anthropic\'s open-source framework for AI-powered vulnerability discovery</title>
-      <link>https://github.com/anthropics/defending-code-reference-harness</link>
-      <guid>https://github.com/anthropics/defending-code-reference-harness</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48403980"&gt;https://news.ycombinator.com/item?id=48403980&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 539 median votes.&lt;/p&gt;</description>
+      <title>Htop Explained</title>
+      <link>https://peteris.rocks/blog/htop/</link>
+      <guid>https://peteris.rocks/blog/htop/</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48784777"&gt;https://news.ycombinator.com/item?id=48784777&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 6 times with 615 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks</title>
-      <link>https://github.com/antoinezambelli/forge</link>
-      <guid>https://github.com/antoinezambelli/forge</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48192383"&gt;https://news.ycombinator.com/item?id=48192383&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 687 median votes.&lt;/p&gt;</description>
+      <title>Minecraft removing obfuscation in Java Edition</title>
+      <link>https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition</link>
+      <guid>https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45748879"&gt;https://news.ycombinator.com/item?id=45748879&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1027 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI</title>
-      <link>https://simonwillison.net/2025/Dec/12/openai-skills/</link>
-      <guid>https://simonwillison.net/2025/Dec/12/openai-skills/</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46250332"&gt;https://news.ycombinator.com/item?id=46250332&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 587 median votes.&lt;/p&gt;</description>
+      <title>A web page that shows you everything the browser told it without asking</title>
+      <link>https://sinceyouarrived.world/taken</link>
+      <guid>https://sinceyouarrived.world/taken</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48062178"&gt;https://news.ycombinator.com/item?id=48062178&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 625 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tracing a powerful GNSS interference source over Europe</title>
-      <link>https://arxiv.org/abs/2606.03673</link>
-      <guid>https://arxiv.org/abs/2606.03673</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48409664"&gt;https://news.ycombinator.com/item?id=48409664&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 440 median votes.&lt;/p&gt;</description>
+      <title>Mining Bitcoin with pencil and paper: 0.67 hashes per day</title>
+      <link>https://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html</link>
+      <guid>https://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=41916574"&gt;https://news.ycombinator.com/item?id=41916574&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 523 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>\'Lavender\': The AI machine directing Israel\'s bombing in Gaza</title>
-      <link>https://www.972mag.com/lavender-ai-israeli-army-gaza/</link>
-      <guid>https://www.972mag.com/lavender-ai-israeli-army-gaza/</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45215722"&gt;https://news.ycombinator.com/item?id=45215722&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 1418 median votes.&lt;/p&gt;</description>
+      <title>Leanstral 1.5: Proof Abundance for All</title>
+      <link>https://mistral.ai/news/leanstral-1-5/</link>
+      <guid>https://mistral.ai/news/leanstral-1-5/</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48780801"&gt;https://news.ycombinator.com/item?id=48780801&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 374 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Polymarket has flooded social media with deceptive videos by paid creators</title>
-      <link>https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2</link>
-      <guid>https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:17 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48614715"&gt;https://news.ycombinator.com/item?id=48614715&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 468 median votes.&lt;/p&gt;</description>
+      <title>Zed 1.0</title>
+      <link>https://zed.dev/blog/zed-1-0</link>
+      <guid>https://zed.dev/blog/zed-1-0</guid>
+      <pubDate>Sun, 12 Jul 2026 00:39:31 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47949027"&gt;https://news.ycombinator.com/item?id=47949027&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 2153 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
