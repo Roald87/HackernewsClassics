@@ -17,7 +17,6 @@ jobs:
 
     - name: Fetch classics from ClickHouse
       run: |
-        printf '# id\ttitle\turl\tcount\tmedian_score\tpopularity\n' > classics.tsv
         curl -s --fail --max-time 120 'https://play.clickhouse.com/?user=play' \
           --data-binary "
         SELECT id, title, url, count, median_score, popularity
@@ -58,7 +57,7 @@ jobs:
           LIMIT 1000
         )
         ORDER BY id ASC
-        FORMAT TabSeparated
+        FORMAT TabSeparatedRawWithNames
         " >> classics.tsv
 
     - uses: stefanzweifel/git-auto-commit-action@v7
