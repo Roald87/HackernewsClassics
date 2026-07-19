@@ -8,13 +8,11 @@ open System
 open System.IO
 open System.Xml.Linq
 
-
 type RssItem =
     { Title: string
       Link: string
       ReleaseDate: DateTimeOffset
       Description: string }
-
 
 let description (row: string array) =
     let link = $"https://news.ycombinator.com/item?id={row[0]}"
@@ -22,13 +20,15 @@ let description (row: string array) =
     $"""<p>Comments most recent post: <a href="{link}">{link}</a>.</p>
     <p>Posted {row[3]} times with {row[4]} median votes.</p>"""
 
-// load tab separated file and ignore the lines at the top that start with a #
+let header = 1
+
 let classics =
     File.ReadAllLines "classics.tsv"
-    |> Seq.skip 1 // skip header
-    |> Seq.map (fun line -> line.Split '\t')
+    |> Seq.skip header
     |> Seq.randomSample 10
-    |> Seq.map (fun parts ->
+    |> Seq.map (fun line ->
+        let parts = line.Split '\t'
+
         { Title = parts.[1]
           Link = parts.[2]
           ReleaseDate = DateTimeOffset.Now
