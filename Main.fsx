@@ -25,7 +25,7 @@ let description (row: string array) =
 // load tab separated file and ignore the lines at the top that start with a #
 let classics =
     File.ReadAllLines "classics.tsv"
-    |> Seq.filter (fun line -> not (line.StartsWith "#"))
+    |> Seq.skip 1 // skip header
     |> Seq.map (fun line -> line.Split '\t')
     |> Seq.randomSample 10
     |> Seq.map (fun parts ->

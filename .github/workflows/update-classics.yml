@@ -58,7 +58,7 @@ jobs:
         )
         ORDER BY id ASC
         FORMAT TabSeparatedRawWithNames
-        " >> classics.tsv
+        " > classics.tsv
 
     - uses: stefanzweifel/git-auto-commit-action@v7
       with:
