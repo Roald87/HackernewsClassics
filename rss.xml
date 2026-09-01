@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>What xAI's Grok build CLI sends to xAI: A wire-level analysis</title>
-      <link>https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</link>
-      <guid>https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48877371"&gt;https://news.ycombinator.com/item?id=48877371&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 539 median votes.&lt;/p&gt;</description>
+      <title>PYX: The next step in Python packaging</title>
+      <link>https://astral.sh/blog/introducing-pyx</link>
+      <guid>https://astral.sh/blog/introducing-pyx</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=44892209"&gt;https://news.ycombinator.com/item?id=44892209&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 755 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Everything I own, owned</title>
-      <link>https://schlarp.com/posts/everything-i-own-owned/</link>
-      <guid>https://schlarp.com/posts/everything-i-own-owned/</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49413320"&gt;https://news.ycombinator.com/item?id=49413320&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 1442 median votes.&lt;/p&gt;</description>
+      <title>The Importance of Deep Work and the 30-Hour Method for Learning a New Skill</title>
+      <link>https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/</link>
+      <guid>https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=23845575"&gt;https://news.ycombinator.com/item?id=23845575&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1331 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>UEFA and its national associations will not participate in FIFA competitions</title>
-      <link>https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</link>
-      <guid>https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49113929"&gt;https://news.ycombinator.com/item?id=49113929&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 6 times with 1235 median votes.&lt;/p&gt;</description>
+      <title>How I ship projects at big tech companies</title>
+      <link>https://www.seangoedecke.com/how-to-ship/</link>
+      <guid>https://www.seangoedecke.com/how-to-ship/</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=42111031"&gt;https://news.ycombinator.com/item?id=42111031&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 1425 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Math Basics for Computer Science and Machine Learning [pdf]</title>
-      <link>https://www.cis.upenn.edu/~jean/math-basics.pdf</link>
-      <guid>https://www.cis.upenn.edu/~jean/math-basics.pdf</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=20570025"&gt;https://news.ycombinator.com/item?id=20570025&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 883 median votes.&lt;/p&gt;</description>
+      <title>Meta Llama 3</title>
+      <link>https://llama.meta.com/llama3/</link>
+      <guid>https://llama.meta.com/llama3/</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40077533"&gt;https://news.ycombinator.com/item?id=40077533&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 2199 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>GigaToken: ~1000x faster Language model tokenization</title>
-      <link>https://github.com/marcelroed/gigatoken/</link>
-      <guid>https://github.com/marcelroed/gigatoken/</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49010167"&gt;https://news.ycombinator.com/item?id=49010167&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 620 median votes.&lt;/p&gt;</description>
+      <title>A Git story: Not so fun this time</title>
+      <link>https://blog.brachiosoft.com/en/posts/git/</link>
+      <guid>https://blog.brachiosoft.com/en/posts/git/</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46481883"&gt;https://news.ycombinator.com/item?id=46481883&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 578 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bend: a high-level language that runs on GPUs (via HVM2)</title>
-      <link>https://github.com/HigherOrderCO/Bend</link>
-      <guid>https://github.com/HigherOrderCO/Bend</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40390287"&gt;https://news.ycombinator.com/item?id=40390287&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 1041 median votes.&lt;/p&gt;</description>
+      <title>Facebook is misleading Indians with its full-page ads about Free Basics</title>
+      <link>https://www.linkedin.com/pulse/facebook-misleading-indians-its-full-page-ads-free-basics-murthy</link>
+      <guid>https://www.linkedin.com/pulse/facebook-misleading-indians-its-full-page-ads-free-basics-murthy</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=10791198"&gt;https://news.ycombinator.com/item?id=10791198&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 804 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hardest problem in computer science: centering things</title>
-      <link>https://tonsky.me/blog/centering/</link>
-      <guid>https://tonsky.me/blog/centering/</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40069599"&gt;https://news.ycombinator.com/item?id=40069599&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 1419 median votes.&lt;/p&gt;</description>
+      <title>Just let me select text</title>
+      <link>https://aartaka.me/select-text.html</link>
+      <guid>https://aartaka.me/select-text.html</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45360475"&gt;https://news.ycombinator.com/item?id=45360475&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 875 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>People inside Microsoft are fighting to drop mandatory Microsoft Account</title>
-      <link>https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup</link>
-      <guid>https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47542695"&gt;https://news.ycombinator.com/item?id=47542695&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 764 median votes.&lt;/p&gt;</description>
+      <title>Tailscale didn't stop the Hugging Face intrusion</title>
+      <link>https://tailscale.com/blog/hugging-face-intrusion</link>
+      <guid>https://tailscale.com/blog/hugging-face-intrusion</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49127306"&gt;https://news.ycombinator.com/item?id=49127306&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 6 times with 627 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dr. Seuss books deemed offensive will be delisted from eBay</title>
-      <link>https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201</link>
-      <guid>https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=26347654"&gt;https://news.ycombinator.com/item?id=26347654&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 881 median votes.&lt;/p&gt;</description>
+      <title>EU Parliament greenlights Chat Control 1.0</title>
+      <link>https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/</link>
+      <guid>https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48843923"&gt;https://news.ycombinator.com/item?id=48843923&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1636 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Discovery Loop</title>
-      <link>https://www.discoveryloop.com/</link>
-      <guid>https://www.discoveryloop.com/</guid>
-      <pubDate>Mon, 31 Aug 2026 04:01:21 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49184960"&gt;https://news.ycombinator.com/item?id=49184960&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 953.5 median votes.&lt;/p&gt;</description>
+      <title>Building and shipping Mac and iOS apps without opening Xcode</title>
+      <link>https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/</link>
+      <guid>https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/</guid>
+      <pubDate>Tue, 01 Sep 2026 03:51:51 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48896665"&gt;https://news.ycombinator.com/item?id=48896665&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 555 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
