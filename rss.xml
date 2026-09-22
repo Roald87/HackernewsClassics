@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>RavynOS – Finesse of macOS, freedom of FreeBSD</title>
-      <link>https://ravynos.com/</link>
-      <guid>https://ravynos.com/</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49511534"&gt;https://news.ycombinator.com/item?id=49511534&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 769 median votes.&lt;/p&gt;</description>
+      <title>TypeScript 7</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/</link>
+      <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48833715"&gt;https://news.ycombinator.com/item?id=48833715&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 720 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>I run multiple $10K MRR companies on a $20/month tech stack</title>
-      <link>https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack</link>
-      <guid>https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47736555"&gt;https://news.ycombinator.com/item?id=47736555&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 980 median votes.&lt;/p&gt;</description>
+      <title>Notes on Managing ADHD</title>
+      <link>https://borretti.me/article/notes-on-managing-adhd</link>
+      <guid>https://borretti.me/article/notes-on-managing-adhd</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45083134"&gt;https://news.ycombinator.com/item?id=45083134&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 633 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Google restricting Google AI Pro/Ultra subscribers for using OpenClaw</title>
-      <link>https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778</link>
-      <guid>https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47115805"&gt;https://news.ycombinator.com/item?id=47115805&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 802 median votes.&lt;/p&gt;</description>
+      <title>Go ahead, self-host Postgres</title>
+      <link>https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1</link>
+      <guid>https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46336947"&gt;https://news.ycombinator.com/item?id=46336947&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 683 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Delete FROM users WHERE location = 'Iran';</title>
-      <link>https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4</link>
-      <guid>https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45343108"&gt;https://news.ycombinator.com/item?id=45343108&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 941 median votes.&lt;/p&gt;</description>
+      <title>Google changes its search box</title>
+      <link>https://blog.google/products-and-platforms/products/search/search-io-2026/</link>
+      <guid>https://blog.google/products-and-platforms/products/search/search-io-2026/</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48197370"&gt;https://news.ycombinator.com/item?id=48197370&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 701 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Rust in the kernel is no longer experimental</title>
-      <link>https://lwn.net/Articles/1049831/</link>
-      <guid>https://lwn.net/Articles/1049831/</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46213585"&gt;https://news.ycombinator.com/item?id=46213585&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 962 median votes.&lt;/p&gt;</description>
+      <title>Caveman: Why use many token when few token do trick</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <guid>https://github.com/JuliusBrussee/caveman</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47647455"&gt;https://news.ycombinator.com/item?id=47647455&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 904 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>If coding has been solved, why does software keep getting worse?</title>
-      <link>https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/</link>
-      <guid>https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49033004"&gt;https://news.ycombinator.com/item?id=49033004&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 907 median votes.&lt;/p&gt;</description>
+      <title>OpenCode – Open source AI coding agent</title>
+      <link>https://opencode.ai/</link>
+      <guid>https://opencode.ai/</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47460525"&gt;https://news.ycombinator.com/item?id=47460525&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 6 times with 1274 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Immich – High performance self-hosted photo and video management</title>
-      <link>https://github.com/immich-app/immich</link>
-      <guid>https://github.com/immich-app/immich</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45165684"&gt;https://news.ycombinator.com/item?id=45165684&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 565 median votes.&lt;/p&gt;</description>
+      <title>Leaked OpenAI documents reveal aggressive tactics toward former employees</title>
+      <link>https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees</link>
+      <guid>https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40447431"&gt;https://news.ycombinator.com/item?id=40447431&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1791 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI should elevate your thinking, not replace it</title>
-      <link>https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/</link>
-      <guid>https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47913650"&gt;https://news.ycombinator.com/item?id=47913650&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 868 median votes.&lt;/p&gt;</description>
+      <title>Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes</title>
+      <link>https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html</link>
+      <guid>https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48392004"&gt;https://news.ycombinator.com/item?id=48392004&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 834 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Show HN: 18 Words</title>
-      <link>https://18words.com/</link>
-      <guid>https://18words.com/</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48845049"&gt;https://news.ycombinator.com/item?id=48845049&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 1160 median votes.&lt;/p&gt;</description>
+      <title>enclose.horse</title>
+      <link>https://enclose.horse/</link>
+      <guid>https://enclose.horse/</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46509211"&gt;https://news.ycombinator.com/item?id=46509211&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1217 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenBSD will shut down if we do not have the funding to keep the lights on</title>
-      <link>https://marc.info/?l=openbsd-misc&amp;m=138972987203440&amp;w=2</link>
-      <guid>https://marc.info/?l=openbsd-misc&amp;m=138972987203440&amp;w=2</guid>
-      <pubDate>Mon, 21 Sep 2026 03:38:03 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=7069889"&gt;https://news.ycombinator.com/item?id=7069889&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 825 median votes.&lt;/p&gt;</description>
+      <title>Meta plans to lay off 10k employees</title>
+      <link>https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/</link>
+      <guid>https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/</guid>
+      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35150909"&gt;https://news.ycombinator.com/item?id=35150909&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1022 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
