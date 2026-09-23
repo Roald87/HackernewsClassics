@@ -6,84 +6,84 @@
   <language>en-us</language>
   <channel>
     <item>
-      <title>TypeScript 7</title>
-      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/</link>
-      <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48833715"&gt;https://news.ycombinator.com/item?id=48833715&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 720 median votes.&lt;/p&gt;</description>
+      <title>How LLMs work</title>
+      <link>https://www.0xkato.xyz/how-llms-actually-work/</link>
+      <guid>https://www.0xkato.xyz/how-llms-actually-work/</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48389360"&gt;https://news.ycombinator.com/item?id=48389360&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 948 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Notes on Managing ADHD</title>
-      <link>https://borretti.me/article/notes-on-managing-adhd</link>
-      <guid>https://borretti.me/article/notes-on-managing-adhd</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=45083134"&gt;https://news.ycombinator.com/item?id=45083134&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 633 median votes.&lt;/p&gt;</description>
+      <title>Kagi added a setting for removing paywalled links from search results</title>
+      <link>https://kagi.com/changelog#11296</link>
+      <guid>https://kagi.com/changelog#11296</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49388154"&gt;https://news.ycombinator.com/item?id=49388154&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 1275 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Go ahead, self-host Postgres</title>
-      <link>https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1</link>
-      <guid>https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46336947"&gt;https://news.ycombinator.com/item?id=46336947&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 4 times with 683 median votes.&lt;/p&gt;</description>
+      <title>Stable Diffusion is a big deal</title>
+      <link>https://simonwillison.net/2022/Aug/29/stable-diffusion/</link>
+      <guid>https://simonwillison.net/2022/Aug/29/stable-diffusion/</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=32636760"&gt;https://news.ycombinator.com/item?id=32636760&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 874 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Google changes its search box</title>
-      <link>https://blog.google/products-and-platforms/products/search/search-io-2026/</link>
-      <guid>https://blog.google/products-and-platforms/products/search/search-io-2026/</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48197370"&gt;https://news.ycombinator.com/item?id=48197370&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 701 median votes.&lt;/p&gt;</description>
+      <title>Facebook Stored Hundreds of Millions of User Passwords in Plain Text for Years</title>
+      <link>https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/</link>
+      <guid>https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=19453359"&gt;https://news.ycombinator.com/item?id=19453359&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 1252 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Caveman: Why use many token when few token do trick</title>
-      <link>https://github.com/JuliusBrussee/caveman</link>
-      <guid>https://github.com/JuliusBrussee/caveman</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47647455"&gt;https://news.ycombinator.com/item?id=47647455&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 5 times with 904 median votes.&lt;/p&gt;</description>
+      <title>Creepy Crawlies</title>
+      <link>https://people.kernel.org/monsieuricon/creepy-crawlies</link>
+      <guid>https://people.kernel.org/monsieuricon/creepy-crawlies</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49496842"&gt;https://news.ycombinator.com/item?id=49496842&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 5 times with 1246 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenCode – Open source AI coding agent</title>
-      <link>https://opencode.ai/</link>
-      <guid>https://opencode.ai/</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47460525"&gt;https://news.ycombinator.com/item?id=47460525&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 6 times with 1274 median votes.&lt;/p&gt;</description>
+      <title>Open source AI is the path forward</title>
+      <link>https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/</link>
+      <guid>https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=41046773"&gt;https://news.ycombinator.com/item?id=41046773&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 2360 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Leaked OpenAI documents reveal aggressive tactics toward former employees</title>
-      <link>https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees</link>
-      <guid>https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=40447431"&gt;https://news.ycombinator.com/item?id=40447431&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 1791 median votes.&lt;/p&gt;</description>
+      <title>California lawmakers unanimously pass Linux exemption from age-verification law</title>
+      <link>https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</link>
+      <guid>https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49495372"&gt;https://news.ycombinator.com/item?id=49495372&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 781.5 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes</title>
-      <link>https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html</link>
-      <guid>https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48392004"&gt;https://news.ycombinator.com/item?id=48392004&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 834 median votes.&lt;/p&gt;</description>
+      <title>The August 17 outage</title>
+      <link>https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</link>
+      <guid>https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=49378957"&gt;https://news.ycombinator.com/item?id=49378957&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 643 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>enclose.horse</title>
-      <link>https://enclose.horse/</link>
-      <guid>https://enclose.horse/</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=46509211"&gt;https://news.ycombinator.com/item?id=46509211&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 1217 median votes.&lt;/p&gt;</description>
+      <title>HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88</title>
+      <link>https://danunparsed.com/p/hackerrank-open-source-ats</link>
+      <guid>https://danunparsed.com/p/hackerrank-open-source-ats</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=48713832"&gt;https://news.ycombinator.com/item?id=48713832&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 4 times with 1032 median votes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Meta plans to lay off 10k employees</title>
-      <link>https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/</link>
-      <guid>https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/</guid>
-      <pubDate>Tue, 22 Sep 2026 03:36:35 GMT</pubDate>
-      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=35150909"&gt;https://news.ycombinator.com/item?id=35150909&lt;/a&gt;.&lt;/p&gt;
-    &lt;p&gt;Posted 3 times with 1022 median votes.&lt;/p&gt;</description>
+      <title>ChatGPT won't let you type until Cloudflare reads your React state</title>
+      <link>https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/</link>
+      <guid>https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/</guid>
+      <pubDate>Wed, 23 Sep 2026 03:36:20 GMT</pubDate>
+      <description>&lt;p&gt;Comments most recent post: &lt;a href="https://news.ycombinator.com/item?id=47566865"&gt;https://news.ycombinator.com/item?id=47566865&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Posted 3 times with 986 median votes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
